@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001843481</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018282371</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20140603</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20160520</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">105094772X</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">105094772X</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB105094772X</subfield>
+          </datafield>
+          <controlfield tag="030">a|zur||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-NW</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">m|||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">464</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">829</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Brandes, Holger</subfield>
+            <subfield code="d">1952-</subfield>
+            <subfield code="9">(DE-588)131374877</subfield>
+          </datafield>
+          <datafield tag="104" ind1="a" ind2="1">
+            <subfield code="p">Andrä, Markus</subfield>
+            <subfield code="9">(DE-588)1081557338</subfield>
+          </datafield>
+          <datafield tag="108" ind1="a" ind2="1">
+            <subfield code="p">Röseler, Wenke</subfield>
+            <subfield code="9">(DE-588)143482793</subfield>
+          </datafield>
+          <datafield tag="112" ind1="a" ind2="1">
+            <subfield code="p">Schneider-Andrich, Petra</subfield>
+            <subfield code="9">(DE-588)1017697248</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Macht das Geschlecht einen Unterschied?</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">Ergebnisse der "Tandem-Studie" zu professionellem Erziehungsverhalten von Frauen und Männern</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Holger Brandes, Markus Andrä, Wenke Röseler, Petra Schneider-Andrich</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Opladen ; Berlin ; Toronto</subfield>
+            <subfield code="b">Verlag Barbara Budrich</subfield>
+            <subfield code="c">2016</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2016</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">197 Seiten</subfield>
+          </datafield>
+          <datafield tag="434" ind1="-" ind2="1">
+            <subfield code="a">Illustrationen</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-8474-0616-7</subfield>
+            <subfield code="b">kart. : ca. EUR 25.90 (DE), ca. EUR 26.70 (AT), ca. sfr 36.50 (freier Pr.)</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-8474-0299-2</subfield>
+            <subfield code="b">eBook</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-8474-0616-7</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">X:MVB</subfield>
+            <subfield code="q">text/html</subfield>
+            <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=4664510&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+            <subfield code="3">Inhaltstext</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6642492&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="700" ind1="l" ind2="1">
+            <subfield code="a">120</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">DK 2000</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">DS 7130</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Kindergarten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Erzieherverhalten</subfield>
+            <subfield code="9">(DE-588)4121219-8</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Erzieherin</subfield>
+            <subfield code="9">(DE-588)4132472-9</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Erzieher</subfield>
+            <subfield code="9">(DE-588)4015479-8</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsunterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <controlfield tag="SYS">001843481</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kindergärten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Ganztagskindergarten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kindergärten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Ganztagskindergarten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erzieherinnen</subfield>
+            <subfield code="9">(DE-588)4132472-9</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erzieherinnen</subfield>
+            <subfield code="9">(DE-588)4132472-9</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kindergärten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Ganztagskindergarten</subfield>
+            <subfield code="9">(DE-588)4030581-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erzieherinnen</subfield>
+            <subfield code="9">(DE-588)4132472-9</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Andrich, Petra Schneider-</subfield>
+            <subfield code="9">(DE-588)1017697248</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Andrich, Petra Schneider-</subfield>
+            <subfield code="9">(DE-588)1017697248</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterdifferenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifisch ...</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifische Differenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Sexualdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterunterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlecht</subfield>
+            <subfield code="x">Unterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsunterschiede</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterdifferenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifisch ...</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifische Differenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Sexualdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterunterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlecht</subfield>
+            <subfield code="x">Unterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsunterschiede</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erziehungsverhalten</subfield>
+            <subfield code="9">(DE-588)4121219-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erziehungsverhalten</subfield>
+            <subfield code="9">(DE-588)4121219-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterdifferenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifisch ...</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsspezifische Differenz</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Sexualdimorphismus</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechterunterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlecht</subfield>
+            <subfield code="x">Unterschied</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschlechtsunterschiede</subfield>
+            <subfield code="9">(DE-588)4071781-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Erziehungsverhalten</subfield>
+            <subfield code="9">(DE-588)4121219-8</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Andrich, Petra Schneider-</subfield>
+            <subfield code="9">(DE-588)1017697248</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">IEJ</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Macht das Geschlecht einen Unterschied?</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6642493&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: MACHT DAS GESCHLECHT EINEN UNTERSCHIED? AUTOR: JAHR: 2016 INHALT INHALT 1 EINLEITUNG 2 DIE DISKUSSION UM MAENNER IN KITAS: HINTERGRUENDE, ERWARTUNGEN, KONTROVERSEN 2.1 EINE ANSCHEINEND ,,BREIT AKZEPTIERTE IDEE" 2.2 FRUEHER GING ES DOCH AUCH OHNE MAENNER 2.3 ,,TERRA INCOGNITA" 5 9 16 16 19 23 3 SUCHEN WIR GESCHLECHTSUNTERSCHIEDE ODER FINDEN WIR SIE? FALLSTRICKE VERGLEICHENDER GESCHLECHTERFORSCHUNG 26 3.1 KONTROVERSEN UM VERGLEICHENDE GESCHLECHTERFORSCHUNG 26 3.2 GESCHLECHT, KOERPER UND GESELLSCHAFT 28 3.3 ANFORDERUNGEN AN EINE VERGLEICHSFORSCHUNG ZU MAENNLICHEN UND WEIBLICHEN FACHKRAEFTEN 36 4 DER BISHERIGE FORSCHUNGSSTAND ZUM EINFLUSS DES GESCHLECHTS AUF ERZIEHUNG 38 4.1 DIE BIOLOGIE MACHT NICHT DEN UNTERSCHIED 38 4.2 TROTZDEM UNTERSCHEIDEN SICH MUETTER UND VAETER 41 4.3 DER SYSTEMISCHE FAKTOR 45 4.4 UNTERSCHEIDEN SICH MAENNLICHE UND WEIBLICHE FACHKRAEFTE IN IHREM PAEDAGOGISCHEN VERHALTEN? 47 4.5 KINDER ALS AKTEURE DER GESCHLECHTERKONSTRUKTION 51 5 DIE TANDEM-STUDIE: GESAMTKONZEPTION UND STICHPROBE 59 5.1 ZIEL UND LEITENDE FRAGESTELLUNGEN 59 5.2 THEORETISCHE VORANNAHMEN 60 5.3 KONZEPTION UND DESIGN 62 5.4 DIE STICHPROBE 66 5.4.1 REKRUTIERUNG UND BESONDERHEITEN DER STICHPROBE... 66 5.4.2 WEISEN DIE FACHKRAEFTE DER STICHPROBE BESONDERHEITEN IN IHREN PERSOENLICHKEITEN AUF? 67 5 HTTP://D-NB.INFO/105094772X 6 DIE STANDARDISIERTE EINZELSITUATION UND DER VERGLEICH AUF BASIS QUANTIFIZIERTER DATEN 69 6.1 SETTING UND AUSWERTUNGSMETHODE 69 6.1.1 DESIGN DER STANDARDISIERTEN EINZELSITUATION 69 6.1.2 SPIELQUALITAET VERGLEICHSSKALA UND RATINGPROZESS... 70 6.2 VERHALTEN SICH MAENNLICHE FACHKRAEFTE IN DER EINZELSITUATION ANDERS ALS IHRE KOLLEGINNEN? 74 6.2.1 DIMENSION EINFUHLSAMKEIT 74 6.2.2 DIMENSION HERAUSFORDERUNG 76 6.2.3 DIMENSION DIALOGISCHE INTERAKTION 76 6.2.4 DIMENSION ART DER KOOPERATION 77 6.2.5 DIMENSION KOMMUNIKATIONSINHALTE 79 6.2.6 VERGLEICH DER GEMISCHTGESCHLECHTLICHEN TANDEMS MIT</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">DEN FRAU/FRAU-TANDEMS 80 6.3 VERHALTENSUNTERSCHIEDE GEGENUEBER JUNGEN UND MAEDCHEN 82 6.3.1 MANN/FRAU-TANDEMS: VERHALTEN GEGENUEBER JUNGEN UND MAEDCHEN 82 6.3.2 VERGLEICH DER GEMISCHTGESCHLECHTLICHEN TANDEMS MIT DEN FRAU/FRAU-TANDEMS 86 6.4 GESCHLECHTSSPEZIFISCHE NEIGUNGEN ZU MATERIAL UND THEMEN... 88 6.4.1 GESCHLECHT UND REALISIERTES PRODUKT 88 6.4.2 MATERIAL- UND WERKZEUGGEBRAUCH 91 6.5 SPIELT DIE PERSOENLICHKEIT EINE ROLLE?.. 93 6.6 ZUSAMMENFASSUNG 95 7 ERWEITERUNGEN DER PERSPEKTIVE - QUALITATIVE ANALYSEN 97 7.1 QUALITATIVE ANALYSE DER EINZELSITUATIONEN: SCHLUESSELSZENEN FUER ,DOING GENDER' 97 7.1.1 ,,WIR KOENNTEN JA EINE KANONE BAUEN .. 98 7.1.2 ,,ICH LIEBE ROSA MIT GLITZER" 100 7.1.3 HAEMMERN 101 7.1.4 ,,JA, DIE HAARE ..." 105 7.2 QUALITATIVE ANALYSE VON GRUPPENSITUATIONEN: ZWISCHEN WETTKAMPF UND CHOREOGRAPHIE 109 7.2.1 SETTING UND ANALYSEMETHODE DER STANDARDISIERTEN GRUPPENSITUATION 109 7.2.2 ROLLENVERTEILUNG UND ABSTIMMUNGSPROZESSE 111 7.2.3 ,DOEING GENDER' IM GRUPPENKONTEXT 114 7.2.4 SZENISCHER GESAMTEINDRUCK: ZWISCHEN WETTKAMPF UND CHOREOGRAFIE 116 7.3 ZUSAMMENFASSUNG 126 6 8 DIE TANDEM-INTERVIEWS 129 8.1 UEBER DIE STANDARDISIERTEN SITUATIONEN HINAUS: DIE SUBJEKTIVE SICHT DER FACHKRAEFTE 129 8.2 LEITFADEN UND AUSWERTUNGSMETHODE 130 8.3 EXEMPLARISCHE ARGUMENTATIONSMUSTER 131 8.3.1 ,,ICH BRAUCHE DIESE WILDEN KINDER" 131 8.3.2 ,,ES MUSS NICHT UNBEDINGT EIN MANN SEIN, DER MIT JUNGS DIESES WILDE TEILT." 135 8.3.3 EIN FEINER UNTERSCHIED: ,BASTELN' UND ,BAUEN' 136 8.3.4 DIE BIOGRAPHISCHE DIMENSION 137 8.3.5 ZUSAMMENFASSUNG: DER SUBJEKTIVE BLICK DER FACHKRAEFTE AUF UNTERSCHIEDLICHE NEIGUNGEN UND</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">VORLIEBEN IM PAEDAGOGISCHEN ALLTAG 139 8.4 MAENNER IN KITAS: ERFAHRUNGEN DER GEMISCHTGESCHLECHTLICHEN TANDEMS 141 8.4.1 ,,ICH BIN HEILFROH, EIN PAAR MAENNER HIER ZU HABEN" 142 8.4.2 ,,DAS IST MEIN TRAUMBERUF 144 8.4.3 ,,GENERALVERDACHT" ALS HERAUSFORDERUNG 145 8.4.4 DIE FRAGE DES ROLLENVORBILDS 147 8.5 ZUSAMMENFASSUNG 154 9 DISKUSSION DER ERGEBNISSE DER TANDEM-STUDIE: MACHT DAS GESCHLECHT EINEN UNTERSCHIED? 156 9.1 ZUR AUSSAGEFAHIGKEIT DER STUDIE 9.2 UNTER FACHLICHEN KRITERIEN BESTEHEN KEINE VERHALTENSUNTERSCHIEDE ZWISCHEN MAENNLICHEN UND WEIBLICHEN FACHKRAEFTEN 9.3 DIE FACHKRAEFTE GEHEN MIT JUNGEN ANDERS UM ALS MIT MAEDCHEN 9.4 GESCHLECHTSSPEZIFISCHE NEIGUNGEN BESTEHEN HINSICHTLICH MATERIALIEN UND THEMEN 9.5 ,DOEING GENDER' IN KONKRETEN INTERAKTIONEN 9.6 DIE AKTIVE ROLLE DER KINDER UND DER EINFLUSS IHRES GESCHLECHTS 9.7 AUSWIRKUNGEN AUF DIE ENTWICKLUNG DER KINDER 9.8 AUTHENTIZITAET, PROFESSIONALITAET UND ROLLENVORBILD 9.9 MACHT DAS GESCHLECHT DEN UNTERSCHIED? 9.10 SCHLUSSFOLGERUNGEN AUS DEN ERGEBNISSEN DER TANDEM-STUDIE LITERATUR 156 157 159 160 162 163 164 165 167 169 171 7 ANHANG A MATERIAL UND WERKZEUG FUER DIE STANDARDISIERTE EINZELSITUATION B ITEMENTWICKLUNG DER SPIELQUALITAET VERGLEICHSSKALA C RATINGBOGEN SPIELQUALITAET VERGLEICHSSKALA D RATERTRAINING UND INTERRATER-RELIABILITAETEN E GESAMTTABELLE RATINGRESULTATE F HAEUFIGKEITSVERTEILUNGEN MATERIAL- UND WERKZEUGGEBRAUCH G ERGEBNISSE PERSOENLICHKEITSINVENTAR H LEITFADEN FUER DAS TANDEM-INTERVIEW AUTORINNEN UND AUTOREN 180 180 181 183 186 189 191 193 195 197 8</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">11</subfield>
+            <subfield code="d">IEJ3398</subfield>
+            <subfield code="i">16/1416</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160217</subfield>
+            <subfield code="5">1843483-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

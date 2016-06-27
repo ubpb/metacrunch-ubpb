@@ -8,7 +8,7 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddPublisher do
 
   define_field_test '001839081', publisher: 'Paderborn'
   define_field_test '001839082', publisher: 'Paderborn'
-  #define_field_test '001840202', publisher: ''
+  define_field_test '001843481', publisher: 'Opladen ; Berlin ; Toronto : Verlag Barbara Budrich'
 
   # RAK
   #
@@ -200,6 +200,6 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddPublisher do
       transformation.call(mab_xml)["publisher"]
     end
 
-    it { is_expected.to eq("First publisher first place : First publisher") }
+    it { is_expected.to eq("First publisher first place ; First publisher second place : First publisher") }
   end
 end
