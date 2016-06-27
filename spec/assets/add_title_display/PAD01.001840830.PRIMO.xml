@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001840830</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018863378</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20160121</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20160405</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">1081049324</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">1081049324</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1081049324</subfield>
+          </datafield>
+          <controlfield tag="030">a||dr||||||27</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-BE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">||||||||d|||||</controlfield>
+          <controlfield tag="051">sk||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">c</subfield>
+            <subfield code="a">Computermedien</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">cd</subfield>
+            <subfield code="a">Computerdisk</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Konferenzschrift</subfield>
+            <subfield code="9">(DE-588)1071861417</subfield>
+          </datafield>
+          <datafield tag="064" ind1="b" ind2="1">
+            <subfield code="a">CD-ROM</subfield>
+            <subfield code="9">(DE-588)4139307-7</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">468</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="b" ind2="1">
+            <subfield code="p">Stöcklein, Waldemar</subfield>
+            <subfield code="d">1956-</subfield>
+            <subfield code="9">(DE-588)143150006</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="200" ind1="-" ind2="1">
+            <subfield code="e">ITG-Fachtagung Kommunikationskabelnetze</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="204" ind1="b" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+            <subfield code="4">orm</subfield>
+            <subfield code="3">Veranstalter</subfield>
+          </datafield>
+          <datafield tag="208" ind1="b" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="b">Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+            <subfield code="4">orm</subfield>
+            <subfield code="3">Veranstalter</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Kommunikationskabelnetze</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">mit Ausstellung : Vorträge der 22. ITG-Fachtagung vom 08.-09. Dezember 2015 in Köln</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Informationstechnische Gesellschaft im VDE (ITG), ITG-Fachausschuss 5.4 "Kommunikationskabelnetze" ; wissenschaftliche Tagungsleitung: Dr. Waldemar Stöcklein, Global Materials Development, Corning Optical Communications, Sprecher des ITG-Fachausschusses 5.4</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Berlin ; Offenbach</subfield>
+            <subfield code="b">VDE Verlag GmbH</subfield>
+            <subfield code="c">[2015]</subfield>
+          </datafield>
+          <datafield tag="419" ind1="d" ind2="1">
+            <subfield code="c">© 2015</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2015</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">1 CD-ROM</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">ITG-Fachbericht</subfield>
+            <subfield code="v">260</subfield>
+          </datafield>
+          <datafield tag="453" ind1="-" ind2="1">
+            <subfield code="a">HT002925901</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">260</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">260</subfield>
+          </datafield>
+          <datafield tag="516" ind1="a" ind2="1">
+            <subfield code="a">Beiträge teilweise deutsch, teilweise englisch</subfield>
+          </datafield>
+          <datafield tag="527" ind1="z" ind2="1">
+            <subfield code="p">Erscheint auch als</subfield>
+            <subfield code="n">Druck-Ausgabe</subfield>
+            <subfield code="a">Kommunikationskabelnetze : Vorträge der 22. ITG-Fachtagung vom 08.-09. Dezember 2015 in Köln</subfield>
+            <subfield code="9">HT018856683</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-8007-4130-4</subfield>
+            <subfield code="b">: EUR 74.10 (AT), EUR 72.00 (DE)</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-8007-4130-X</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">16,A03</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">621.3</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="705" ind1="a" ind2="1">
+            <subfield code="a">621.3821</subfield>
+            <subfield code="c">621.3821</subfield>
+            <subfield code="e">DDC22ger</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Telekommunikationsnetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Nachrichtenkabel</subfield>
+            <subfield code="9">(DE-588)4075171-5</subfield>
+          </datafield>
+          <datafield tag="LKR" ind1="-" ind2="1">
+            <subfield code="a">ITM</subfield>
+            <subfield code="b">1840829</subfield>
+            <subfield code="l">PAD50</subfield>
+          </datafield>
+          <controlfield tag="SYS">001840830</controlfield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Fachtagung Kommunikationskabelnetze</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Kölner Kabeltagung</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Kölner Kabelfachtagung</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Fachtagung Kommunikationskabelnetze</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Kölner Kabeltagung</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="e">Kölner Kabelfachtagung</subfield>
+            <subfield code="n">22.</subfield>
+            <subfield code="d">2015</subfield>
+            <subfield code="c">Köln</subfield>
+            <subfield code="9">(DE-588)1081096667</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society within VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="h">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Association of Computer Science</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society within VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="h">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Association of Computer Science</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss</subfield>
+            <subfield code="h">5 4</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss 5.4 Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="b">Fachausschuss &lt;5 4, Fachausschuß Kommunikationskabelnetze&gt;</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss</subfield>
+            <subfield code="h">5 4</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss 5.4 Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="b">Fachausschuss &lt;5 4, Fachausschuß Kommunikationskabelnetze&gt;</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldenetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Nachrichtennetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Netz</subfield>
+            <subfield code="h">Nachrichtentechnik</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldenetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Nachrichtennetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Netz</subfield>
+            <subfield code="h">Nachrichtentechnik</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldekabel</subfield>
+            <subfield code="9">(DE-588)4075171-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldekabel</subfield>
+            <subfield code="9">(DE-588)4075171-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society within VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="h">Informationstechnische Gesellschaft im VDE</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Association of Computer Science</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Informationstechnische Gesellschaft</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">German Association of Computer Science</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Verband Deutscher Elektrotechniker</subfield>
+            <subfield code="b">Information Technology Society</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG</subfield>
+            <subfield code="9">(DE-588)2090359-5</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss</subfield>
+            <subfield code="h">5 4</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss 5.4 Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="b">Fachausschuss &lt;5 4, Fachausschuß Kommunikationskabelnetze&gt;</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss</subfield>
+            <subfield code="h">5 4</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">ITG-Fachausschuss 5.4 Kommunikationskabelnetze</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Informationstechnische Gesellschaft</subfield>
+            <subfield code="b">Fachausschuss &lt;5 4, Fachausschuß Kommunikationskabelnetze&gt;</subfield>
+            <subfield code="9">(DE-588)10012996-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldenetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Nachrichtennetz</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Netz</subfield>
+            <subfield code="h">Nachrichtentechnik</subfield>
+            <subfield code="9">(DE-588)4133586-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Fernmeldekabel</subfield>
+            <subfield code="9">(DE-588)4075171-5</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">XVI</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001840829</subfield>
+            <subfield code="m">Auch unter dem Titel:^Kommunikationskabelnetze.^2015</subfield>
+            <subfield code="n">Auch unter dem Titel:^Kommunikationskabelnetze.^2015</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRU</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000439616</subfield>
+            <subfield code="m">260.^Kommunikationskabelnetze.^2015</subfield>
+            <subfield code="n">ITG-Fachbericht.^1987</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

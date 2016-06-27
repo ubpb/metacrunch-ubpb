@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001838242</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018825475</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20151208</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20160419</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">1077449712</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">1077449712</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1077449712</subfield>
+          </datafield>
+          <controlfield tag="030">a||dr||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-BE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">m|||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">sti</subfield>
+            <subfield code="a">unbewegtes Bild</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Bildband</subfield>
+            <subfield code="9">(DE-588)4145395-5</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">121</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="a">Mayer, Andrea</subfield>
+            <subfield code="4">com</subfield>
+            <subfield code="3">Zusammenstellender</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="3">Verfasser</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">&lt;&lt;Die&gt;&gt; Fünfzigerjahre</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">deutsches Alltagsleben in Ost und West</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Andrea Mayer</subfield>
+          </datafield>
+          <datafield tag="403" ind1="-" ind2="1">
+            <subfield code="a">Lizenzausgabe</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Berlin</subfield>
+            <subfield code="b">Palm Verlag</subfield>
+            <subfield code="c">2016</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2016</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">128 Seiten</subfield>
+          </datafield>
+          <datafield tag="434" ind1="-" ind2="1">
+            <subfield code="a">Illustrationen</subfield>
+          </datafield>
+          <datafield tag="435" ind1="-" ind2="1">
+            <subfield code="a">28 cm x 21 cm</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-944594-39-2</subfield>
+            <subfield code="b">Gb. : EUR 15.40 (AT), EUR 14.95 (DE)</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-944594-39-8</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783944594392</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">15,N43</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">X:MVB</subfield>
+            <subfield code="q">text/html</subfield>
+            <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=fc3aaa07073947e6870f3d519bb52acf&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+            <subfield code="3">Inhaltstext</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6718504&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">900</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Hardback</subfield>
+            <subfield code="2">Produktform</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">1950er</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Alltag</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">900</subfield>
+            <subfield code="2">DDC-Sachgruppen der Deutschen Nationalbibliografie</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Wirtschaftswunder</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">deutsche Geschichte</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">1942: Hardcover, Softcover / Sachbücher/Geschichte/Allgemeines, Nachschlagewerke</subfield>
+            <subfield code="2">VLB-WN</subfield>
+          </datafield>
+          <controlfield tag="SYS">001838242</controlfield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">LPWJ</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">&lt;&lt;Die&gt;&gt; Fünfzigerjahre</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6718505&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: DIE FNFZIGERJAHRE AUTOR: MAYER, ANDREA JAHR: 2016 D I E F UE N F Z I G E R J A H R E IN O S 16 K O N SU M UND M O D E 42 BAUEN UND W O H N EN FIN H E I U L ES H _ 86 KU N ST U N D KULTUR 106 A R B E IT U N D F R E IZ E IT</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">31</subfield>
+            <subfield code="d">LPWJ1173</subfield>
+            <subfield code="i">16/3025</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160411</subfield>
+            <subfield code="5">1838254-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

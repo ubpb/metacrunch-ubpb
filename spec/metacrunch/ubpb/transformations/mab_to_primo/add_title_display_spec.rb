@@ -58,6 +58,10 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleDisplay do
   define_field_test '001836826', title_display: 'Madonna : Frau - Mutter - Kultfigur [Ausstellungskatalog]'
   define_field_test '001840251', title_display: 'Filati special. Colors : coole Farbeffekte für jedes Outfit. [Deutsche Ausgabe] [Zeitschrift]'
 
+  define_field_test '001838242', title_display: 'Die Fünfzigerjahre : deutsches Alltagsleben in Ost und West [Bildband]'
+  define_field_test '001833425', title_display: 'Grammatik : eine Einführung [Einführung, Lehrbuch]'
+  define_field_test '001840830', title_display: 'Kommunikationskabelnetze : mit Ausstellung : Vorträge der 22. ITG-Fachtagung vom 08.-09. Dezember 2015 in Köln [Konferenzschrift, CD-ROM]'
+
   #
   # synthetic tests
   #
