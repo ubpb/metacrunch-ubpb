@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001214891</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT015979424</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20090610</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20151201190945</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">2499152-1</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">994673426</subfield>
+          </datafield>
+          <datafield tag="025" ind1="z" ind2="1">
+            <subfield code="a">2499152-1</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">ZDB2499152-1</subfield>
+          </datafield>
+          <controlfield tag="030">a||d|||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">||||||||g|||||</controlfield>
+          <controlfield tag="052">i||||||a|||||||</controlfield>
+          <controlfield tag="058">cr||||||||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">8007</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">9001</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">NWB Datenbank</subfield>
+          </datafield>
+          <datafield tag="334" ind1="-" ind2="1">
+            <subfield code="a">Elektronische Ressource</subfield>
+          </datafield>
+          <datafield tag="370" ind1="a" ind2="1">
+            <subfield code="a">NWB</subfield>
+          </datafield>
+          <datafield tag="405" ind1="-" ind2="1">
+            <subfield code="a">2009,Mai -</subfield>
+          </datafield>
+          <datafield tag="406" ind1="b" ind2="1">
+            <subfield code="j">2009</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Herne</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Verl. Neue Wirtschafts-Briefe</subfield>
+          </datafield>
+          <datafield tag="425" ind1="b" ind2="1">
+            <subfield code="a">2009</subfield>
+          </datafield>
+          <datafield tag="507" ind1="-" ind2="1">
+            <subfield code="a">Hauptsacht. anfangs: NWB</subfield>
+          </datafield>
+          <datafield tag="507" ind1="-" ind2="1">
+            <subfield code="a">Gesehen am 01.12.15</subfield>
+          </datafield>
+          <datafield tag="517" ind1="-" ind2="1">
+            <subfield code="a">Die Datenbank enthält verschiedenen Module zu Steuer- und Wirtschaftsrecht</subfield>
+          </datafield>
+          <datafield tag="524" ind1="-" ind2="1">
+            <subfield code="p">Darin</subfield>
+            <subfield code="a">NWB Steuer- und Wirtschaftsrecht, NWB Rechnungswesen, NWB Unternehmensteuern und Bilanzen, NWB Internationale Rechnungslegung, NWB Internationales Steuer- und Wirtschaftsrecht, NWB Steuer und Studium, NWB Betriebswirtschaftliche Beratung, NWB Kanzleiführung, NWB Erben und Vermögen; NWB Lohnsteuer, Sozialversicherung und Arbeitsrecht</subfield>
+          </datafield>
+          <datafield tag="527" ind1="z" ind2="1">
+            <subfield code="p">Teilausg.</subfield>
+            <subfield code="a">NWB Einspruchs-Datenbank</subfield>
+            <subfield code="9">HT017320593</subfield>
+          </datafield>
+          <datafield tag="527" ind1="z" ind2="1">
+            <subfield code="p">DVD-Ausg.</subfield>
+            <subfield code="a">NWB</subfield>
+            <subfield code="9">HT015977080</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Vorg.</subfield>
+            <subfield code="a">NWB steuerXpert / Premium</subfield>
+            <subfield code="9">HT015817212</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Vorg.</subfield>
+            <subfield code="a">NWB steuerXpert / Profi</subfield>
+            <subfield code="9">HT014645848</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Vorg. und ab 2009,Mai Teilausg.</subfield>
+            <subfield code="a">NWB Erben und Vermögen</subfield>
+            <subfield code="9">HT015842041</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Vorg. und ab 2009,Mai Teilausg.</subfield>
+            <subfield code="a">NWB Rechnungswesen</subfield>
+            <subfield code="9">HT015525301</subfield>
+          </datafield>
+          <datafield tag="537" ind1="-" ind2="1">
+            <subfield code="a">4!DBIS-Frontdoor-URL(id=9564) gelöscht(20-11-13)</subfield>
+          </datafield>
+          <datafield tag="652" ind1="a" ind2="1">
+            <subfield code="a">Online-Ressource</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="u">http://www2.nwb.de/portal/content/ir/default.aspx</subfield>
+            <subfield code="x">Verlag</subfield>
+            <subfield code="A">0</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="u">http://www.bibliothek.uni-regensburg.de/dbinfo/frontdoor.php?titel_id=9185</subfield>
+            <subfield code="x">DBIS</subfield>
+            <subfield code="A">0</subfield>
+          </datafield>
+          <datafield tag="674" ind1="a" ind2="1">
+            <subfield code="a">2012</subfield>
+          </datafield>
+          <datafield tag="674" ind1="a" ind2="1">
+            <subfield code="a">2009</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">650</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <controlfield tag="SYS">001214891</controlfield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">1</subfield>
+            <subfield code="e">Zugriff nur im Hochschulnetz der Universität Paderborn bzw. für autorisierte Benutzer</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="u">http://www.bibliothek.uni-regensburg.de/dbinfo/frontdoor.php?bib_id=ub_pb&amp;titel_id=9185</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001103677</subfield>
+            <subfield code="m">Beilage zu:^NWB.^2009</subfield>
+            <subfield code="n">Beilage:^NWB Steuer- und Wirtschaftsrecht.^1987</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000989404</subfield>
+            <subfield code="m">Später unter dem Titel:^NWB Datenbank.^2009</subfield>
+            <subfield code="n">Früher unter dem Titel:^NWB steuerXpert / Profi.^2006</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000991759</subfield>
+            <subfield code="m">Später unter dem Titel:^NWB Datenbank.^2009</subfield>
+            <subfield code="n">Früher unter dem Titel:^NWB Rechnungswesen.^2008</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001210967</subfield>
+            <subfield code="m">Beilage zu:^NWB.^2009</subfield>
+            <subfield code="n">Beilage:^StuB.^2009</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001285583</subfield>
+            <subfield code="m">Auch unter dem Titel:^NWB Datenbank.^2009</subfield>
+            <subfield code="n">Auch unter dem Titel:^NWB.^2009</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">DBNET</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="g">2009ff.</subfield>
+            <subfield code="i">Nicht archiviert</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20090127</subfield>
+            <subfield code="5">1033847-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

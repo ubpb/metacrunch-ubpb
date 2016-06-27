@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001849479</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>01194nM2.01200024------h</leader>
+          <controlfield tag="LDR">01194nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018916015</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20160315</subfield>
+          </datafield>
+          <datafield tag="020" ind1="b" ind2="1">
+            <subfield code="a">461163128</subfield>
+          </datafield>
+          <datafield tag="025" ind1="o" ind2="1">
+            <subfield code="a">927845781</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">BSZ461163128</subfield>
+          </datafield>
+          <controlfield tag="030">a|zur||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|||||||||||||</controlfield>
+          <controlfield tag="051">s||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Balke, Friedrich</subfield>
+            <subfield code="d">1961-</subfield>
+            <subfield code="9">(DE-588)124475655</subfield>
+            <subfield code="4">ctb</subfield>
+          </datafield>
+          <datafield tag="104" ind1="b" ind2="1">
+            <subfield code="p">Balmes, Hans Jürgen</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)124999352</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="108" ind1="b" ind2="1">
+            <subfield code="p">Bong, Jörg</subfield>
+            <subfield code="d">1966-</subfield>
+            <subfield code="9">(DE-588)115519033</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="112" ind1="b" ind2="1">
+            <subfield code="p">Rösler, Alexander</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="9">(DE-588)136245706</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="116" ind1="b" ind2="1">
+            <subfield code="p">Vogel, Oliver</subfield>
+            <subfield code="9">(DE-588)11306943X</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="120" ind1="b" ind2="1">
+            <subfield code="p">Röggla, Kathrin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="303" ind1="t" ind2="1">
+            <subfield code="p">Röggla, Kathrin</subfield>
+            <subfield code="t">Ankleben verboten!</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Gegenwart vs. Futur zwei</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Friedrich Balke [und 27 andere] ; herausgegeben von Hans Jürgen Balmes, Jörg Bong, Alexander Roesler und Oliver Vogel, Mitherausgeberin dieser Ausgabe: Kathrin Röggla</subfield>
+          </datafield>
+          <datafield tag="370" ind1="a" ind2="1">
+            <subfield code="a">Gegenwart versus Futur zwei</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Frankfurt am Main</subfield>
+            <subfield code="b">S. Fischer Verlag</subfield>
+            <subfield code="c">2016</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2016</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">312 Seiten</subfield>
+          </datafield>
+          <datafield tag="434" ind1="-" ind2="1">
+            <subfield code="a">Illustrationen</subfield>
+          </datafield>
+          <datafield tag="437" ind1="-" ind2="1">
+            <subfield code="a">1 Faltblatt</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Neue Rundschau ; 2016, Heft 1 = 127. Jahrgang, Heft 1</subfield>
+          </datafield>
+          <datafield tag="453" ind1="-" ind2="1">
+            <subfield code="a">HT001379411</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">2016, Heft 1 = 127. Jahrgang, Heft 1</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">2016,1</subfield>
+          </datafield>
+          <datafield tag="501" ind1="-" ind2="1">
+            <subfield code="p">Faltblatt mit dem Titel</subfield>
+            <subfield code="a">Kathrin Röggla: Ankleben verboten! : Die Technik des Schriftstellers in 13 Thesen</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-10-809105-7</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783108091057</subfield>
+          </datafield>
+          <controlfield tag="SYS">001849479</controlfield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Balmes, Hans J.</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)124999352</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Balmes, Hans J.</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)124999352</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Regura, Katorin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Regura, Katorin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Balmes, Hans J.</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)124999352</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Balmes, Hans J.</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)124999352</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Regura, Katorin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Regura, Katorin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Regura, Katorin</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="9">(DE-588)115701362</subfield>
+          </datafield>
+          <datafield tag="100" ind1=" " ind2=" ">
+            <subfield code="a">07n1</subfield>
+          </datafield>
+          <datafield tag="105" ind1=" " ind2=" ">
+            <subfield code="a">10</subfield>
+          </datafield>
+          <datafield tag="125" ind1="a" ind2=" ">
+            <subfield code="a">Mit 1 Beil.</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="9">07</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRU</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000267872</subfield>
+            <subfield code="m">2016, Heft 1 = 127. Jahrgang, Heft 1.^Gegenwart vs. Futur zwei.^2016</subfield>
+            <subfield code="n">Neue Rundschau.^1904</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

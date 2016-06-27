@@ -36,4 +36,14 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddCreatorContributorDis
     "Böcking, Eduard",
     "[u.a.]"
   ]
+
+  define_field_test '001214891', creator_contributor_display: nil
+  define_field_test '001849479', creator_contributor_display: [
+    "Balke, Friedrich [Mitwirkender]",
+    "Balmes, Hans Jürgen [Herausgeber]",
+    "Bong, Jörg [Herausgeber]",
+    "Rösler, Alexander [Herausgeber]",
+    "Vogel, Oliver [Herausgeber]",
+    "Röggla, Kathrin [Herausgeber]"
+  ]
 end

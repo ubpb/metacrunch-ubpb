@@ -24,8 +24,8 @@ class Metacrunch::UBPB::Record
   DATAFIELDS = [
     { tags: ["064"], ind1: ["a"],      accessor: "Arten des Inhalts",                                    type: ArtDesInhalts },
     { tags: ["064"], ind1: ["b"],      accessor: "erweiterte Datenträgertypen",                          type: ErweiterterDatenträgertyp },
-    { tags: (100..196).step(4),        accessor: "Personen",                                             type: Person },
-    { tags: (200..296).step(4),        accessor: "Körperschaften",                                       type: Körperschaft },
+    { tags: (100..196).step(4), ind2: ["1", "2"], accessor: "Personen",                                             type: Person },
+    { tags: (200..296).step(4), ind2: ["1", "2"], accessor: "Körperschaften",                                       type: Körperschaft },
     { tags: ["303"], ind1: ["-"],      accessor: "bevorzugte Titel des Werkes",                          type: BevorzugterTitelDesWerkes },
     { tags: ["303"], ind1: ["t"],      accessor: "in Beziehung stehende Werke",                          type: BevorzugterTitelDesWerkes },
     { tags: ["334"],                   accessor: "allgemeine Materialbenennungen",                       type: GenerischesElement },
@@ -91,7 +91,7 @@ class Metacrunch::UBPB::Record
       entry[:tags]
       .to_a
       .map do |tag|
-        document.datafields(tag.to_s, { ind1: entry[:ind1] }.compact)
+        document.datafields(tag.to_s, { ind1: entry[:ind1], ind2: entry[:ind2] }.compact)
       end
       .try do |datafield_sets|
         datafield_sets.map do |datafield_set|
