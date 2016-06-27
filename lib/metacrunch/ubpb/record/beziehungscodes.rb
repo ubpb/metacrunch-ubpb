@@ -44,6 +44,7 @@ Metacrunch::UBPB::Record::BEZIEHUNGSCODES = {
   hnr: "Gefeierter",
   crt: "Gerichtsstenograf",
   stl: "Geschichtenerzähler",
+  dgg: "Grad-verleihende Institution",
   egr: "Graveur",
   isb: "Herausgebendes Organ",
   edt: "Herausgeber",

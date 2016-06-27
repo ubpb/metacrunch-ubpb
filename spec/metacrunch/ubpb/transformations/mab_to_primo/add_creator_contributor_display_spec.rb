@@ -46,4 +46,9 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddCreatorContributorDis
     "Vogel, Oliver [Herausgeber]",
     "Röggla, Kathrin [Herausgeber]"
   ]
+
+  define_field_test '001848723', creator_contributor_display: [
+    "Kaßner, Martin",
+    "Universität Paderborn [Grad-verleihende Institution]"
+  ]
 end

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001848723</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018906806</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20160307</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">1081149817</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">1081149817</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1081149817</subfield>
+          </datafield>
+          <controlfield tag="030">a||dr||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-NW</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">sy||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="9">(DE-588)4113937-9</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="a">Kaßner, Martin</subfield>
+          </datafield>
+          <datafield tag="200" ind1="b" ind2="1">
+            <subfield code="k">Universität Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+            <subfield code="4">dgg</subfield>
+            <subfield code="3">Grad-verleihende Institution</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Entwicklung einer Methodik zur Simulation der Lebensdauer von Klebverbindungen mit Polyurethan-Klebstoffen</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Martin Kaßner</subfield>
+          </datafield>
+          <datafield tag="403" ind1="-" ind2="1">
+            <subfield code="a">1. Auflage</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Aachen</subfield>
+            <subfield code="b">Shaker Verlag</subfield>
+            <subfield code="c">2016</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2016</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">vii, 136 Seiten</subfield>
+          </datafield>
+          <datafield tag="434" ind1="-" ind2="1">
+            <subfield code="a">74 Illustrationen</subfield>
+          </datafield>
+          <datafield tag="435" ind1="-" ind2="1">
+            <subfield code="a">21 cm x 14.8 cm, 210 g</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Berichte aus dem Laboratorium für Werkstoff- und Fügetechnik ; 116</subfield>
+          </datafield>
+          <datafield tag="453" ind1="-" ind2="1">
+            <subfield code="a">HT008087325</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">116</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">116</subfield>
+          </datafield>
+          <datafield tag="520" ind1="-" ind2="1">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Fakultät für Maschinenbau</subfield>
+            <subfield code="d">2015</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-8440-4210-8</subfield>
+            <subfield code="b">Festeinband : EUR 45.80 (AT), sfr 57.25 (freier Preis), EUR 45.80 (DE)</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-8440-4210-5</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783844042108</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">16,N03</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6674246&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="673" ind1="c" ind2="1">
+            <subfield code="a">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">620</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Paperback / softback</subfield>
+            <subfield code="2">Produktform</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Fachpublikum/ Wissenschaft</subfield>
+            <subfield code="2">Zielgruppe</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">)Paperback (DE)</subfield>
+            <subfield code="2">Produktform (spezifisch</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Ermüdungsrisswachstum</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Polyurethan-Klebstoffe</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">numerische Lebensdauerberechnung</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">1682: Hardcover, Softcover / Technik/Maschinenbau, Fertigungstechnik</subfield>
+            <subfield code="2">VLB-WN</subfield>
+          </datafield>
+          <controlfield tag="SYS">001848723</controlfield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">University of Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">University of Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">University of Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">University of Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">University of Paderborn</subfield>
+            <subfield code="9">(DE-588)64857-7</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">ZKL</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Entwicklung einer Methodik zur Simulation der Lebensdauer von Klebverbindungen mit Polyurethan-Klebstoffen</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6674247&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: ENTWICKLUNG EINER METHODIK ZUR SIMULATION DER LEBENSDAUER VON KLEBVERBINDUNGEN MIT POLYURETHAN-KLEBSTOFFEN AUTOR: KANER, MARTIN JAHR: 2016 INHALT 1 2 EINLEITUNG..........................................................................................................................................8 STAND DER TECHNIK........................................................................................................................... 9 2.1 2.2 2.3 3 4 EIGENSCHAFTEN DES BETRACHTETEN POLYURETHAN-KLEBSTOFFES.................................. 10 BERECHNUNG VON KLEBVERBINDUNGEN IN DER STATIK................................................. 12 LEBENSDAUERBERECHNUNG VON KLEBVERBINDUNGEN................................................ 13 AUFGABENSTELLUNG UND ZIELSETZUNG.............................................................................................16 GRUNDLAGEN DER NUMERISCHEN LEBENSDAUERBERECHNUNG FUER KLEBVERBINDUNGEN MIT POLYURETHAN-KLEBSTOFFEN............................................................................................................. 18 4.1 4.2 AUSWAHL EINES GEEIGNETEN BESCHREIBUNGSANSATZES..............................................18 THEORETISCHE GRUNDLAGEN.........................................................................................21 4.2.1 4.2.2 4.2.3 BESTIMMUNG DER GESAMTLEBENSDAUER...................................................... 21 ERMITTLUNG DER NUMERISCHEN EINGABEGROESSE..............................................24 ERMITTLUNG DER ANALYTISCHEN EINGABEGROESSEN............................................29 5 6</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">VERWENDETE WERKSTOFFE..............................................................................................................33 BESCHREIBUNG DES MATERIALVERHALTENS UNTER QUASI-STATISCHER BEANSPRUCHUNG UND SCHRITTWEISER LASTSTEIGERUNG...................................................................................................... 35 6.1 EXPERIMENTELLE UNTERSUCHUNGEN............................................................................ 35 6.1.1 6.1.2 6.1.3 6.2 6.2.1 6.2.2 6.2.3 6.2.4 6.2.5 VERSUCHE ZUR IDENTIFIKATION DER EINGABEGROESSEN...................................... 35 VERSUCHE ZUR VERIFIKATION DES BERECHNUNGSMODELLS.............................. 40 VERSUCHE ZUR VALIDIERUNG DES BERECHNUNGSMODELLS............................... 45 ERSTELLUNG DER ABAQUS-MATERIALKARTEN ZUR SIMULATION DES LASTSTEIGERUNGSVERSUCHS............................................................................. 50 NUMERISCHE SIMULATION DES IDENTIFIKATIONSVERSUCHS.............................. 54 NUMERISCHE SIMULATION DER VERIFIKATIONSVERSUCHE.................................56 NUMERISCHE SIMULATION DER VALIDIERUNGSVERSUCHE..................................61 ZWISCHENFAZIT UND SCHLUSSFOLGERUNG..........................................................66 NUMERISCHE UNTERSUCHUNGEN..................................................................................50 7 BESCHREIBUNG DES MATERIALVERHALTENS UNTER SCHWINGBEANSPRUCHUNG................................68 7.1. EXPERIMENTELLE UNTERSUCHUNGEN............................................................................. 68 7.1.1 7.1.2 7.2 7.2.1 VERSUCHE ZUR IDENTIFIKATION DER EINGABEGROESSEN...................................... 68 VERSUCHE ZUR VALIDIERUNG DES BERECHNUNGSMODELLS............................... 73 DETAILLIERTE BETRACHTUNG DER EXPERIMENTELLEN ERGEBNISSE....................80 NUMERISCHE LEBENSDAUERBERECHNUNG................................................................... 80 7.2.2 7.2.3 7.2.4 8 9</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">MODIFIZIERUNG DER ANALYTISCHEN LOESUNG ZUR BERECHNUNG DER GESAMTLEBENSDAUER...................................................................................... 84 IMPLEMENTIERUNG DER BERECHNUNGSROUTINE FUER DIE LEBENSDAUERERMITTLUNG................................................................................93 NUMERISCHE SIMULATION DER DYNAMISCH SCHWINGENDEN VERSUCHE........94 119 ANWENDUNG DER ENTWICKELTEN METHODIK IN DER TECHNISCHEN PRAXIS.................................. 116 ZUSAMMENFASSUNG.............................. LITERATURVERZEICHNIS........................................................................................................................... 121 ANLAGENVERZEICHNIS............................................................................................................................ 127</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRU</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000758997</subfield>
+            <subfield code="m">116.^Kaßner, Martin:^Entwicklung einer Methodik zur Simulation der Lebensdauer von Klebverbindungen mit Polyurethan-Klebstoffen.^1. Auflage.^2016</subfield>
+            <subfield code="n">Berichte aus dem Laboratorium für Werkstoff- und Fügetechnik.^</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">DISSP</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">04</subfield>
+            <subfield code="d">P2576</subfield>
+            <subfield code="i">16/1930</subfield>
+            <subfield code="n">41</subfield>
+            <subfield code="k">20160307</subfield>
+            <subfield code="5">1848759-10</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">DISSP</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">51</subfield>
+            <subfield code="d">ZKL2355</subfield>
+            <subfield code="i">16/1931</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160307</subfield>
+            <subfield code="5">1848759-20</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
