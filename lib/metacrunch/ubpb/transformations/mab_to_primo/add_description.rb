@@ -85,6 +85,9 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddDescription < Metacrunch
       .compact.join(". - ").presence
     ]
     .compact.join(". ").presence
+    .try do |result|
+      "Quelle: #{result}"
+    end
 
     # Finally...
     descriptions.flatten.map(&:presence).compact.uniq
