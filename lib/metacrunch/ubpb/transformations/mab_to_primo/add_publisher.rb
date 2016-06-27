@@ -18,8 +18,16 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddPublisher < Metacrunch::
       source.datafields('419').each do |_veröffentlichungsangabe|
         verlagsorte = _veröffentlichungsangabe.subfields('a').value.try(:strip)
         verlagsname = _veröffentlichungsangabe.subfields('b').value
+        reihenfolge =
+        case _veröffentlichungsangabe.subfields('A').value.try(:to_i)
+        #when 2 then "intervenierende Angabe"
+        when 3 then "laufende/letze Angabe"
+        end
 
-        publisher << [verlagsorte, verlagsname].compact.join(" : ")
+        publisher << [
+          [verlagsorte, verlagsname].compact.join(" : "),
+          reihenfolge.present? ? "[#{reihenfolge}]" : nil
+        ].compact.join(" ")
       end
     else # is rak record
       orte_der_ersten_verleger                  = source.datafields('410', ind2: '1').subfields('a').values.presence

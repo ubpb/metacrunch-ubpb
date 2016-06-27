@@ -9,6 +9,10 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddPublisher do
   define_field_test '001839081', publisher: 'Paderborn'
   define_field_test '001839082', publisher: 'Paderborn'
   define_field_test '001843481', publisher: 'Opladen ; Berlin ; Toronto : Verlag Barbara Budrich'
+  define_field_test '001840202', publisher: [
+    "Sprockhövel : Edition Dr. Eike Pies",
+    "Sprockhövel : Familienstiftung Pies-Archiv [laufende/letze Angabe]"
+  ]
 
   # RAK
   #
