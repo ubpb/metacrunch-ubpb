@@ -55,40 +55,6 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddDescription < Metacrunch
       descriptions << source.get("redaktionelle Bemerkungen").map(&:get)
     end
 
-    descriptions <<
-    [
-      [
-        source.get("Haupttitel der Quelle").first.try(:get),
-        source.get("Verantwortlichkeitsangabe der Quelle").first.try(:get)
-      ]
-      .compact.join(" / ").presence,
-      [
-        source.get("Unterreihe der Quelle").first.try(:get),
-        source.get("Ausgabebezeichnung der Quelle in Vorlageform").first.try(:get),
-        [
-          [
-            "Verlagsorte der Quelle",
-            "Druckorte der Quelle",
-            "Vetriebsorte der Quelle",
-            "Auslieferungsorte der Quelle"
-          ]
-          .map do |property|
-            source.get(property).map(&:get)
-          end
-          .flatten.compact.join(", ").presence,
-          source.get("Erscheinungsjahr der Quelle").first.try(:get)
-        ]
-        .compact.join(", ").presence,
-        source.get("Reihe der Quelle").first.try(:get).try { |value| "(#{value})" },
-        source.get("Zählungen der Quellen").map(&:get).join(", ")
-      ]
-      .compact.join(". - ").presence
-    ]
-    .compact.join(". ").presence
-    .try do |result|
-      "Quelle: #{result}"
-    end
-
     # Finally...
     descriptions.flatten.map(&:presence).compact.uniq
   end
