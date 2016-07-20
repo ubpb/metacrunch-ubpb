@@ -81,6 +81,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddLocalComment,
     AddAdditionalData,
     AddSuperorderDisplayForSammlungSchmoll,
-    AddSource
+    AddSource,
+    AddJournalStock
   ]
 end

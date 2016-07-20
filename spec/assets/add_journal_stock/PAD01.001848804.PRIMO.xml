@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001848804</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT015578052</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20060131</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20150323164848</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">2432548-X</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">97834586X</subfield>
+          </datafield>
+          <datafield tag="025" ind1="z" ind2="1">
+            <subfield code="a">2432548-X</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">ZDB2432548-X</subfield>
+          </datafield>
+          <controlfield tag="030">a||da||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">|||||a||d|||||</controlfield>
+          <controlfield tag="052">p||||||a|||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">1241</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">9001</subfield>
+          </datafield>
+          <datafield tag="076" ind1="c" ind2="1">
+            <subfield code="a">mg</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Business spotlight audio</subfield>
+          </datafield>
+          <datafield tag="334" ind1="-" ind2="1">
+            <subfield code="a">Tonträger</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">Englisch für den Beruf</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">&lt;&lt;das&gt;&gt; Hörmagazin für Ihr Business-Englisch</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">&lt;&lt;das&gt;&gt; Hörmagazin für Business-Englisch</subfield>
+          </datafield>
+          <datafield tag="405" ind1="-" ind2="1">
+            <subfield code="a">2005,4 -</subfield>
+          </datafield>
+          <datafield tag="406" ind1="b" ind2="1">
+            <subfield code="j">2005</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Planegg</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Spotlight-Verl.</subfield>
+          </datafield>
+          <datafield tag="425" ind1="b" ind2="1">
+            <subfield code="a">2005</subfield>
+          </datafield>
+          <datafield tag="507" ind1="-" ind2="1">
+            <subfield code="a">Hauptsacht. von d. Beil.</subfield>
+          </datafield>
+          <datafield tag="507" ind1="-" ind2="1">
+            <subfield code="a">Zusatz bis 2010,1: &lt;&lt;das&gt;&gt; Hörmagazin für Ihr Business-Englisch</subfield>
+          </datafield>
+          <datafield tag="507" ind1="-" ind2="1">
+            <subfield code="a">Zusatz 2010,2 - 2013,1: &lt;&lt;das&gt;&gt; Hörmagazin für Business-Englisch</subfield>
+          </datafield>
+          <datafield tag="523" ind1="-" ind2="1">
+            <subfield code="a">Ersch. alle 2 Monate, bis 2005 vierteljährl.</subfield>
+          </datafield>
+          <datafield tag="530" ind1="z" ind2="1">
+            <subfield code="p">CD-Beil. zu ---&gt;</subfield>
+            <subfield code="a">Business spotlight</subfield>
+            <subfield code="9">HT013039537</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">06,A38,0330</subfield>
+          </datafield>
+          <datafield tag="652" ind1="a" ind2="1">
+            <subfield code="a">Optischer Datenträger</subfield>
+          </datafield>
+          <datafield tag="653" ind1="-" ind2="1">
+            <subfield code="a">CDs</subfield>
+            <subfield code="d">12 cm</subfield>
+            <subfield code="e">Beil.</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">420</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">330</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">070</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">820</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">330</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Englisch</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaftssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">Zeitschrift</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">CD</subfield>
+          </datafield>
+          <datafield tag="904" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <controlfield tag="SYS">001848804</controlfield>
+          <datafield tag="LOW" ind1="-" ind2="1">
+            <subfield code="a">J5001</subfield>
+          </datafield>
+          <datafield tag="LOW" ind1="-" ind2="1">
+            <subfield code="a">R1003</subfield>
+          </datafield>
+          <datafield tag="LOW" ind1="-" ind2="1">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Britisches Englisch</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Englische Sprache</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Britisches Englisch</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Englische Sprache</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschäftssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handelssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kaufmannssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Businesssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschäftssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handelssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kaufmannssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Businesssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Britisches Englisch</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Englische Sprache</subfield>
+            <subfield code="9">(DE-588)4014777-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Geschäftssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handelssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Sondersprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kaufmannssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Businesssprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaft</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Handel</subfield>
+            <subfield code="x">Fachsprache</subfield>
+            <subfield code="9">(DE-588)4117662-5</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">1</subfield>
+            <subfield code="e">Nur lfd. u. vorheriger Jahrg. vorh.</subfield>
+            <subfield code="f">P 86/10 b 11</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000959877</subfield>
+            <subfield code="m">Beilage:^Business spotlight audio.^2005</subfield>
+            <subfield code="n">Beilage zu:^Business spotlight.^2001</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

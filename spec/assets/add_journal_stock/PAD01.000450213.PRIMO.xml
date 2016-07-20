@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:000450213</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT002979509</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">19991119</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20150115175953</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">213490-1</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">011244526</subfield>
+          </datafield>
+          <datafield tag="025" ind1="z" ind2="1">
+            <subfield code="a">213490-1</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">ZDB213490-1</subfield>
+          </datafield>
+          <controlfield tag="030">a||da||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DXDE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="052">p||||||t|||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">9001</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">0012</subfield>
+          </datafield>
+          <datafield tag="076" ind1="c" ind2="1">
+            <subfield code="a">sm</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Neue allgemeine deutsche Bibliothek</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">Neue allgemeine deutsche Bibliothek</subfield>
+          </datafield>
+          <datafield tag="405" ind1="-" ind2="1">
+            <subfield code="a">1.1793 - 107.1806; damit Ersch. eingest.</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Berlin ; Stettin</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Nicolai</subfield>
+          </datafield>
+          <datafield tag="418" ind1="-" ind2="1">
+            <subfield code="a">Kiel</subfield>
+            <subfield code="g">Bohn</subfield>
+            <subfield code="h">bis 1800</subfield>
+          </datafield>
+          <datafield tag="425" ind1="b" ind2="1">
+            <subfield code="a">1793</subfield>
+          </datafield>
+          <datafield tag="425" ind1="c" ind2="1">
+            <subfield code="a">1806</subfield>
+          </datafield>
+          <datafield tag="431" ind1="-" ind2="1">
+            <subfield code="a">Index 69/104.1802/05 in: 105.1806 - 107.1806</subfield>
+          </datafield>
+          <datafield tag="523" ind1="-" ind2="1">
+            <subfield code="a">105.1806 - 107.1806 enth. nur den Index</subfield>
+          </datafield>
+          <datafield tag="527" ind1="z" ind2="1">
+            <subfield code="p">Digital. Ausg. ---&gt;</subfield>
+            <subfield code="a">Neue allgemeine deutsche Bibliothek</subfield>
+            <subfield code="9">HT014270623</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Vorg.: ---&gt;</subfield>
+            <subfield code="a">Allgemeine deutsche Bibliothek</subfield>
+            <subfield code="9">HT001351012</subfield>
+          </datafield>
+          <datafield tag="531" ind1="z" ind2="1">
+            <subfield code="p">Darin aufgeg. ---&gt;</subfield>
+            <subfield code="a">Neue allgemeine deutsche Bibliothek / Intelligenzblatt</subfield>
+            <subfield code="9">HT002984578</subfield>
+          </datafield>
+          <datafield tag="542" ind1="a" ind2="1">
+            <subfield code="a">1866-2463</subfield>
+          </datafield>
+          <datafield tag="542" ind1="a" ind2="1">
+            <subfield code="a">1866-2463</subfield>
+          </datafield>
+          <datafield tag="545" ind1="a" ind2="1">
+            <subfield code="a">1866-2463</subfield>
+            <subfield code="e">= Neue allgemeine deutsche Bibliothek</subfield>
+          </datafield>
+          <datafield tag="580" ind1="-" ind2="1">
+            <subfield code="a">Kir444</subfield>
+          </datafield>
+          <datafield tag="580" ind1="-" ind2="1">
+            <subfield code="a">VD18 90122372</subfield>
+          </datafield>
+          <datafield tag="610" ind1="-" ind2="1">
+            <subfield code="a">Mikrofiche-Ausg.</subfield>
+          </datafield>
+          <datafield tag="610" ind1="a" ind2="1">
+            <subfield code="a">Hildesheim : Olms, 1995. 419 Mikrofiches. (Deutsche Zeitschriften des 18. und 19. Jahrhunderts). - Mikrofiche-Ausg.: Erlangen : Fischer, 1993. 250 Mikrofiches. - Mikrofilm-Ausg.: Reading : Research Publ.</subfield>
+          </datafield>
+          <datafield tag="611" ind1="-" ind2="1">
+            <subfield code="a">Hildesheim</subfield>
+          </datafield>
+          <datafield tag="613" ind1="-" ind2="1">
+            <subfield code="a">Olms</subfield>
+          </datafield>
+          <datafield tag="614" ind1="-" ind2="1">
+            <subfield code="a">Erlangen</subfield>
+          </datafield>
+          <datafield tag="616" ind1="-" ind2="1">
+            <subfield code="a">Fischer</subfield>
+          </datafield>
+          <datafield tag="619" ind1="b" ind2="1">
+            <subfield code="a">1995</subfield>
+          </datafield>
+          <datafield tag="619" ind1="c" ind2="1">
+            <subfield code="a">1995</subfield>
+          </datafield>
+          <datafield tag="621" ind1="-" ind2="1">
+            <subfield code="a">Deutsche Zeitschriften des 18. und 19. Jahrhunderts</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">050</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">050</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">830</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <controlfield tag="SYS">000450213</controlfield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">2</subfield>
+            <subfield code="a">Anh. zu</subfield>
+            <subfield code="b">1/28.1792/95(1797/1801) - 29/68.1796/1800(1802/03)</subfield>
+            <subfield code="e">Mikrofiche-Ausg.</subfield>
+            <subfield code="f">P 92/01 d 30</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">1</subfield>
+            <subfield code="b">1.1793 - 107.1806</subfield>
+            <subfield code="e">Mikrofiche-Ausg.</subfield>
+            <subfield code="f">P 92/01 d 30</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000247764</subfield>
+            <subfield code="m">Später unter dem Titel:^Neue allgemeine deutsche Bibliothek.^1793</subfield>
+            <subfield code="n">Früher unter dem Titel:^Allgemeine deutsche Bibliothek.^1765</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000451145</subfield>
+            <subfield code="m">Später unter dem Titel:^Neue allgemeine deutsche Bibliothek.^1793</subfield>
+            <subfield code="n">Früher unter dem Titel:^Neue allgemeine deutsche Bibliothek / Intelligenzblatt.^1793</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000913186</subfield>
+            <subfield code="m">Auch unter dem Titel:^Neue allgemeine deutsche Bibliothek.^1793</subfield>
+            <subfield code="n">Auch unter dem Titel:^Neue allgemeine deutsche Bibliothek.^1793</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
