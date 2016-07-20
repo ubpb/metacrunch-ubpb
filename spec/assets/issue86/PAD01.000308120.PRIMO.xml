@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:000308120</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT002151897</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">19991118</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20150414201312</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">151380-1</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">010904328</subfield>
+          </datafield>
+          <datafield tag="025" ind1="z" ind2="1">
+            <subfield code="a">151380-1</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">ZDB151380-1</subfield>
+          </datafield>
+          <controlfield tag="030">a||da||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="052">pbi||||az||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">9001</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">9001</subfield>
+          </datafield>
+          <datafield tag="073" ind1="-" ind2="1">
+            <subfield code="a">8,1</subfield>
+          </datafield>
+          <datafield tag="078" ind1="n" ind2="1">
+            <subfield code="a">NWBib-61</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Paderborner Bibliographie ...</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">das Schrifttum über die Stadt Paderborn ; mit Nachträgen aus früheren Jahren</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">Bibliographien zur westfälischen Regionalgeschichte / Paderborner Bibliographie</subfield>
+          </datafield>
+          <datafield tag="405" ind1="-" ind2="1">
+            <subfield code="a">1578/1945(1992); 1946/79(2002); 1980/81(1988); 1982/83(1985) - 1988/89(1991); 1990/94(1999)[?]; 1995/2010(2015) -</subfield>
+          </datafield>
+          <datafield tag="406" ind1="a" ind2="1">
+            <subfield code="j">1578/1945</subfield>
+          </datafield>
+          <datafield tag="406" ind1="a" ind2="1">
+            <subfield code="j">1946/79</subfield>
+          </datafield>
+          <datafield tag="406" ind1="a" ind2="1">
+            <subfield code="j">1980/81</subfield>
+          </datafield>
+          <datafield tag="406" ind1="a" ind2="1">
+            <subfield code="j">1982/83</subfield>
+            <subfield code="k">1988/89</subfield>
+          </datafield>
+          <datafield tag="406" ind1="a" ind2="1">
+            <subfield code="j">1990/94</subfield>
+          </datafield>
+          <datafield tag="406" ind1="b" ind2="1">
+            <subfield code="j">1995/2010</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Paderborn</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Verein für Geschichte an der Universität-GH-Paderborn</subfield>
+          </datafield>
+          <datafield tag="418" ind1="-" ind2="1">
+            <subfield code="a">Paderborn</subfield>
+            <subfield code="g">Verl. d. Vereins für Geschichte</subfield>
+            <subfield code="h">-1998</subfield>
+          </datafield>
+          <datafield tag="418" ind1="-" ind2="1">
+            <subfield code="a">Köln</subfield>
+            <subfield code="g">SH-Verl.</subfield>
+            <subfield code="h">teils</subfield>
+          </datafield>
+          <datafield tag="425" ind1="b" ind2="1">
+            <subfield code="a">1985</subfield>
+          </datafield>
+          <datafield tag="451" ind1="b" ind2="1">
+            <subfield code="a">Bibliographien zur westfälischen Regionalgeschichte</subfield>
+          </datafield>
+          <datafield tag="523" ind1="-" ind2="1">
+            <subfield code="a">Ersch. unregelmäßig</subfield>
+          </datafield>
+          <datafield tag="527" ind1="z" ind2="1">
+            <subfield code="p">Digital. Ausg. ---&gt;</subfield>
+            <subfield code="a">Paderborner Bibliographie</subfield>
+            <subfield code="9">HT017630496</subfield>
+          </datafield>
+          <datafield tag="537" ind1="-" ind2="1">
+            <subfield code="a">IIA!(21-11-11)6!läuft weiter(14-04-15)</subfield>
+          </datafield>
+          <datafield tag="542" ind1="a" ind2="1">
+            <subfield code="a">0178-5303</subfield>
+          </datafield>
+          <datafield tag="542" ind1="z" ind2="1">
+            <subfield code="b">kart.</subfield>
+          </datafield>
+          <datafield tag="545" ind1="a" ind2="1">
+            <subfield code="a">0178-5303</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">85,B18,0722</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">61</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">03</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">900</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">910</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">914.3</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">914.3</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">943</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">AD 57949</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">NR 4720</subfield>
+          </datafield>
+          <datafield tag="700" ind1="n" ind2="1">
+            <subfield code="a">99</subfield>
+            <subfield code="b">Paderborn</subfield>
+          </datafield>
+          <datafield tag="700" ind1="n" ind2="1">
+            <subfield code="a">101000</subfield>
+          </datafield>
+          <datafield tag="710" ind1="a" ind2="1">
+            <subfield code="a">Bibliographie / Regionalbibliographie</subfield>
+          </datafield>
+          <datafield tag="710" ind1="d" ind2="1">
+            <subfield code="a">Paderborn</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="g">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">Bibliographie</subfield>
+          </datafield>
+          <datafield tag="904" ind1="a" ind2="1">
+            <subfield code="a">ZDB</subfield>
+          </datafield>
+          <controlfield tag="SYS">000308120</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadt Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rathaus Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Padiborna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Patherbrunna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Paderborn</subfield>
+            <subfield code="b">Stadtverwaltung</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadt Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rathaus Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Padiborna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Patherbrunna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Paderborn</subfield>
+            <subfield code="b">Stadtverwaltung</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadt Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rathaus Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Padiborna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Patherbrunna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Paderborn</subfield>
+            <subfield code="b">Stadtverwaltung</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadt Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rathaus Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Padiborna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Patherbrunna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Paderborn</subfield>
+            <subfield code="b">Stadtverwaltung</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Stadt Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rathaus Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Padiborna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Patherbrunna</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Paderborn</subfield>
+            <subfield code="b">Stadtverwaltung</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="k">Stadtverwaltung</subfield>
+            <subfield code="h">Paderborn</subfield>
+            <subfield code="9">(DE-588)4044283-4</subfield>
+          </datafield>
+          <datafield tag="125" ind1="b" ind2=" ">
+            <subfield code="a">Einzelband-Aufführung</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">1</subfield>
+            <subfield code="b">1578/1945(1992); 1946/79(2002); 1980/81(1988); 1982/83(1985) - 1988/89(1991); 1990/94(1999); 1995/2010(2015)</subfield>
+            <subfield code="f">P 38 LUHP 1330</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">2</subfield>
+            <subfield code="b">1578/1945(1992); 1946/79(2002); 1980/81(1988); 1982/83(1985) - 1988/89(1991); 1990/94(1999); 1995/2010(2015)</subfield>
+            <subfield code="f">P 28 LUHP 1893</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001562521</subfield>
+            <subfield code="m">Auch unter dem Titel:^Paderborner Bibliographie ....^1985</subfield>
+            <subfield code="n">Auch unter dem Titel:^Paderborner Bibliographie.^1985</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="i">1991.3927G</subfield>
+            <subfield code="n">38</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-230</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1980/81</subfield>
+            <subfield code="i">2005.351</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-10</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1982/83</subfield>
+            <subfield code="i">2005.352</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-20</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1984/85</subfield>
+            <subfield code="i">2005.353</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-30</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1986/87</subfield>
+            <subfield code="i">2005.354</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-40</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1988/89</subfield>
+            <subfield code="i">2005.355</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-50</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1990/94</subfield>
+            <subfield code="i">2005.356</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20051201</subfield>
+            <subfield code="5">293931-60</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893</subfield>
+            <subfield code="g">1995/2010</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20150410</subfield>
+            <subfield code="5">293931-100</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893-1578/1945</subfield>
+            <subfield code="g">1578/1945</subfield>
+            <subfield code="i">2005.187</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20050120</subfield>
+            <subfield code="5">293931-130</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">28</subfield>
+            <subfield code="d">LUHP1893-1946/79</subfield>
+            <subfield code="g">1946/79</subfield>
+            <subfield code="i">2005.207</subfield>
+            <subfield code="n">60</subfield>
+            <subfield code="k">20050121</subfield>
+            <subfield code="5">293931-150</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1578/1945</subfield>
+            <subfield code="i">95:951</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-120</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1946/79</subfield>
+            <subfield code="i">02:1145</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20011212</subfield>
+            <subfield code="5">293931-140</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1980/81</subfield>
+            <subfield code="i">1988.2128G</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-160</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1982/83</subfield>
+            <subfield code="i">1986.1165G</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-180</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1984/85</subfield>
+            <subfield code="i">1987.6314G</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-200</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1986/87</subfield>
+            <subfield code="i">1989.4308G</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-220</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1988/89</subfield>
+            <subfield code="i">95:952</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-250</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1990/94</subfield>
+            <subfield code="i">2000.0058</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">293931-270</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">38</subfield>
+            <subfield code="d">LUHP1330</subfield>
+            <subfield code="g">1995/2010</subfield>
+            <subfield code="n">37</subfield>
+            <subfield code="k">20150410</subfield>
+            <subfield code="5">293931-110</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001515570</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT013565457</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20030110</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20150706101248</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">2097897-2</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">024195901</subfield>
+          </datafield>
+          <datafield tag="025" ind1="z" ind2="1">
+            <subfield code="a">2097897-2</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">ZDB2097897-2</subfield>
+          </datafield>
+          <controlfield tag="030">a||da||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="052">p||||||aq||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">0035</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">0021</subfield>
+          </datafield>
+          <datafield tag="073" ind1="-" ind2="1">
+            <subfield code="a">1</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Grundschule Religion:</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">Grundschule Religion</subfield>
+          </datafield>
+          <datafield tag="370" ind1="c" ind2="1">
+            <subfield code="a">Religion</subfield>
+          </datafield>
+          <datafield tag="405" ind1="-" ind2="1">
+            <subfield code="a">Nr. 1.2002 -</subfield>
+          </datafield>
+          <datafield tag="406" ind1="b" ind2="1">
+            <subfield code="j">2002</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Seelze</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Friedrich</subfield>
+          </datafield>
+          <datafield tag="418" ind1="-" ind2="1">
+            <subfield code="a">Seelze-Velber</subfield>
+            <subfield code="g">Kallmeyer bei Friedrich</subfield>
+            <subfield code="h">-2008?</subfield>
+          </datafield>
+          <datafield tag="425" ind1="b" ind2="1">
+            <subfield code="a">2002</subfield>
+          </datafield>
+          <datafield tag="435" ind1="-" ind2="1">
+            <subfield code="a">30 cm</subfield>
+          </datafield>
+          <datafield tag="505" ind1="-" ind2="1">
+            <subfield code="p">Nebent.</subfield>
+            <subfield code="a">Religion</subfield>
+          </datafield>
+          <datafield tag="523" ind1="-" ind2="1">
+            <subfield code="a">Ersch. vierteljährl.</subfield>
+          </datafield>
+          <datafield tag="524" ind1="-" ind2="1">
+            <subfield code="p">Ungezählte Beil.</subfield>
+            <subfield code="a">Material</subfield>
+          </datafield>
+          <datafield tag="529" ind1="z" ind2="1">
+            <subfield code="p">Beil.: ---&gt;</subfield>
+            <subfield code="a">Bildung + lernen</subfield>
+            <subfield code="9">HT013711309</subfield>
+          </datafield>
+          <datafield tag="537" ind1="-" ind2="1">
+            <subfield code="a">(Doppelpunkt in 4000 steht für 2 dicke rote Punkte lt. Vorl.)</subfield>
+          </datafield>
+          <datafield tag="542" ind1="a" ind2="1">
+            <subfield code="a">1610-7764</subfield>
+          </datafield>
+          <datafield tag="542" ind1="a" ind2="1">
+            <subfield code="a">1610-7764</subfield>
+          </datafield>
+          <datafield tag="545" ind1="a" ind2="1">
+            <subfield code="a">1610-7764</subfield>
+            <subfield code="e">= Grundschule Religion</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">07,A10,0874</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">370</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">370</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">070</subfield>
+            <subfield code="2">ZDB</subfield>
+          </datafield>
+          <datafield tag="700" ind1="g" ind2="1">
+            <subfield code="a">BA 1000</subfield>
+          </datafield>
+          <datafield tag="705" ind1="a" ind2="1">
+            <subfield code="a">372.8405</subfield>
+            <subfield code="c">372.84</subfield>
+            <subfield code="e">DDC22ger</subfield>
+            <subfield code="f">05</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Religionsunterricht</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Grundschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">Zeitschrift</subfield>
+          </datafield>
+          <datafield tag="904" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <controlfield tag="SYS">001515570</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Glaubensunterweisung</subfield>
+            <subfield code="x">Schule</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionsdidaktik</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionslehre</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Glaubensunterweisung</subfield>
+            <subfield code="x">Schule</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionsdidaktik</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionslehre</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Elementarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Schuljahr 1-4</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primärschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarbereich</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primary school</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Polytechnische Oberschule</subfield>
+            <subfield code="x">Unterstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Grundschulen</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Elementarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Schuljahr 1-4</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primärschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarbereich</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primary school</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Polytechnische Oberschule</subfield>
+            <subfield code="x">Unterstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Grundschulen</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Elementarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Schuljahr 1-4</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primärschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarbereich</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primary school</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Polytechnische Oberschule</subfield>
+            <subfield code="x">Unterstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Grundschulen</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Elementarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Schuljahr 1-4</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primärschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarbereich</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primary school</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Polytechnische Oberschule</subfield>
+            <subfield code="x">Unterstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Grundschulen</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Glaubensunterweisung</subfield>
+            <subfield code="x">Schule</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionsdidaktik</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionslehre</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Glaubensunterweisung</subfield>
+            <subfield code="x">Schule</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionsdidaktik</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Religionslehre</subfield>
+            <subfield code="9">(DE-588)4049422-6</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Elementarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Schuljahr 1-4</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primärschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarbereich</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarschule</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primarstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Primary school</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Polytechnische Oberschule</subfield>
+            <subfield code="x">Unterstufe</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Grundschulen</subfield>
+            <subfield code="9">(DE-588)4022349-8</subfield>
+          </datafield>
+          <datafield tag="125" ind1="a" ind2=" ">
+            <subfield code="a">Stücktitel</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">1</subfield>
+            <subfield code="a">Nr.</subfield>
+            <subfield code="b">14/17.2006; 26.2009 -</subfield>
+            <subfield code="f">P 10/28 g 4</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="9">28</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">2</subfield>
+            <subfield code="a">CD-Beilage zu Nr.</subfield>
+            <subfield code="b">28.2009 -</subfield>
+            <subfield code="f">P 96/28 g 4</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="200" ind1=" " ind2=" ">
+            <subfield code="0">3</subfield>
+            <subfield code="a">Materialien zu Nr.</subfield>
+            <subfield code="b">14/17.2006; 26.2009 -</subfield>
+            <subfield code="f">P 02/28 g 4</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603308</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">27.^Gott und das Leid.^2009</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603309</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">28.^Lob der Schöpfung.^2009</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603310</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">29.^Mensch Maria.^2009</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000974153</subfield>
+            <subfield code="m">Beilage zu:^Grundschule Religion:.^2002</subfield>
+            <subfield code="n">Beilage:^Bildung + lernen.^2003</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603298</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">14.^Von Jüngerinnen, Prophetinnen und anderen mutigen Frauen.^2006</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">PAR</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001107890</subfield>
+            <subfield code="m">Beilage zu:^Grundschule Religion:.^2002</subfield>
+            <subfield code="n">Beilage:^Bildung + lernen.^2007</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001743179</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">47 = 2014,2.^Gerecht und solidarisch: Globales Lernen.^2014</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001808841</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">52 = 2015,3.^Gott: vielfältig und geheimnisvoll.^2015</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603315</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">33 = 2010,4.^Lukas erzählt von Jesus Christus.^2010</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001655227</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">43 = 2013,2.^Geschwisterbeziehungen.^2013</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001655228</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">44 = 2013,3.^Advent &amp; Weihnachten.^2013</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001655232</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">45 = 2013,4.^Tod - und was dann?.^2013</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572264</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">38 = 2012,1.^Ostern: Etwas Neues beginnt.^2012</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572265</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">39 = 2012,2.^Zeit erleben.^2012</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572266</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">40 = 2012,3.^&lt;&lt;Die&gt;&gt; dunklen Seiten Gottes.^2012</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572268</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">41 = 2012,4.^David.^2012</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001843700</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">54 = 1. Quartal (2016).^Kinder auf der Flucht.^2016</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603313</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">31 = 2010,2.^Spurensuche nach dem Heiligen.^2010</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603314</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">32 = 2010,3.^Erntedank.^2010</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001547493</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">42 = 2013,1.^Behinderung: inklusiv.^2013</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603300</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">15.^Schuld haben - neu anfangen.^2006</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603304</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">16.^Josefs Geschichten.^2006</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001697123</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">46 = 2014,1.^Weißt du, wo der Himmel ist?.^2014</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001743180</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">48 = 2014,3.^Wunder wirken.^2014</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001764881</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">49 = 2014,4.^Unter Gottes Segen.^2014</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001798622</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">51 = 2015,2.^Türme: Näher zu Gott?.^2015</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001831320</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">53 = 2015,4.^Advent: Licht in dunkler Zeit.^2015</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572256</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">34 = 2011,1.^Kinderarmut: Helfen lernen.^2011</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572260</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">35 = 2011,2.^Engel: Boten Gottes.^2011</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572261</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">36 = 2011,3.^Martin Luther.^2011</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001572263</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">37 = 2011,4.^Propheten.^2011</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001520114</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">30 = 2010,1.^Gelebtes Judentum.^2010</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603305</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">17.^Beten.^2006</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001603307</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">26.^Weisungen und Gebote.^2009</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRD</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">001776778</subfield>
+            <subfield code="m">Grundschule Religion:.^2002</subfield>
+            <subfield code="n">50 = 2015,1.^Biographisches Lernen.^2015</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2006, H. 14-17, Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130812</subfield>
+            <subfield code="5">1515598-310</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2009, H. 26-29, Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130812</subfield>
+            <subfield code="5">1515598-330</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2013,42, 43, 45 Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130305</subfield>
+            <subfield code="5">1515598-140</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2014,46, 48, 49 Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20150220</subfield>
+            <subfield code="5">1515598-430</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2015,50, 51, 53 Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20160303</subfield>
+            <subfield code="5">1515598-510</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2006, H. 14-17</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130812</subfield>
+            <subfield code="5">1515598-300</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2009, H. 26-29</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130812</subfield>
+            <subfield code="5">1515598-320</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2010, H. 30-33</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130129</subfield>
+            <subfield code="5">1515598-10</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2010, H. 30-33, Materialien</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130813</subfield>
+            <subfield code="5">1515598-350</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2011, H. 34-37 + Beilagen</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130613</subfield>
+            <subfield code="5">1515598-220</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2012, H. 38-41 + Beilagen</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130613</subfield>
+            <subfield code="5">1515598-230</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2013, H. 42-45</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20140127</subfield>
+            <subfield code="5">1515598-420</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2014, H. 46-49 + Beilagen</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20141217</subfield>
+            <subfield code="5">1515598-500</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSBD</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2015, H. 50-53 + Beilagen</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20160119</subfield>
+            <subfield code="5">1515598-580</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSEJ</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">96</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2009, 28, CD</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130812</subfield>
+            <subfield code="5">1515598-340</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSEJ</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">96</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2011, 35, CD</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">20130613</subfield>
+            <subfield code="5">1515598-290</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSEJ</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">96</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2013, 44, CD</subfield>
+            <subfield code="n">36</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-360</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSUE</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">02</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2016,55 Material</subfield>
+            <subfield code="n">32</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-610</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSUE</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2016,54 + 2 Beilagen</subfield>
+            <subfield code="n">32</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-540</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSUE</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2016,55</subfield>
+            <subfield code="n">32</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-550</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSUE</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2016,56</subfield>
+            <subfield code="n">32</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-560</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">ISSUE</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">28g4</subfield>
+            <subfield code="g">2016,57</subfield>
+            <subfield code="n">32</subfield>
+            <subfield code="k">00000000</subfield>
+            <subfield code="5">1515598-570</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
