@@ -48,7 +48,7 @@ def asset_dir
 end
 
 def define_field_test(id, options = {})
-  asset_directory = described_class.to_s.split("::").last.underscore
+  asset_directory = (described_class && described_class.to_s.split("::").last.underscore) || File.basename(location).sub(/_spec.+\Z/, "")
   mab_xml_file_name = id[/\A\d{9}\Z/] ? "PAD01.#{id}.PRIMO.xml" : "#{id}.xml"
   mab_xml_asset_path = File.join(asset_directory, mab_xml_file_name)
   transformation = options.delete(:transformation) || Metacrunch::UBPB::Transformations::MabToPrimo.new
