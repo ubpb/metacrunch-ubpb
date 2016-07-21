@@ -31,7 +31,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock < Metacrunc
       }
     end
     .sort do |a,b|
-      a.fetch("Sortierhilfe (NW)") <=> b.fetch("Sortierhilfe (NW)")
+      (a.fetch("Sortierhilfe (NW)") || "0") <=> (b.fetch("Sortierhilfe (NW)") || "0") # very few records need the "0" default
     end
     .map do |field|
       {

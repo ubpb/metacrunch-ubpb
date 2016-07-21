@@ -7,4 +7,10 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock do
     {:comment=>"Mikrofiche-Ausg.", :leading_text=>nil, :gaps=>nil, :stock=>["1.1793 - 107.1806"], :signature=>"P92/01d30"},
     {:comment=>"Mikrofiche-Ausg.", :leading_text=>"Anh. zu", :gaps=>nil, :stock=>["1/28.1792/95(1797/1801) - 29/68.1796/1800(1802/03)"], :signature=>"P92/01d30"}
   ]
+
+  # `sort': comparison of Hash with Hash failed (ArgumentError) regression
+  define_field_test "000264257", journal_stock: [
+    {:comment=>"Nur lfd. u. vorheriger Jahrg. vorh.", :leading_text=>nil, :gaps=>nil, :stock=>nil, :signature=>"P30/46s24"},
+    {:comment=>nil, :leading_text=>nil, :gaps=>nil, :stock=>["11.1973 - 18.1980", "33.1995 - 45.2007"], :signature=>"P30/46s24"}
+  ]
 end
