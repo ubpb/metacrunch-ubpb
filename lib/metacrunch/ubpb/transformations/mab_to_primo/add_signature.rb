@@ -1,8 +1,11 @@
 require "metacrunch/hash"
 require "metacrunch/transformator/transformation/step"
 require_relative "../mab_to_primo"
+require_relative "./helpers/signature"
 
 class Metacrunch::UBPB::Transformations::MabToPrimo::AddSignature < Metacrunch::Transformator::Transformation::Step
+  include parent::Helpers::Signature
+
   def call
     target ? Metacrunch::Hash.add(target, "signature", signature) : signature
   end
@@ -40,8 +43,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSignature < Metacrunch::
           break
         end
       end
-    # ansonsten extrahiere aus den normalen Signaturen eine Basis-Signatur
-    else
+    else # ansonsten extrahiere aus den normalen Signaturen eine Basis-Signatur
       # Lösche alle Felder die als Standordkennziffer eine Magazinkennung haben
       fields = fields.reject{|f| f.subfields.find{|sf| sf.code == 'b' && sf.value.match(/02|03|04|07/)}.present?}
 
@@ -60,10 +62,8 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSignature < Metacrunch::
       fields.each do |field|
         field.subfields(["d", "f"]).each do |_subfield|
           if _subfield.value.present?
-            signature      = _subfield.value
-            index          = signature.index('+') || signature.length
-            base_signature = signature[0..index-1]
-            signatures << base_signature
+            signature = _subfield.value
+            signatures << base_signature(signature)
           end
         end
       end
@@ -72,26 +72,8 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSignature < Metacrunch::
     # Stücktitel Signatur
     signatures << source.datafields('100', ind2: ' ').subfields('a').value
 
-    # Some additional love for journal signatures
-    signatures.map! do |signature|
-      # if this is a journal signature
-      if signature.try(:[], /\d+[A-Za-z]\d+$/).present?
-        # unless there is a leading standortkennziffer
-        unless signature.starts_with?('P')
-          standort_kennziffer = if (loc_standort_kennziffer = source.datafields('LOC').subfields('b').value).present?
-            loc_standort_kennziffer
-          elsif (f105a = source.datafields('105').subfields('a').value).present?
-            f105a
-          end
-
-          standort_kennziffer.present? ? "P#{standort_kennziffer}/#{signature}".gsub(/\/\//, '/') : signature
-        else
-          signature
-        end.downcase.capitalize # last but not least make journal signatures like P10/34T24 to P10/34t24
-      else
-        signature
-      end
-    end
+    # Final cleanup
+    signatures = signatures.map{|s| clean_signature(s)}
 
     # Fertig. Wir nehmen die erste Signatur zur Anzeige
     signatures.flatten.map(&:presence).compact.uniq.first

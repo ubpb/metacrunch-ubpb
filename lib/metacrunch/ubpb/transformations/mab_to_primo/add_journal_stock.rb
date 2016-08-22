@@ -1,8 +1,11 @@
 require "metacrunch/hash"
 require "metacrunch/transformator/transformation/step"
 require_relative "../mab_to_primo"
+require_relative "./helpers/signature"
 
 class Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock < Metacrunch::Transformator::Transformation::Step
+  include parent::Helpers::Signature
+
   def call
     target ? Metacrunch::Hash.add(target, "journal_stock", journal_stock) : journal_stock
   end
@@ -39,9 +42,10 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock < Metacrunc
         leading_text: field.fetch("Einleitender Text (NW)").try(:sub, /\A-\s+/, ""), # remove "- " which is sometimes prepended
         gaps: field.fetch("Lückenangabe (allgemein) (NW)").try(:sub, /\A\[N=/, "").try(:sub, /\]\Z/, "").try(:split, ";").try(:map, &:strip),
         stock: field.fetch("Zusammenfassende Bestandsangabe (NW)").try(:split, ";").try(:map, &:strip),
-        signature: field.fetch("Magazin- / Grundsignatur (NW)").try(:gsub, /\s/, "")
+        signature: clean_signature(field.fetch("Magazin- / Grundsignatur (NW)"))
       }
     end
     .presence
   end
+
 end
