@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:000603692</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00151nM2.01200024------u</leader>
+          <controlfield tag="LDR">00151nM2.01200024------u</controlfield>
+          <controlfield tag="FMT">MU</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT004360085</subfield>
+          </datafield>
+          <datafield tag="001" ind1="-" ind2="2">
+            <subfield code="a">HT004360072</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">19921222</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="2">
+            <subfield code="a">19930106</subfield>
+          </datafield>
+          <datafield tag="004" ind1="-" ind2="1">
+            <subfield code="a">20031206</subfield>
+          </datafield>
+          <datafield tag="010" ind1="-" ind2="1">
+            <subfield code="a">HT004360072</subfield>
+          </datafield>
+          <controlfield tag="030">a|5dc||||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">385</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="2">
+            <subfield code="a">385</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="2">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="089" ind1="-" ind2="1">
+            <subfield code="a">1 (1992)</subfield>
+          </datafield>
+          <datafield tag="090" ind1="-" ind2="1">
+            <subfield code="a">1</subfield>
+          </datafield>
+          <datafield tag="100" ind1="b" ind2="2">
+            <subfield code="p">Bittner, Andreas</subfield>
+            <subfield code="9">(DE-588)111822718</subfield>
+            <subfield code="b">[Hrsg.]</subfield>
+          </datafield>
+          <datafield tag="200" ind1="b" ind2="2">
+            <subfield code="k">Institut für Interkulturelles Management</subfield>
+            <subfield code="h">Rheinbreitbach</subfield>
+            <subfield code="9">(DE-588)5060476-4</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="2">
+            <subfield code="a">Aspekte interkulturellen Managements</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="2">
+            <subfield code="a">Institut für Interkulturelles Management. Adreas Bittner ...</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="2">
+            <subfield code="a">Bad Honnef</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="2">
+            <subfield code="a">IFIM</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">IV, 124 Bl.</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="2">
+            <subfield code="s">Internationales Management</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="2">
+            <subfield code="s">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="903" ind1="-" ind2="2">
+            <subfield code="a">21</subfield>
+          </datafield>
+          <datafield tag="907" ind1="-" ind2="2">
+            <subfield code="s">Internationales Management</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="907" ind1="-" ind2="2">
+            <subfield code="s">Personalentwicklung</subfield>
+            <subfield code="9">(DE-588)4121465-1</subfield>
+          </datafield>
+          <datafield tag="908" ind1="-" ind2="2">
+            <subfield code="a">21</subfield>
+          </datafield>
+          <controlfield tag="SYS">000603692</controlfield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">IFIM</subfield>
+            <subfield code="9">(DE-588)5060476-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">IFIM</subfield>
+            <subfield code="9">(DE-588)5060476-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Betrieb</subfield>
+            <subfield code="x">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Personalmanagement</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Unternehmen</subfield>
+            <subfield code="x">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Personalwirtschaftslehre</subfield>
+            <subfield code="h">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Betrieb</subfield>
+            <subfield code="x">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Personalmanagement</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Unternehmen</subfield>
+            <subfield code="x">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Personalwirtschaftslehre</subfield>
+            <subfield code="h">Personalpolitik</subfield>
+            <subfield code="9">(DE-588)4045269-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Unternehmen</subfield>
+            <subfield code="x">Personalentwicklung</subfield>
+            <subfield code="9">(DE-588)4121465-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Unternehmen</subfield>
+            <subfield code="x">Personalentwicklung</subfield>
+            <subfield code="9">(DE-588)4121465-1</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Globales Management</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Internationale Unternehmensführung</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Globalmanagement</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Management</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Globales Management</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Internationale Unternehmensführung</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Globalmanagement</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="2">
+            <subfield code="s">Management</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4114040-0</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="2">
+            <subfield code="k">IFIM</subfield>
+            <subfield code="9">(DE-588)5060476-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="2">
+            <subfield code="k">IFIM</subfield>
+            <subfield code="9">(DE-588)5060476-4</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Aspekte interkulturellen Managements</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=832490&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">OCR-TEXT: INHALT INTERNATIONALE PERSONALENTWICKLUNG - BEITRAEGE L  GESUCHT: DER "GLOBAL PLAYER" DER BEDARF AN INTERKULTURELLEN MANAGERN WAECHST 2  INTERNATIONALE PERSONALENTWICKLUNG: WIE WEIT SIND DEUTSCHE UNTERNEHMEN? INSTITUT FUER INTERKULTURELLES MANAGEMENT LEGT UMFRAGEERGEBNISSE VOR 5  LIEBE GAESTE WIE FUEHLEN SICH AUSLAENDISCHE GAESTE DEUTSCHER UNTERNEHMEN? 7  EUROMANAGER EIN BEITRAG ZUR EUROPAEISCHEN PERSONALLEITER-TAGUNG DER MERCEDES BENZ AG 11  NICHT MEHR DEUTSCH? EUROPAEISCHER BINNENMARKT UND EUROPAEISCHE CORPORATE IDENTITY 18  ANGST VOR DEUTSCHLAND? WIE KOENNEN WIR DEN IRRITATIONEN DES AUSLANDS BEGEGNEN? 21 AUSLANDSENTSENDUNGEN - PROBLEME UND LOESUNGEN 26  PERSONALMANAGEMENT; WAS AUSLANDSEINSAETZE ATTRAKTIV MACHT 27  INTERKULTURELLES MANAGEMENT ALS SYNERGKMANAGEMENT 28  AUSLAENDSERFAHRUNG: EIN WERT AN SICH? EXPERTEN GLAUBEN, DASS AUSLANDSERFAHRUNG FALSCH BEWERTET WIRD 33  FUERS AUSLAND GEBOREN HARTE MAENNER SUCHEN HARTE MAENNER 36  "VOR ALLEM UM DER KARRIERE WILLEN ^' DIE MOTIVE FUER EINE AUSLANDSTAETIGKEIT HABEN SICH VERAENDERT 40  MANCHMAL IST ES ZUM VERZWEIFELN! DEUTSCHE MANAGER FUEHLEN SICH IN AFRIKA OFT ALLEIN GELASSEN 44  SIND SIE EIN OPFERTYP ? EIN ANDERER BLICK AUF DIE KORRUPTION IN DER DRITTEN WELT 46 N / IM AUSLAND WIEDER HEIMCHEN AM HERD ? \ AEUSLANDSENTSENDUNGEN BELASTEN DIE PARTNERSCHAFT 50 { MIT KIND UND KEGEL \^ WIE ERLEBEN KINDER DEN AUSLANDSEINSATZ IHRER ELTERN ? 53 / \ J \ "WILLKOMMEN DAHEIM!" - DAHEIM NICHT WILLKOMMEN? /AUSLANDSMITARBEITER LEIDEN UNTER REINTEGRATIONSPROBLEMEN 59 LAENDER UND REGIONEN - BEISPIELE AUS DER PRAXIS 65  ERFOLGE IN JAPAN • PANNEN IN FRANKREICH ? DIE WAHRNEHMUNG INTERKULTURELLER PROBLEME IST PSYCHOLOGISCH BEEINFLUSST 66  KEIN PROBLEM! DEUTSCHE UNTERNEHMEN IN LATEINAMERIKA 71  JA, MACH NUR EINEN PLAN — UNTERSCHIEDLICHES PLANUNGSVERSTAENDNIS BEHINDERT INTERNATIONALE KOOPERATIONEN 73  ITALIENER LIEBEN'S ROT DIE BEDEUTUNG DER FARBEN IST KULTURELL GEPRAEGT 77</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a"> SCHWIERIGES TERRAIN DEUTSCH-FRANZOESISCHE KOOPERATION STOESST AUF KULTURELLE HUERDEN 78</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">UP</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000603691</subfield>
+            <subfield code="m">1 (1992);^.^</subfield>
+            <subfield code="n">Aspekte interkulturellen Managements.^</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">03</subfield>
+            <subfield code="d">MQ3796</subfield>
+            <subfield code="i">93/15284</subfield>
+            <subfield code="n">21</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">577297-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

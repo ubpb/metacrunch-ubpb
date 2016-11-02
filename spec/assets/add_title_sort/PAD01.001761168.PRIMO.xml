@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001761168</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00881pM2.01200024------h</leader>
+          <controlfield tag="LDR">00881pM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018141978</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20140122</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20150330</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">HBZHT018141978</subfield>
+          </datafield>
+          <controlfield tag="030">a|1daz|z|||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-NW</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">s|||z|||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">61</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">294</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="b" ind2="1">
+            <subfield code="p">Ahrens, Ralf</subfield>
+            <subfield code="d">1963-</subfield>
+            <subfield code="9">(DE-588)12309979X</subfield>
+            <subfield code="b">[Hrsg.]</subfield>
+          </datafield>
+          <datafield tag="104" ind1="b" ind2="1">
+            <subfield code="p">Gehlen, Boris</subfield>
+            <subfield code="d">1973-</subfield>
+            <subfield code="9">(DE-588)133497739</subfield>
+            <subfield code="b">[Hrsg.]</subfield>
+          </datafield>
+          <datafield tag="108" ind1="b" ind2="1">
+            <subfield code="p">Reckendrees, Alfred</subfield>
+            <subfield code="d">1962-</subfield>
+            <subfield code="9">(DE-588)121547167</subfield>
+            <subfield code="b">[Hrsg.]</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">&lt;&lt;Die&gt;&gt; "Deutschland-AG"</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">historische Annäherungen an den bundesdeutschen Kapitalismus</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Ralf Ahrens, Boris Gehlen, Alfred Reckendrees (Hg.)</subfield>
+          </datafield>
+          <datafield tag="403" ind1="-" ind2="1">
+            <subfield code="a">1. Aufl.</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Essen</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Klartext-Verl.</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2013</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">377 S. : graph. Darst.</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Bochumer Schriften zur Unternehmens- und Industriegeschichte ; 20</subfield>
+          </datafield>
+          <datafield tag="453" ind1="-" ind2="1">
+            <subfield code="a">HT004220262</subfield>
+          </datafield>
+          <datafield tag="455" ind1="-" ind2="1">
+            <subfield code="a">20</subfield>
+          </datafield>
+          <datafield tag="456" ind1="-" ind2="1">
+            <subfield code="a">20</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-8375-0986-1</subfield>
+            <subfield code="b">Pb. : ca. EUR 36.00 (DE), ca. EUR 37.10 (AT), ca. sfr 47.90 (freier Pr.)</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-8375-0986-9</subfield>
+          </datafield>
+          <datafield tag="551" ind1="a" ind2="1">
+            <subfield code="a">Best.-Nr.: 20986</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783837509861</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">X:MVB</subfield>
+            <subfield code="q">text/html</subfield>
+            <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=4329106&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+            <subfield code="3">Inhaltstext</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=5465529&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="670" ind1="-" ind2="1">
+            <subfield code="a">&lt;&lt;Die&gt;&gt; Deutschland AG</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">943</subfield>
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Wirtschaftsordnung</subfield>
+            <subfield code="9">(DE-588)4066475-2</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Globalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Großbetrieb</subfield>
+            <subfield code="9">(DE-588)4022149-0</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Finanzkapital</subfield>
+            <subfield code="9">(DE-588)4208411-8</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Verflechtung</subfield>
+            <subfield code="9">(DE-588)4135023-6</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Corporate Governance</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="z">Geschichte 1960-2004</subfield>
+          </datafield>
+          <controlfield tag="SYS">001761168</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltwirtschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltgesellschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalisation</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalization</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltwirtschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltgesellschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalisation</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalization</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Großunternehmen</subfield>
+            <subfield code="9">(DE-588)4022149-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Großunternehmen</subfield>
+            <subfield code="9">(DE-588)4022149-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmenskontrolle</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmensüberwachung</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmenskontrolle</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmensüberwachung</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Heiliges Römisches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Rheinbund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Norddeutscher Bund</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federal Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Republic of Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Ǧumhūrīyat Almāniyā al-Ittiḥādīya</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Bundesrepublik Deutschland</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Niemcy</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">République Fédérale d'Allemagne</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Repubblica Federale di Germania</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Federativnaja Respublika Germanija</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">FRG</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deyizhi-Lianbang-Gongheguo</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsche Länder</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Germany</subfield>
+            <subfield code="h">Deutschland</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutsches Reich</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Gebiet unter Alliierter Besatzung</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">Deutschland</subfield>
+            <subfield code="h">Bundesrepublik, 1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="g">BRD</subfield>
+            <subfield code="h">1990-</subfield>
+            <subfield code="9">(DE-588)4011882-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltwirtschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Weltgesellschaft</subfield>
+            <subfield code="x">Internationalisierung</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalisation</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Globalization</subfield>
+            <subfield code="9">(DE-588)4557997-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Großunternehmen</subfield>
+            <subfield code="9">(DE-588)4022149-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Großunternehmen</subfield>
+            <subfield code="9">(DE-588)4022149-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmenskontrolle</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Unternehmensüberwachung</subfield>
+            <subfield code="9">(DE-588)4419850-4</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">PLU</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">&lt;&lt;Die&gt;&gt; "Deutschland AG"</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=5465530&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: DIE "DEUTSCHLAND AG" AUTOR: JAHR: 2013 INHALT RALFAHRENS/BORIS GEHLEN/ALFRED RECKENDREES DIE DEUTSCHLAND AG ALS HISTORISCHER FORSCHUNGSGEGENSTAND I. STRUKTUREN, MODELLE UND HISTORISCHE WURZELN 7 JUERGEN BEYER DIE STRUKTUREN DER DEUTSCHLAND AG. EIN RUECKBLICK AUF EIN MODELL DER UNTERNEHMENSKONTROLLE 31 ALFRED RECKENDREES HISTORISCHE WURZELN DER DEUTSCHLAND AG 57 KAROLINE KRENN DIE SOZIALE INFRASTRUKTUR ALS WEGBEREITERIN. AUFSICHTSRATSVERFLECHTUNG IN DER WEIMARER REPUBLIK 85 ROMAN KOESTER DIE DEUTSCHLAND AG IM LICHTE HISTORISCHER KAPITALISMUSTHEORIEN ... 117 II. UNTERNEHMENSKONTROLLE IN DER BUNDESREPUBLIK GEROLD AMBROSIUS MARKT, STAAT UND UNTERNEHMENSKONTROLLE. DER WANDEL POLITISCHER LEITVORSTELLUNGEN IN DEN 1950ER UND 1960ER JAHREN 143 BORIS GEHLEN AKTIENRECHT UND UNTERNEHMENSKONTROLLE. NORMATIVE VORGABEN UND UNTERNEHMERISCHE PRAXIS IN DER HOCHPHASE DER DEUTSCHLAND AG 165 RALF AHRENS BANKENMACHT IM AUFSICHTSRAT? DER BANKIER JUERGEN PONTO UND DIE KONTROLLE DEUTSCHER GROSSUNTERNEHMEN IN DEN 1970ER JAHREN 195 FRIEDERIKE SATTLER BEWUSSTE STABILISIERUNG DER DEUTSCHLAND AG? ALFRED HERRHAUSEN UND DER DISKURS UEBER DIE »MACHT DER BANKEN ... 221 HTTP://D-NB.INFO/1034520458 CHRISTIAN MARX DIE INTERNATIONALISIERUNG DER CHEMIEINDUSTRIE ALS HERAUSFORDERUNG FUER DIE DEUTSCHLAND AG III. ALTERNATIVE ARRANGEMENTS UND AUFLOESUNG DER DEUTSCHLAND AG 247 PETER KRAMPER DIE UNGELIEBTE VERWANDTSCHAFT. GEWERKSCHAFTLICHE UNTERNEHMEN UND DIE DEUTSCHLAND AG 1960-1990 277 HEIKO BRAUN AN DER PERIPHERIE DER DEUTSCHLAND AG? DIE FORMELLEN UND INFORMELLEN VERFLECHTUNGSNETZWERKE DER GROSSEN FORSCHENDEN ARZNEIMITTELHERSTELLER IN DEN 1960ER UND 1970ER JAHREN 297 SASKIA FREYE EIN RUECKZUG AUS DER MITTE DER DEUTSCHLAND AG? DIE STRATEGISCHE NEUAUSRICHTUNG VON DAIMLER-BENZ IN DEN 1980ER JAHREN 323 JOERG LESCZENSKI ZWISCHEN KOOPERATION, KRISE UND AUFBRUCH. MESSER GRIESHEIM, HOECHST UND DIE AUFLOESUNG DER DEUTSCHLAND AG (1965-2004) AUTORENVERZEICHNIS 351 377</subfield>
+          </datafield>
+          <datafield tag="PLK" ind1=" " ind2=" ">
+            <subfield code="a">SRU</subfield>
+            <subfield code="l">PAD01</subfield>
+            <subfield code="b">000592234</subfield>
+            <subfield code="m">20.^&lt;&lt;Die&gt;&gt; "Deutschland-AG".^1. Aufl..^2013</subfield>
+            <subfield code="n">Bochumer Schriften zur Unternehmens- und Industriegeschichte.^1992</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">31</subfield>
+            <subfield code="d">PLU1950</subfield>
+            <subfield code="i">14/15141</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20141106</subfield>
+            <subfield code="5">1761168-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

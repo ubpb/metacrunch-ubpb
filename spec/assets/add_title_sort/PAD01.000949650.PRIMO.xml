@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:000949650</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00868nM2.01200024------h</leader>
+          <controlfield tag="LDR">00868nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT014912330</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20061122</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20091103</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">955959799</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">HBZHT014912330</subfield>
+          </datafield>
+          <controlfield tag="030">a|1dar|z|||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">a|b|||||||||||</controlfield>
+          <controlfield tag="051">mc||z|||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">468</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="b" ind2="1">
+            <subfield code="p">Büttner, Claudia</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="9">(DE-588)139651152</subfield>
+            <subfield code="b">[Hrsg.]</subfield>
+          </datafield>
+          <datafield tag="104" ind1="b" ind2="1">
+            <subfield code="p">Acconci, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+            <subfield code="b">[Ill.]</subfield>
+          </datafield>
+          <datafield tag="200" ind1="b" ind2="1">
+            <subfield code="e">Ausstellung Dream City</subfield>
+            <subfield code="d">1999</subfield>
+            <subfield code="c">München</subfield>
+            <subfield code="9">(DE-588)2175698-3</subfield>
+          </datafield>
+          <datafield tag="204" ind1="b" ind2="1">
+            <subfield code="k">Kunstraum München e.V.</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">"Dream City"</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">ein Münchner Gemeinschaftsprojekt ; 25. März bis 20. Juni 1999 ; Kunstraum München, Kunstverein München, Museum Villa Stuck, Siemens-Kulturprogramm</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">[Ausstellung "Dream City". Vito Acconci ... Katalogkoordination: Claudia Büttner ... Übers.: Michael Foster ...]</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">München</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Museum Villa Stuck [u.a.]</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">1999</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">278 S. : zahlr. Ill.</subfield>
+          </datafield>
+          <datafield tag="437" ind1="-" ind2="1">
+            <subfield code="a">Stadtplan (1 Bl.)</subfield>
+          </datafield>
+          <datafield tag="516" ind1="-" ind2="1">
+            <subfield code="a">Text dt. und engl.</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-923244-19-3</subfield>
+            <subfield code="b">kart. : DM 38.00</subfield>
+          </datafield>
+          <datafield tag="568" ind1="-" ind2="1">
+            <subfield code="a">99,N14,0572</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">99,B25,0475</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">46</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="z">Geschichte 1969-1999</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">Ausstellung</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="g">München &lt;1999&gt;</subfield>
+          </datafield>
+          <controlfield tag="SYS">000949650</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bildende Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kunstdenkmal</subfield>
+            <subfield code="h">Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bildende Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kunstdenkmal</subfield>
+            <subfield code="h">Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconci, Vito Hannibal</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconi, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconci, Vito Hannibal</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconi, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconci, Vito Hannibal</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconi, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconci, Vito Hannibal</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconi, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconci, Vito Hannibal</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Acconi, Vito</subfield>
+            <subfield code="d">1940-</subfield>
+            <subfield code="9">(DE-588)118958143</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bildende Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kunstdenkmal</subfield>
+            <subfield code="h">Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bildende Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Kunstdenkmal</subfield>
+            <subfield code="h">Kunst</subfield>
+            <subfield code="9">(DE-588)4114333-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum</subfield>
+            <subfield code="h">München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Kunstraum München</subfield>
+            <subfield code="9">(DE-588)1030546-4</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">KDU</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">KARM</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">LUHM</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">KBLS</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">"Dream City"</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1987114&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">OCR-TEXT: INHALT CONTENTS JO-ANNE BIRNIE DANZKER, LUISE HOERN, 9 DIRK LUCKOW, DIRK SNAUWAERT DREAM CITY RICHARD SENNETT 21 DIE SUCHE NACH EINEM PLATZ IN DER WELT STELLA ROLLIG 31 IM AUSSENDIENST DIRK LUCKOW 37 JOSEPH BEUYS, GUSTAV METZGER UND MARGINALES DENKEN DER 90ER JAHRE ZWISCHEN KRITIK UND CORPORATE DESIGN STEFAN ROEMER 43 EINE KARTOGRAPHIE: VOM WHITE CUBE ZUM AMBIENT AUTORENKOLLEKTIV DES GEOGRAPHISCHEN 53 INSTITUTS DER TECHNISCHEN UNIVERSITAET MUENCHEN MUENCHEN - EIN PARADIES MIT FEHLERN VITO ACCONCI 65 JOSEPH BEUYS 69 HANS-PETER FELDMANN 75 GUSTAV METZGER 81 MARTHA ROSLER 85 AA BRONSON 91 AYSE ERKMEN 97 FELIX GONZALEZ-TORRES 103 CHRISTINE &amp; IRENE HOHENBUECHLER 107 GUELSUEN KARAMUSTAFA 113 OLAFMETZEL 119 TIM ROLLINS &amp; K.O.S. 125 THOMAS SCHUETTE 131 ANNETTE &amp; MANFRED STUMPF 137 STEPHEN CRAIG 143 STEFAN KERN 147 DAN PETERMAN 153 ANDREA ROSTAESY 159 FRANZ ACKERMANN 165 MICHAEL CLEGG &amp; MARTIN GUTTMANN 171 PLAMEN DEJANOV &amp; SWETLANA HEGER 177 YVONNE P. DODERER 183 PETER FRIEDL 189 DANIEL KNORR 195 PIA LANZINGER 201 MICHAELA MELIAEN 205 STEFAN ROEMER 211 UEBERSETZUNGEN UND ORIGINALTEXTE 217 TRANSLATIONS AND ORIGINAL TEXTS JO-ANNE BIRNIE DANZKER, LUISE HOERN, 217 DIRK LUCKOW, DIRK SNAUWAERT DREAM CITY RICHARD SENNETT 225 THE SEARCH FOR A PLACE IN THE WORLD STELLA ROLLIG 230 FIELD DUTY DIRK LUCKOW 234 JOSEPH BEUYS, GUSTAV METZGER, AND MARGINAL MODES OF THOUGHT IN THE ART OF THE 1990 STEFAN ROEMER 238 A CARTOGRAPHY: FROM WHITE CUBE TO AMBIENCE AUTHORS FROM THE GEOGRAPHICAL INSTITUTE 245 OF THE TECHNICAL UNIVERSITY OF MUNICH MUNICH: A FLAWED PARADISE JOSEPH BEUYS 252 HANS-PETER FELDMANN 254 MARTHA ROSLER 255 AA BRONSON 260 FELIX GONZALEZ-TORRES 261 OLAF METZEL 261 ANNETTE &amp; MANFRED STUMPF 262 STEPHEN CRAIG 263 STEFAN KERN 264 ANDREA ROSTAESY 264 MICHAEL CLEGG &amp; MARTIN GUTTMANN 265 PETER FRIEDL 266 PIA LANZINGER 268 MICHAELA MELIAEN 269 STEFAN ROEMER 269 LISTE DER AUSGESTELLTEN WERKE NACH ORTEN 271 LIST OF WORKS ACCORDING TO LOCATION</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">IMPRESSUM 275 DANK 278</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">10</subfield>
+            <subfield code="d">KBLS1413</subfield>
+            <subfield code="i">07/400</subfield>
+            <subfield code="n">30</subfield>
+            <subfield code="k">20070108</subfield>
+            <subfield code="5">965020-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
