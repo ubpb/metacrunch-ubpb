@@ -13,4 +13,5 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleSort do
   define_field_test '000612658', title_sort: "made in germany the corporate identity of a nation"
   define_field_test '000603692', title_sort: "aspekte interkulturellen managements 1 1992"
   define_field_test '001840670', title_sort: "100 nachhaltigkeits cr kennzahlen"
+  define_field_test '001422170', title_sort: "okonomischer patriotismus in zeiten regionaler und internationaler integration zur problematik staatlicher aufsicht über grenzüberschreitende unternehmensübernahmen"
 end

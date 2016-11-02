@@ -18,6 +18,9 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleSort < Metacrunch::
     .gsub(/\s{2,}/, " ")
     .strip
     .downcase
+    .gsub("Ä", "a") # Ruby cannot downcase german umlauts on its own + these should be sorted
+    .gsub("Ö", "o") # alongside with a/o/u
+    .gsub("Ü", "u")
   end
 
   private
