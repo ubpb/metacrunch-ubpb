@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:000612658</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00450nM2.01200024------h</leader>
+          <controlfield tag="LDR">00450nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT004475011</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">19970605</subfield>
+          </datafield>
+          <datafield tag="004" ind1="-" ind2="1">
+            <subfield code="a">20031206</subfield>
+          </datafield>
+          <controlfield tag="030">a|5dc||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">GB</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <controlfield tag="050">a|||||||||||||</controlfield>
+          <controlfield tag="051">m||||||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">BNB</subfield>
+          </datafield>
+          <datafield tag="077" ind1="-" ind2="1">
+            <subfield code="a">b92343132</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Head, David</subfield>
+            <subfield code="9">(DE-588)105787256</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">'Made in Germany'</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">the corporate identity of a nation</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">David Head</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">London [u.a.]</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Hodder &amp; Stoughton</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">1992</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">X, 166 S. : Ill.</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">0-340-55537-8</subfield>
+            <subfield code="b">kart.</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Made in Germany</subfield>
+            <subfield code="9">(DE-588)4120689-7</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Image</subfield>
+            <subfield code="9">(DE-588)4026574-2</subfield>
+          </datafield>
+          <datafield tag="903" ind1="-" ind2="1">
+            <subfield code="a">21</subfield>
+          </datafield>
+          <controlfield tag="SYS">000612658</controlfield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">LNSW</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">LOJW</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">'Made in Germany'</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?application=DIGITOOL-3&amp;owner=resourcediscovery&amp;custom_att_2=simple_viewer&amp;user=GUEST&amp;pid=1585132</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">OCR-TEXT: CONTENTS PREFACE VII ACKNOWLEDGEMENTS IX INTRODUCTION 1 1 THE CENTENARY OF 'MADE IN GERMANY': THE CORPORATE IDENTITY OF A NATION COMES OF AGE 7 2 'MADE IN GERMANY' FROM STIGMA TO SELLING-POINT AND BACK AGAIN 29 3 'MADE IN GERMANY' RUNS AND RUNS 51 4 THE COMPETITIVE ADVANTAGE OF 'MADE IN GERMANY' 67 5 ADVERTISING 'MADE IN GERMANY' 79 6 THE MARK OF CAIN ON 'MADE IN GERMANY' 115 7 'MADE IN GERMANY' IN ITS SECOND CENTURY 145 BIBLIOGRAPHY 165</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">31</subfield>
+            <subfield code="d">LOJW1034</subfield>
+            <subfield code="i">93/20652</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20000217</subfield>
+            <subfield code="5">585631-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

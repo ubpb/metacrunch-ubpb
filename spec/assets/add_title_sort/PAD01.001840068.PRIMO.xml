@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001840068</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00773pM2.01200024------h</leader>
+          <controlfield tag="LDR">00773pM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT016698392</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20160113</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">1008737542</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1008737542</subfield>
+          </datafield>
+          <controlfield tag="030">a|1daz|z|||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">m|||z|||</controlfield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">38</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Spies, Christine</subfield>
+            <subfield code="9">(DE-588)143364731</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">"Wir können auch anders!"</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">[Gefährlichen Entwicklungen bei Schülern entgegenwirken]</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Christine Spies</subfield>
+          </datafield>
+          <datafield tag="410" ind1="-" ind2="1">
+            <subfield code="a">Weinheim [u.a.]</subfield>
+          </datafield>
+          <datafield tag="412" ind1="-" ind2="1">
+            <subfield code="a">Beltz</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2011</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">238 S. : Ill., graph. Darst.</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Pädagogikpraxis</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-407-62746-9</subfield>
+            <subfield code="b">: EUR 29.95 (DE), EUR 30.80 (AT), sfr 43.90 (freier Pr.)</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783407627469</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">10,N51</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">X:MVB</subfield>
+            <subfield code="q">text/html</subfield>
+            <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=3623213&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+            <subfield code="3">Inhaltstext</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=4076068&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">000</subfield>
+          </datafield>
+          <datafield tag="700" ind1="l" ind2="1">
+            <subfield code="a">120</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Mobbing</subfield>
+            <subfield code="9">(DE-588)4314977-7</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Amok</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="s">Prävention</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="902" ind1="-" ind2="1">
+            <subfield code="f">Beispielsammlung</subfield>
+          </datafield>
+          <controlfield tag="SYS">001840068</controlfield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bullying</subfield>
+            <subfield code="h">Mobbing</subfield>
+            <subfield code="9">(DE-588)4314977-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bullying</subfield>
+            <subfield code="h">Mobbing</subfield>
+            <subfield code="9">(DE-588)4314977-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Amoklauf</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Androphonomanie</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Amoklauf</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Androphonomanie</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Verhütung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorbeugung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Prophylaxe</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorsorge</subfield>
+            <subfield code="h">Prävention</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Verhütung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorbeugung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Prophylaxe</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorsorge</subfield>
+            <subfield code="h">Prävention</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Bullying</subfield>
+            <subfield code="h">Mobbing</subfield>
+            <subfield code="9">(DE-588)4314977-7</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Amoklauf</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Androphonomanie</subfield>
+            <subfield code="9">(DE-588)4236142-4</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Verhütung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorbeugung</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Prophylaxe</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="PSW" ind1="-" ind2="1">
+            <subfield code="s">Vorsorge</subfield>
+            <subfield code="h">Prävention</subfield>
+            <subfield code="9">(DE-588)4076308-0</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">ICG</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Wir können auch anders!</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=4076069&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: WIR KNNEN AUCH ANDERS! AUTOR: SPIES, CHRISTINE JAHR: 2011 INHALTSVERZEICHNIS VORWORT VON PROF. HURREIMANN 13 A. GRUNDLAGEN 1 »WIR KOENNEN AUCH ANDERS! - DAS NEUE, RICHTUNGSWEISENDE PRAEVENTIONSKONZEPT 2 AKTUELLE HERAUSFORDERUNGEN 3 ZEITGEMAESSE ANTWORTEN 4 DIE GLEICHZEITIGE EINBEZIEHUNG VON AMOK UND SUIZID IN EIN PRAEVENTIONSKONZEPT 5 PRAEVENTIVE KONSEQUENZEN 6 AMOK ALS GEGENSTAND DER VERMITTLUNG? 7 »JA! - UNTER BEGRUENDETEN BEDINGUNGEN 8 DIE VERANTWORTUNGSVOLLE HERANGEHENSWEISE 9 SUIZID - EIN TABU ZUM THEMA MACHEN 10 DIE ERMUTIGENDE FESTSTELLUNG 11 REZEPTE UND GARANTIEN? NEIN! 12 DAS WEITREICHENDE PRAEVENTIVE SPEKTRUM 13 IM ZENTRUM: DIE LEBENS- UND ERFAHRUNGSWELT VON JUGENDLICHEN IN DER PUBERTAET 14 DIE WIRKSAMKEIT VON »WIR KOENNEN AUCH ANDERS! 15 15 16 17 17 18 19 19 20 21 22 23 23 23 24 B. UMSETZUNG DES KONZEPTS 1 DIE EBENE DER INSTITUTION 1 VORAUSSETZUNGEN 2 DAS SCHULKLIMA 3 MITBESTIMMUNG UND -GESTALTUNG 4 ENTWICKLUNG EINER »CORPORATE IDENTITY 5 ERMOEGLICHEN EINER EVENTKULTUR 6 AUSBILDUNG EINER ANERKENNUNGS- UND LOBKULTUR 7 REGELN FUER DAS ZUSAMMENLEBEN UND ZUSAMMENARBEITEN 8 QUALITAETSSICHERUNG DURCH KLASSEN-SOZIALSTUNDE UND KLASSENRAT 9 KONFLIKTLOESUNGSMODELLE 10 UNTERSTUETZUNGSSYSTEME DURCH GLEICHALTRIGE 11 DAS AUFBRECHEN DES SCHWEIGEGEBOTES 12 DAS PEER-HELPER-TEAM IN DER AMOK- UND SUIZIDPRAEVENTION 13 WEITERE UNTERSTUETZUNGSELEMENTE FUER SCHUELER IN NOTLAGEN 14 DAS SCHULISCHE KRISENMANAGEMENT 15 DAS KRISENTEAM IM HINBLICK AUF EIN AMOKEREIGNIS KV 1: VORSCHLAGSLISTE FUER MASSNAHMEN DES KRISENTEAMS KV 2: MERKBLATT FUER AMOKLAGEN KV 3: FORMBLATT FUER DIE EVAKUIERUNG 16 BEDROHUNGSMANAGEMENT IN DER SCHULE 25 25 25 25 26 26 27 28 29 30 31 31 32 32 33 33 34 36 37 38 39 BIBLIOGRAFISCHE INFORMATIONEN HTTP://D-NB.INFO/1008737542 DIGITALISIERT DURCH INHALTSVERZEICHNIS</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">17 DIE DYNAMIK IM VORFELD VON AMOKTATEN 18 DER GEFAHRLICHE SOG - NACHAHMUNGSTATEN 19 DAS BEDUERFNIS NACH EINER GESICHERTEN EINSCHAETZUNG KV 4: FRUEHWARNSIGNALE UND RISIKOMARKER IM HINBLICK AUF AMOK (1) KV 5: FRUEHWARNSIGNALE UND RISIKOMARKER IM HINBLICK AUF AMOK (2) KV 6: LEAKING - DIE GROSSE CHANCE FUER EIN RECHTZEITIGES EINGREIFEN 20 UMGANG MIT AMOKDROHUNGEN 21 ERSTE EINSCHAETZUNG VON DROHUNGEN KV 7: BEWERTUNG VON AMOKDROHUNGEN 22 FALLMANAGEMENT 23 DIE FALL- BZW. RISIKOANALYSE KV 8: LEITFADEN FUER EINE SACHGERECHTE FALLANALYSE (1) KV 9: LEITFADEN FUER EINE SACHGERECHTE FALLANALYSE (2) 24 WEITERFUEHRENDE KONSEQUENZEN KV 10: LEITFADEN FUER EIN GESPRAECH MIT DEM DROHENDEN JUGENDLICHEN (1) KV 11: LEITFADEN FUER EIN GESPRAECH MIT DEM DROHENDEN JUGENDLICHEN (2) KV 12: LEITFADEN FUER EIN GESPRAECH MIT DEM DROHENDEN JUGENDLICHEN (3) 2 DIE EBENE DER LEHRPERSONEN UND ANDEREN SCHULISCHEN PAEDAGOGEN 1 PROFESSIONALITAET IM ROLLENVERSTAENDNIS 2 DAS NEUE ROLLENBILD 3 ENTWURF EINES IDEALBILDES 4 EIGENE ROLLENREFLEXION 5 DIE BEZIEHUNG - DER MOTOR IM PAEDAGOGISCHEN PROZESS 6 UNPRODUKTIVE UND UNPROFESSIONELLE HALTUNGEN UND EINSTELLUNGEN KV 13: DIE VIER SCHLUESSEL IM PRODUKTIVEN BEZIEHUNGSGESCHEHEN: AKZEPTANZ - GRENZZIEHUNG - KONFRONTATION - KONSEQUENZ 7 EIGENE GEFUEHLE IM UMGANG MIT PROBLEMBEHAFTETEN SCHUELERN 8 NEUE HANDLUNGSSTRATEGIEN 9 GEWALT DURCH PAEDAGOGEN 10 DERBUMERANG 11 WISSENSWERTES UEBER KRAENKUNGSERFAHRUNGEN BEI JUGENDLICHEN 3 DIE EBENE DER ELTERN 4 DIE EBENE DER JUGENDLICHEN (KLASSE/GRUPPE) 1 VON TRAEUMEN, WUENSCHEN UND ZIELEN DAS EIGENE SELBST ENTDECKEN UND WEITERENTWICKELN KV 14:1 AM WHO I AM KV 15: NOBODY IS PERFECT KV 16: ELF UND MEHR FETTE ERFOLGSGEHEIMNISSE FUER JUGENDLICHE IM 21. JAHRHUNDERT KV 17: MEIN IDOL KV 18: ZUKUNFT IM 21. JAHRHUNDERT? KV 19: ACHTUNG AUSSENWIRKUNG -- WIE KOMMUNIKATION FUNKTIONIERT! KV 20: VERRAETERISCHE ZEICHEN - KOERPERSPRACHE KV 21: DER »WOW-FAKTOR</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">40 41 41 42 43 44 45 45 46 47 47 48 49 50 51 52 53 54 54 54 54 55 55 56 57 58 58 58 59 60 60 61 61 64 65 66 67 68 69 70 71 8 INHALTSVERZEICHNIS KV 22: ICH KANN, WAS ICH WILL, UND ICH WILL, DASS ICH KANN! PUZZLE (1) KV 23: ICH KANN, WAS ICH WILL, UND ICH WILL, DASS ICH KANN! (2) KV 24: SCHUECHTERN WAR GESTERN: INTERAKTIONSUEBUNGEN ZUR POSITIVEN AUSSENWIRKUNG (1) KV 25: SCHUECHTERN WAR GESTERN: INTERAKTIONSUEBUNGEN ZUR POSITIVEN AUSSENWIRKUNG (2) KV 26: SPEED-DATING - INTERAKTIONSUEBUNG KV 27: MENSCHEN HABEN GEFUEHLE KV 28: DIE PALETTE DER GEFUEHLE KV 29: WENN MENSCHEN HASSEN KV 30: DAS MACHT MUT! - TEXTE GEGEN DEN HASS VERFASSEN KLEINES ANTIGEWALT-TRAINING: KV 31: WUT IM KOERPERSCHEMA (1) KV 32: DER VULKAN (2) KV 33: UNKONTROLLIERTE WUT HAT FOLGEN (3) KV 34: WUT KONTROLLIEREN UND STEUERN (4) KV 35: INTERAKTIONSUEBUNGEN ZUR IMPULSKONTROLLE (5) KV 36: DER STOLPERPFAD (1) - PROVOKATIONSUEBUNG (6) KV 37: DER STOLPERPFAD (2) (7) KV 38: SCHUTZRAUM PERSOENLICHER UNVERSEHRTHEIT (8) KV 39: WAS IST GEWALT FUER DICH? (9) KV 40: DIE TUEREN DER ENTSCHEIDUNG (10) KV 41: SAG EINFACH »STOPP! (1) (11) KV 42: SAG EINFACH »STOPP! (2) - DAS STOPP-REGEL-RITUAL (12) KV 43: TUST DU WAS, KRIEGST DU WAS! - TUST DU NICHTS, KRIEGST DU NICHTS! (13) KV 44: »HART ABER FAIR? (14) KV 45: MISSION POSSIBLE - YES, YOU CAN! MACKEN UND SCHWAECHEN IN DEN GRIFF BEKOMMEN! (15) 2 GZSZ - GUTE ZEITEN - SCHLECHTE ZEITEN DAS LEBEN ALS AUF UND AB KV 46: GZSZ - THAT'S LIFE! - DAS LEBEN IST WIE... (1) KV 47: GZSZ - THAT'S LIFE! - DAS LEBEN IST WIE... (2) KV 48: »SHIT HAPPENS! KV 49: EIN TOTAL GUTER TAG KV 50: HOL'S DIR! - FANTASIEREISE KV 51: LIFE-CHART</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">KV 52: IST DAS GLAS HALB VOLL ODER HALB LEER? KV 53: MENSCHEN ERFAHREN UNGLUECK UND LEID KV 54: LERCHE ODER EULE? KV 55: MARS ODER VENUS: TYPISCH WEIBLICH? TYPISCH MAENNLICH? KV 56: KUESSEN VERBOTEN!? (1) - EINE PRESSEMELDUNG KV 57: KLEINE FLIRTSCHULE (1): DIE PHASEN EINES FLIRTS KV 58: KLEINE FLIRTSCHULE (2): DIE SPIELREGELN KV 59: LK - DIE GUTE UND DIE SCHLECHTE NACHRICHT (1) KV 60: LK-BROKEN HEART? WEGE DER HEILUNG 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 INHALTSVERZEICHNIS 3 WINNING TEAM 113 DIE KLASSE /GRUPPE ALS SCHUTZFAKTOR KV 61: DIE DOS UND DON'TS IN DER KLASSE 116 KV 62: DAS LAEUFT IN DIESER KLASSE FALSCH! 117 KV 63: DAZU GEHOEREN? JA! - ABER UM JEDEN PREIS? 118 KV 64: TATEN, DIE NIEMALS WIEDER GUTZUMACHEN SIND (1) - GRUPPENDRUCK FATAL.... 119 KV 65: TATEN, DIE NIEMALS WIEDER GUTZUMACHEN SIND (2) - GRUPPENDRUCK FATAL.... 120 KV 66: WAS SIEHST DU? EXPERIMENT »GRUPPENDRUCK 121 KV 67: DER FLUESTERER SAGT: »DU BIST KEIN DRAHT! LASS DICH NICHT VERBIEGEN! (1) ... 122 KV 68: DER FLUESTERER SAGT:... (2) - ROLLENSPIELVORSCHLAEGE 123 KV 69: DIE SCHWIERIGSTE SACHE DER WELT: TOLERANZ 124 KV 70: ICH WILL SO BLEIBEN, WIE ICH BIN: HOMOSEXUELL (1) 125 KV 71: ICH WILL SO BLEIBEN, WIE ICH BIN: HOMOSEXUELL (2) 126 4 MOBBINGVORBEUGUNG ALS KONKRETE AMOK- UND SUIZIDPRAEVENTION INFORMATIONEN, HINTERGRUENDE UND HANDLUNGSSTRATEGIEN KV 72: EHRLICHE ANTWORTEN AUFSPANNENDE FRAGEN - KLASSENBEFRAGUNG KV 73: WO MOBBING PASSIERT KV 74: SO FAENGT DER TERROR AN: AUSGRENZUNG</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">(1) - INTERAKTIONSUEBUNGEN KV 75: SO FAENGT DER TERROR AN: AUSGRENZUNG (2) - INTERAKTIONSUEBUNGEN KV 76: SNAP SHOTS - SZENEN EINER AUSGRENZUNG KV 77: STUMMER SCHMERZ - KURZGESCHICHTE (1) KV 78: STUMMER SCHMERZ - KURZGESCHICHTE (2) KV 79: STUMMER SCHMERZ - KURZGESCHICHTE (3) - ERARBEITUNG KV 80: STUMMER SCHMERZ (4) - DIE ROLLEN IN DER GESCHICHTE KV 81: UND PLOETZLICH ..., DA BIST DU DRAUSSEN ...! - MOBBING-DEFINITION KV 82: GIFTPFEILE, DIE TIEFE WUNDEN REISSEN KV 83: WARUM WIRD GEMOBBT? HINTERGRUENDE UND MOTIVE KV 84: DER ULTIMATIVE ANTI-MOBBING-SCHLUESSEL KV 85: VON MOBBING UND GEWALT BEDROHT? ZEHN TIPPS KV 86: UNTOUCHABLE: IMMUN GEGEN MOBBING! DECKBLATT 5 DIE DREI K'S KRAENKUNGEN, KONFLIKTE, KRISEN ANNEHMEN - KATASTROPHEN VERMEIDEN KV 87: STRESS - GUT ODER SCHLECHT ODER WAS? KV 88: DER STRESS-TEST (1) KV 89: DER STRESS-TEST (2) - TESTERGEBNIS KV 90: DER ULTIMATIVE STRESS-GUIDE: GIB DEM STRESS KEINE CHANCE! KV 91: »AB IN DIE HAENGEMATTE! (1) - FANTASIEREISE KV 92: »AB IN DIE HAENGEMATTE! (2) - GESTALTUNGSVORLAGE KV 93: SCHMERZHAFTE, VERLETZENDE ERFAHRUNGEN (1) KV 94: SCHMERZHAFTE, VERLETZENDE ERFAHRUNGEN (2) WELCHER VERARBEITUNGSTYP BIST DU? KV 95: EINE KRISE IST WIE EINE SONNENFINSTERNIS KV 96: GANZ NORMALE ABSTUERZE ODER BEDENKLICHE KRISEN? (1) KV 97: GANZ NORMALE ABSTUERZE ODER BEDENKLICHE KRISEN? (2) DAS KRISENTEAM ENTSCHEIDET KV 98: EIN KNALLHARTES TABU RELATIVIEREN: WAS IST PETZEN? KV 99: SUESSE UND GEFAEHRLICHE GEHEIMNISSE KV 100: WENN SCHWEIGEN ZUR GEFAHR WIRD (1) KV 101: WENN SCHWEIGEN ZUR GEFAHR WIRD (2) - DIE KRITERIEN 127 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 10 INHALTSVERZEICHNIS 6 VOLL DIE KRISE? - DAS PEER-HELPER-TEAM AUFGABENSTELLUNGEN UND SCHULUNGSINHALTE EINER ARBEITSGEMEINSCHAFT 169</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">7 SEELE AM ABGRUND 171 AUFKLAERUNG UEBER PSYCHISCHE STOERUNGEN UND ERKRANKUNGEN SUIZIDE VERHINDERN HELFEN KV 102: PUBERTAET 176 KV 103: PSYCHISCHE PROBLEME - PSYCHISCHE ERKRANKUNGEN: TABU UND VORURTEILE 177 KV 104: DUNKLER SCHLEIER: DEPRESSION 178 KV 105: RED TEARS - SELBSTVERLETZENDES VERHALTEN 179 KV 106: KURZGESCHICHTE: BOESES ERWACHEN 180 KV 107: TRINKEN, BIS DER ARZT (ZU SPAET) KOMMT: KOMATRINKEN 181 KV 108: SPASSIGE WOERTER FUER EIN SCHOCKIERENDES PHAENOMEN 182 KV 109: KLAR IN DER BIRNE: FAKTEN ZUM KOMATRINKEN - PROJEKTVORSCHLAEGE 183 KV 110: KICK IN DEN TOD - EXTREM GEFAHRLICH: WUERGE- UND OHNMACHTSSPIELE 184 KV 111: DIE GUTE MESSAGE UND DIE GOLDENE REGEL 185 KV 112: PSYCHISCHE ERKRANKUNGEN (1): PSYCHOSOMATISCHE KRANKHEITEN ANGST- UND PANIKSTOERUNGEN - DIE BIPOLARE STOERUNG 186 KV 113: PSYCHISCHE ERKRANKUNGEN (2): ZWANGSSTOERUNGEN - SCHIZOPHRENIE UND PSYCHOSEN 187 KV 114: PSYCHISCHE ERKRANKUNGEN (3): ESSSTOERUNGEN 188 KV 115: PSYCHISCHE ERKRANKUNGEN (4): SUCHTKRANKHEITEN 189 KV 116: VON PEER ZU PEER - HILFE UND UNTERSTUETZUNG DURCH EIN GESPRAECH 190 KV 117: SUIZID: VORWISSEN UND BEGRIFFSKLAERUNG 191 KV 118: VORKOMMEN - URSACHEN - AUSLOESER 192 KV 119: FAKTEN ZUM PHAENOMEN »SUIZID 193 KV 120: TRAGISCHE VORURTEILE UND IRRTUEMER 194 KV 121: WENN DIE SEELE IM ABGRUND VERSINKT. ANZEICHEN - SIGNALE - HILFERUFE .. 195 KV 122: VERHINDERN HELFEN - ABER WIE? 196 KV 123: LASS ES NICHT ZU! 197 KV 124: »GEBOREN, UM ZU LEBEN! 198 KV 125: LASS DEINE TRAEUME FLIEGEN! 199 8 AVATARE, CASTING-SHOWS, EGO-SHOOTER, CYBERMOBBING, HAPPY SLAPPING UND ANDERE MEDIENPHAENOMENE REFLEXION DES EIGENEN MEDIENKONSUMS - KRITISCHER, KONSTRUKTIVER UND SICHERER UMGANG MIT VIRTUELLEN WELTEN KV 126: DIE DREIZEHN GEBOTE DER MEDIENERZIEHUNG (FUER ERWACHSENE) KV 127: EIN BLICK ZURUECK KV 128: MEDIENNUTZUNG HEUTE KV 129: GENERATION YOUTUBE UND DIE MACHT DER AEUSSEREN BILDER KV 130: FERNSEHGEWOHNHEITEN KV 131: WAS GUCKST DU? BEFRAGUNG ZUM FERNSEHKONSUM KV 132: FERNSEHFORMATE KRITISCH</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">GESEHEN: CASTING-SHOWS - REALITY-SHOWS DAILY TALKS KV 133: FASZINATION COMPUTER - BEFRAGUNG KV 134: GEWALT UND BRUTALITAET IN COMPUTERSPIELEN AM BEISPIEL VON GTA KV 135: DIE SACHE MIT DER ALTERSBESCHRAENKUNG UND DEM INDEX KV 136: RISIKEN UND NEBENWIRKUNGEN: WAS MEDIENWIRKUNGSFORSCHER SAGEN KV 137: WAS NUN? FAMILIAERE STRESS- UND STREITSITUATIONEN DURCH MEDIENNUTZUNG 200 202 203 204 205 206 207 208 209 210 211 212 213 INHALTSVERZEICHNIS 11 KV 138: DER NERD (1) - KURZGESCHICHTE KV 139: DERNERD (2) - KURZGESCHICHTE KV 140: DIE SCHLEICHENDE GEFAHR: COMPUTER-/INTERNETSUCHT KV 141: KRITERIEN UND SUCHTMERKMALE - DAS SUCHTPOTENZIAL VON COMPUTERSPIELEN KV 142: MACH MIT! ZIEH'S DURCH! SCHALT AUS! KV 143: HETZJAGD DURCHS NETZ: CYBERMOBBING KV 144: DIE VERNICHTUNG VOR DEN AUGEN DER WELTOEFFENTLICHKEIT ZWEI BEISPIELE KV 145: TAETER HANDELN RISKANT! - GESTALTUNG EINES FLYERS KV 146: LOST IN SPACE? DAS INTERNET VERGISST NICHTS! KV 147: VORSICHTSMASSNAHMEN IN ONLINE-FOREN 9 EISKALTER SCHATTEN - ANNAEHERUNG AN EIN PHAENOMEN: AMOK/ SCHOOL SHOOTING AUFEINANDER ACHTEN UND VERANTWORTLICH HANDELN: FRUEHE SIGNALE ERKENNEN UND RICHTIG BEWERTEN KV 148: DER KLASSISCHE AMOKLAUF: BEGRIFFSKLAERUNG UND HISTORISCHER HINTERGRUND KV 149: EISKALTER SCHATTEN - SCHOOL SHOOTING KV 150: DIE UNTERSUCHUNGSKOMMISSION KLAERT AUF KV 151: INFORMATIONEN ZUM HINTERGRUND SCHULISCHER AMOKTATEN KV 152: VERPFLICHTUNGEN UND TABUS FUER DIE SCHULISCHE GEMEINSCHAFT KV 153: AMOKANDROHUNGEN KV 154: HIGH RISK - NO FUN: DIE FOLGEN VON TRITTBRETTFAHRER-AKTIONEN 214 215 216 217 218 219 220 221 222 223 224 228 229 230 231 232 233 234 LITERATURHINWEISE EMPFEHLUNGEN ZU LINKS/INTERNETADRESSEN/BERATUNGSANGEBOTEN 235 238</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">03</subfield>
+            <subfield code="d">MQ28631</subfield>
+            <subfield code="i">16/641</subfield>
+            <subfield code="n">21</subfield>
+            <subfield code="k">20160118</subfield>
+            <subfield code="5">1840068-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
