@@ -86,7 +86,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleDisplay < Metacrunc
 
     if hauptsachtitel
       result =[]
-      
+
       result <<
       [
         hauptsachtitel,
@@ -115,7 +115,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleDisplay < Metacrunc
       additions =
       [
         allgemeine_materialbenennung,
-        arten_des_inhalts,
+        #arten_des_inhalts,
         erweiterte_datenträgertypen
       ]
       .flatten

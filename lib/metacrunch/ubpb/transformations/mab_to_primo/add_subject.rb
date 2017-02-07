@@ -22,6 +22,8 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSubject < Metacrunch::Tr
       subjects = subjects + t
     end
 
+    subjects << source.get("Arten des Inhalts").map(&:get)
+
     subjects.flatten.map(&:presence).compact.map{|f| f.delete('<').delete('>')}.uniq
   end
 end

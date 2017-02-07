@@ -55,12 +55,12 @@ describe Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleDisplay do
   define_field_test '000558925', title_display: 'Der fremdsprachliche Unterricht / Englisch'
   define_field_test '001838193', title_display: 'Un franco, 14 pesetas : emprendían mucho más que un viaje ; iniciaban el camino hacia una nueva vida [DVD-Video]'
   define_field_test '001838225', title_display: 'Frozen river [DVD-Video]'
-  define_field_test '001836826', title_display: 'Madonna : Frau - Mutter - Kultfigur [Ausstellungskatalog]'
-  define_field_test '001840251', title_display: 'Filati special. Colors : coole Farbeffekte für jedes Outfit. [Deutsche Ausgabe] [Zeitschrift]'
+  define_field_test '001836826', title_display: 'Madonna : Frau - Mutter - Kultfigur'
+  define_field_test '001840251', title_display: 'Filati special. Colors : coole Farbeffekte für jedes Outfit. [Deutsche Ausgabe]'
 
-  define_field_test '001838242', title_display: 'Die Fünfzigerjahre : deutsches Alltagsleben in Ost und West [Bildband]'
-  define_field_test '001833425', title_display: 'Grammatik : eine Einführung [Einführung, Lehrbuch]'
-  define_field_test '001840830', title_display: 'Kommunikationskabelnetze : mit Ausstellung : Vorträge der 22. ITG-Fachtagung vom 08.-09. Dezember 2015 in Köln [Konferenzschrift, CD-ROM]'
+  define_field_test '001838242', title_display: 'Die Fünfzigerjahre : deutsches Alltagsleben in Ost und West'
+  define_field_test '001833425', title_display: 'Grammatik : eine Einführung'
+  define_field_test '001840830', title_display: 'Kommunikationskabelnetze : mit Ausstellung : Vorträge der 22. ITG-Fachtagung vom 08.-09. Dezember 2015 in Köln [CD-ROM]'
 
   #
   # synthetic tests

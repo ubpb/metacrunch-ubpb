@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001836826</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00000nM2.01200024------h</leader>
+          <controlfield tag="LDR">00000nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018813711</subfield>
+          </datafield>
+          <datafield tag="002" ind1="b" ind2="1">
+            <subfield code="a">20151124</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20160315</subfield>
+          </datafield>
+          <datafield tag="020" ind1="a" ind2="1">
+            <subfield code="a">1077070586</subfield>
+            <subfield code="b">DNB</subfield>
+          </datafield>
+          <datafield tag="025" ind1="a" ind2="1">
+            <subfield code="a">1077070586</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1077070586</subfield>
+          </datafield>
+          <controlfield tag="030">a||dr||||||37</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">XA-DE-SN</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|a|||||||||||</controlfield>
+          <controlfield tag="051">mc||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">sti</subfield>
+            <subfield code="a">unbewegtes Bild</subfield>
+          </datafield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Ausstellungskatalog</subfield>
+            <subfield code="9">(DE-588)4135467-9</subfield>
+            <subfield code="x">Niedersächsisches Landesmuseum (Hannover)</subfield>
+            <subfield code="z">Hannover</subfield>
+            <subfield code="y">16.10.2015-14.02.2016</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">5/7</subfield>
+          </datafield>
+          <datafield tag="070" ind1="a" ind2="1">
+            <subfield code="a">DNB</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">Kn 3</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="b" ind2="1">
+            <subfield code="p">Lembke, Katja</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="9">(DE-588)139338896</subfield>
+            <subfield code="4">edt</subfield>
+            <subfield code="3">Herausgeber</subfield>
+          </datafield>
+          <datafield tag="104" ind1="b" ind2="1">
+            <subfield code="p">Käßmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+            <subfield code="4">aui</subfield>
+          </datafield>
+          <datafield tag="200" ind1="b" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+            <subfield code="4">orm</subfield>
+            <subfield code="3">Veranstalter</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Madonna</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">Frau - Mutter - Kultfigur</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">herausgegeben von Katja Lembke ; eine Ausstellung des Niedersächsischen Landesmuseums Hannover in Zusammenarbeit mit dem Sprengel Museum Hannover unter der Schirmherrschaft von Prof.Dr.Dr.hc. Margot Käßmann</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Dresden</subfield>
+            <subfield code="b">Sandstein Verlag</subfield>
+            <subfield code="c">[2015]</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2015</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">399 Seiten</subfield>
+          </datafield>
+          <datafield tag="501" ind1="-" ind2="1">
+            <subfield code="a">"Diese Publikation erscheint anlässlich der Ausstellung Madonna. Frau-Mutter-Kultfigur. Niedersächsisches Landesmuseum Hannover, 16. Oktober 2015 bis 14. Februar 2016".</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-95498-190-8</subfield>
+            <subfield code="b">Ebr. : EUR 49.40 (AT), EUR 48.00 (DE)</subfield>
+          </datafield>
+          <datafield tag="574" ind1="-" ind2="1">
+            <subfield code="a">15,N41</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">X:MVB</subfield>
+            <subfield code="q">text/html</subfield>
+            <subfield code="u">http://deposit.d-nb.de/cgi-bin/dokserv?id=25a8df19a0a247cfa0e600a94cf31119&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</subfield>
+            <subfield code="3">Inhaltstext</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <datafield tag="677" ind1="-" ind2="1">
+            <subfield code="k">Sandstein Kommunikation GmbH</subfield>
+            <subfield code="9">(DE-588)1067142479</subfield>
+            <subfield code="4">pbl</subfield>
+            <subfield code="3">Verleger</subfield>
+          </datafield>
+          <datafield tag="700" ind1="-" ind2="1">
+            <subfield code="a">900</subfield>
+            <subfield code="2">DNB</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Book</subfield>
+            <subfield code="2">Produktform</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">)Unsewn / adhesive bound</subfield>
+            <subfield code="2">Produktform (spezifisch</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Moderne</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Antike</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Paula Modersohn-Becker</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Darstellung der Mutter mit Kind</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Sängerin Madonna</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Madonnenbild des Mittelalters</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Thomas Bayrle</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">Gottesmutter</subfield>
+          </datafield>
+          <datafield tag="720" ind1="-" ind2="1">
+            <subfield code="a">1559: Hardcover, Softcover / Geschichte/Kulturgeschichte</subfield>
+            <subfield code="2">VLB-WN</subfield>
+          </datafield>
+          <controlfield tag="SYS">001836826</controlfield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Kässmann, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">Schulze, Margot</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PPE" ind1="-" ind2="1">
+            <subfield code="p">mK</subfield>
+            <subfield code="d">1958-</subfield>
+            <subfield code="9">(DE-588)121176592</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Landesmuseum Hannover</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PKO" ind1="-" ind2="1">
+            <subfield code="k">Niedersächsisches Landesmuseum</subfield>
+            <subfield code="9">(DE-588)2020419-X</subfield>
+          </datafield>
+          <datafield tag="PVN" ind1="-" ind2="1">
+            <subfield code="k">Sandstein Verlag</subfield>
+            <subfield code="9">(DE-588)1067142479</subfield>
+          </datafield>
+          <datafield tag="PVN" ind1="-" ind2="1">
+            <subfield code="k">Sandstein Verlag</subfield>
+            <subfield code="9">(DE-588)1067142479</subfield>
+          </datafield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">KBLM</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Madonna</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6587688&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: MADONNA AUTOR: LEMBKE, KATJA JAHR: 2015 INHALT GOETTIN - VON DER MUTTERGOETTIN ZUR GOTTESMUTTER 8 GRUSSWORT 26 DER RETUSCHEUR VON BIERDEN MARGOT KAESSMANN FRAU, SEXSYMBOL ODER KULTFIGUR? KLAUS GERKEN UND THOMAS TERBERGER 10 VORWORT KATJA LEMBKE 32 WIEVIEL MUTTERGOETTIN STECKT IN DER GOTTESMUTTER? 12 DAS KONZEPT MADONNA KATJA LEMBKE BARBARA VINKEN 58 HERRSCHERINNEN UND GOETTINNEN DIE ENGE BEZIEHUNG ZWISCHEN MACHT UND RELIGION CHRISTIANE KUNST 72 ICH BIN ISIS AUS DER VORGESCHICHTE DER GOTTESMUTTER MARIA KATJA LEMBKE 82 VON ISIS ZU MARIA DIE VEREHRUNG DER GOETTLICHEN MUTTER IN AEGYPTEN HEIKE BEHLMER 88 ZWEI MUETTER - EINE FIGUR ZUR UMGEARBEITETEN STATUE EINER MUTTERGOETTIN AUS DEM BERLINER BODE-MUSEUM CAECILIA FLUCK 94 KEINE MUETTER WEIBLICHE FIGUREN IN DER BILDERWELT DER GERMANISCHEN RELIGION BABETTE LUDOWICI 98 KATALOGTEIL 368 LITERATUR 396 ABBILDUNGSNACHWEIS 399 IMPRESSUM GOTTESMUTTER - FRAU - MARIA IM MITTELALTER MARIA VON DEN UND IN DER NEUZEIT AVANTGARDEN BIS IN DIE KUNST DER GEGENWART 142 MARIENVEREHRUNG 276 ASPEKTE DES MARIENBILDES EINE KLEINE SOZIAL- UND IM 20. UND 21. JAHRHUNDERT FROEMMIGKEITSGESCHICHTE GESA BARTHOLOMEYCZIK HEDWIG ROECKELEIN 294 OFFENKUNDIG, FRAGMENTARISCH, 152 THRONENDE MADONNEN DES MITTELALTERS ZEICHENHAFT EIN STREIFZUG DURCH VIER JAHRHUNDERTE DIE REZEPTION DES MADONNENBILDES ANTJE-FEE KOELLERMANN ALS VIELSTIMMIGKERT IM 20. UND 21. JAHRHUNDERT 170 GEWAENDER, SCHMUCK UND EDLE GABEN DOERTHE WILKE GESCHENKE AN DIE MUTTERGOTTES CHARLOTTE KLACK-EITZEN 316 ADOLF HOELZEL DAS PRINZIP HARMONIE 182 ZWISCHEN SCHMERZENSMUTTER AUF DEM WEG ZUR ABSTRAKTION UND HIMMELSKOENIGIN REINHARD SPIELER MARIA IN DER KUNST DES SPAETEN MITTELALTERS THOMAS NOLL 320 ALTE MEISTER - NEUE FORMEN DIE MERZMADONNEN VON KURT SCHWITTERS 202 MARIA IM LUTHERISCHEN KIRCHENRAUM ISABEL SCHULZ ARWED ARNULF 328 MADONNA UND NANA 214 ZUM NIEDERKNIEN IN GEGENSATZ UND GLEICHKLANG RUBENS' MADONNA MIT DEM KIND CHRISTLICHE MARIENIKONOGRAFIE</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">ZWISCHEN BILDAESTHETIK UND BILDTHEOLOGIE IM SPIEGEL VON NIKI DE SAINT PHALLES WERK MARTINA DLUGAICZYK ISABELLE SCHWARZ 224 AUF DEN SPUREN DES »GOETTLICHEN 332 VON ALLEM, WAS ENDET DIE MADONNEN-DARSTELLUNGEN ZUR ANEIGNUNG RELIGIOESER IKONOGRAFIE DER NAZARENER ZWISCHEN RAFFAEL-REZEPTION IM WERK JULIA KRAHNS UND SUBJEKTIVER FROEMMIGKEIT BARBARA MARTIN BARBARA MARTIN 340 KATHARINA FRITSCHS MADONNA 232 PROFANIERUNG DES SAKRALEN EINE (REPRODUZIERBARE) IKONE DER ODER SAKRALISIERUNG DES ALLTAEGLICHEN? GEGENWARTSKUNST ZUR REZEPTION DER MARIENIKONOGRAFIE YVONNE SCHEJA AM UEBERGANG ZUR MODERNE BARBARA MARTIN 342 SISTERS FOR LIFE! MIT LIKE A VIRGIN SCHLIESST SICH NACH 248 KATALOGTEIL 30 JAHREN EIN KREIS ZWISCHEN SISTER CRISTINA UND MADONNA LOUISE VERONICA CICCONE - #TOUCHEDFORTHEVERYFIRSTTIME? MARINA CASTELLANA 346 KATALOGTEIL</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">11</subfield>
+            <subfield code="d">KBLM1439</subfield>
+            <subfield code="i">16/176</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160106</subfield>
+            <subfield code="5">1836826-10</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>

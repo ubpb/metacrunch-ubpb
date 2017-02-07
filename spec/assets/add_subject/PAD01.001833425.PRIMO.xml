@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>aleph-publish:001833425</identifier>
+      </header>
+      <metadata>
+        <record xmlns="http://www.ddb.de/professionell/mabxml/mabxml-1.xsd">
+          <leader>00868nM2.01200024------h</leader>
+          <controlfield tag="LDR">00868nM2.01200024------h</controlfield>
+          <controlfield tag="FMT">MH</controlfield>
+          <datafield tag="001" ind1="-" ind2="1">
+            <subfield code="a">HT018832011</subfield>
+          </datafield>
+          <datafield tag="002" ind1="a" ind2="1">
+            <subfield code="a">20151214</subfield>
+          </datafield>
+          <datafield tag="003" ind1="-" ind2="1">
+            <subfield code="a">20160317</subfield>
+          </datafield>
+          <datafield tag="026" ind1="-" ind2="1">
+            <subfield code="a">DNB1079927182</subfield>
+          </datafield>
+          <controlfield tag="030">a|zur||||||17</controlfield>
+          <datafield tag="036" ind1="a" ind2="1">
+            <subfield code="a">DE</subfield>
+          </datafield>
+          <datafield tag="037" ind1="b" ind2="1">
+            <subfield code="a">ger</subfield>
+          </datafield>
+          <controlfield tag="050">a|||||||||||||</controlfield>
+          <controlfield tag="051">m|||||||</controlfield>
+          <datafield tag="060" ind1="-" ind2="1">
+            <subfield code="b">txt</subfield>
+            <subfield code="a">Text</subfield>
+          </datafield>
+          <datafield tag="061" ind1="-" ind2="1">
+            <subfield code="b">n</subfield>
+            <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+          </datafield>
+          <datafield tag="062" ind1="-" ind2="1">
+            <subfield code="b">nc</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Einführung</subfield>
+            <subfield code="9">(DE-588)4151278-9</subfield>
+          </datafield>
+          <datafield tag="064" ind1="a" ind2="1">
+            <subfield code="a">Lehrbuch</subfield>
+            <subfield code="9">(DE-588)4123623-3</subfield>
+          </datafield>
+          <datafield tag="070" ind1="-" ind2="1">
+            <subfield code="a">466</subfield>
+          </datafield>
+          <datafield tag="070" ind1="b" ind2="1">
+            <subfield code="a">61</subfield>
+          </datafield>
+          <datafield tag="080" ind1="-" ind2="1">
+            <subfield code="a">60</subfield>
+          </datafield>
+          <datafield tag="100" ind1="-" ind2="1">
+            <subfield code="p">Imo, Wolfgang</subfield>
+            <subfield code="d">1974-</subfield>
+            <subfield code="9">(DE-588)133921131</subfield>
+          </datafield>
+          <datafield tag="331" ind1="-" ind2="1">
+            <subfield code="a">Grammatik</subfield>
+          </datafield>
+          <datafield tag="335" ind1="-" ind2="1">
+            <subfield code="a">eine Einführung</subfield>
+          </datafield>
+          <datafield tag="359" ind1="-" ind2="1">
+            <subfield code="a">Wolfgang Imo</subfield>
+          </datafield>
+          <datafield tag="419" ind1="-" ind2="1">
+            <subfield code="a">Stuttgart</subfield>
+            <subfield code="b">J.B. Metzler Verlag</subfield>
+            <subfield code="c">[2016]</subfield>
+          </datafield>
+          <datafield tag="419" ind1="d" ind2="1">
+            <subfield code="c">© 2016</subfield>
+          </datafield>
+          <datafield tag="425" ind1="a" ind2="1">
+            <subfield code="a">2016</subfield>
+          </datafield>
+          <datafield tag="433" ind1="-" ind2="1">
+            <subfield code="a">VIII, 239 Seiten</subfield>
+          </datafield>
+          <datafield tag="434" ind1="-" ind2="1">
+            <subfield code="a">Illustrationen</subfield>
+          </datafield>
+          <datafield tag="435" ind1="-" ind2="1">
+            <subfield code="a">23 cm</subfield>
+          </datafield>
+          <datafield tag="451" ind1="-" ind2="1">
+            <subfield code="a">Lehrbuch</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">978-3-476-02612-5</subfield>
+            <subfield code="b">kart. : EUR 19.95</subfield>
+          </datafield>
+          <datafield tag="540" ind1="a" ind2="1">
+            <subfield code="a">3-476-02612-4</subfield>
+          </datafield>
+          <datafield tag="553" ind1="a" ind2="1">
+            <subfield code="a">9783476026125</subfield>
+          </datafield>
+          <datafield tag="655" ind1="e" ind2="1">
+            <subfield code="m">B:DE-101</subfield>
+            <subfield code="q">application/pdf</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6784989&amp;custom_att_2=simple_viewer</subfield>
+            <subfield code="3">Inhaltsverzeichnis</subfield>
+            <subfield code="A">2</subfield>
+          </datafield>
+          <controlfield tag="SYS">001833425</controlfield>
+          <datafield tag="700" ind1=" " ind2=" ">
+            <subfield code="a">CCZ</subfield>
+          </datafield>
+          <datafield tag="OWN" ind1=" " ind2=" ">
+            <subfield code="a">P0001</subfield>
+            <subfield code="n">466 - Paderborn: UB</subfield>
+          </datafield>
+          <datafield tag="655" ind1=" " ind2=" ">
+            <subfield code="y">Grammatik</subfield>
+            <subfield code="t">VIEW</subfield>
+            <subfield code="u">http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=6784990&amp;custom_att_2=simple_viewer</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">TITEL: GRAMMATIK AUTOR: JAHR: 2016 INHALTSVERZEICHNIS VORWORT................................................................................................ VII 1 2 3 3.1 3.2 3.2.1 3.2.2 3.3 3.3.1 3.3.2 3.4 4 4.1 4.2 4.3 4.4 WOZU GRAMMATIK?.................................................................. WAS IST GRAMMATIK?................................................................. DIE BESTIMMUNG DER WORTARTEN: GRUNDLAGEN .... DIE WORTARTEN DES DEUTSCHEN.................................................. DIE FLEXION: DEKLINATION UND KONJUGATION . . . . . . . . . . . . . . . . . . . . . DIE DEKLINATION: KASUS NUMERUS GENUS, KOMPARATION ...... DIE KONJUGATION: TEMPUS N UM ERUS^ GENUS VERBI.............................................................................. DIE D ISTRIBUTION....................................................................... DIE STELLUNG IM SATZ................................................................. DIE KOMBINATION M IT ANDEREN WOERTERN................................... BESTIMMUNG DER WORTARTEN: DIE WORTARTEN- MURMELBAHN .... DIE BESTIMMUNG DER WORTARTEN: DETAILFRAGEN UND PROBLEME DETAILS DER WORTARTENBESTIMMUNG.......................................... DIE RICHTIGE REIHENFOLGE BEI DER WORTARTENBESTIMMUNG....... EINIGE PROBLEME BEIM ERKENNEN VON FLEKTIERBARKEIT .... PROBLEME MIT DER SEMANTIK ODER: WARUM DIE SEMANTIK AUSSEN VOR B LE IB T................................... DE KONJUGIERBARE WORTART: DAS VERB...................................... DAS KONJUGATIONSSYSTEM DER VERBEN........................................ UEBERSICHT UEBER DIE KONJUGATIONSPARAMETER ... ... ... ... ... DIE KONJUGATIONSPARAMETER VON VERBEN AM BEISPIEL VON JAGEN UND S C H L N ........................................................... PARTIKELVERBEN UND PRAEFIXVERBEN............................................ FUNKTIONSVERBGEFUEGE............................................................... VALENZ UND</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">DEPENDENZ............................................................ VALENZ UND DEPENDENZ BEI VERBEN......................................... VALENZ BEI ANDEREN WORTARTEN ALS VERBEN . . . . . . . . . . . . . . . . . . . . . . DIE DEKLINIERBAREN WORTARTEN.................................................. 1 15 1 1 5 13 3 6 H 1 H9 24 ( N 8 9 6 29 29 33 34 35 37 39 40 46 56 56 57 57 62 67 5 5.1 5.1.1 5.1.2 5.2 5.3 5.4 5.4.1 5.4.2 6 6.1 6.2 6.3 6.3.1 6.3.2 6.3.3 DAS NOMEN (SUBSTANTIV ..............................................................67 DAS A DJEKTIV............................................................................. 76 ARTIKEL UND PRONOMEN.............................................................. 82 DIE ARTIKEL DES DEUTSCHEN...................................................... 83 ARTIKELAEHNLICHE PRONOMEN (BEGLEITERPRONOMEN .... 85 PRONOMEN ALS ERSATZFORMEN FUER NOMEN (STELLVERTRETERPRONOMEN) ........................................................ 88 DIE NICHTFLEKTIERBAREN WORTARTEN.......................................... DAS ADVERB.............................................................................. DIE PRAEPOSITION 93 93 98 7 7.1 7.2 INHALTSVERZEICHNIS 7.3 7.4 8 8.1 8.2 8.3 8.4 8.5 8.6 8.7 8.7.1 8.7.2 8.7.3 8.7.4 8.7.5 9 DIE KONJUNKTION....................................................................... 102 DIE PARTIKEL............................................................................... 106 VOM WORT UEBER DE PHRASE ZUM SATZ........................................ 115 DIE BESTIMMUNG VON PHRASEN................................................. DIE NOMINALPHRASE (NP).......................................................... DIE ADJEKTIVPHRASE</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">(ADJP)....................................................... DIE PRAEPOSITIONALPHRASE (P P ) .................................................. DIE ADVERBPHRASE (ADVP)........................................................ NICHT PHRASENFAEHIGE WORTARTEN............................................... DER SATZ.................................................................................... SATZ UND VERBPHRASE (VP ........................................................ FRAGESAETZE UND IMPERATIVSAETZE............................................... UNTERGEORDNETE SAETZE.............................................................. KOORDINATION UND KOORDINIERTE SAETZE...................................... DAS ERKENNEN UND BESCHREIBEN VON AMBIGEN SAETZEN..... 116 118 127 132 134 137 137 143 145 154 158 PHRASEN UND IHRE FUNKTIONEN: DIE SATZGLIEDANALYSE . . . . . . . . . . . 161 161 166 166 171 181 189 192 9.1 DIE SATZGLIEDER.......................................................................... 9.1.1 DAS PRAEDIKAT............................................................................. 9.1.2 DAS SUBJEKT.............................................................................. 9.1.3 DAS OBJEKT................................................................................ 9.1.4 DAS ADVERBIAL........................................................................... 9.1.5 DAS PRAEDIKATIV.......................................................................... 9.2 DAS SATZTEILGLIED A TTRIB U T........................................................ 10 10.1 10.2 10.3 10.3.1 10.3.2 10.3.3 10.4 10.5 DAS FELDERMODE" --" DIESCHRECKE ... 199 203 209 211 212 214 215 217 219 219 223</subfield>
+          </datafield>
+          <datafield tag="TXT" ind1=" " ind2=" ">
+            <subfield code="a">DIE FELDER DES VERBZWEITSATZES (V2-SATZ) . . . . . . . . . . . . . . . . . . . . . . DIE FELDER DES VERBERSTSATZES (VL-S ATZ). . . . . . . . . . . . . . . . . . . . . . . . DIE FELDER DES VERBLETZTSATZES (VERBENDSATZ) . . . . . . . . . . . . . . . . . . SAETZE M IT SUBORDINIERENDEN KONJUNKTIONEN-- -- -- RELATIVSAETZE.............................................................................. INFINITIVSAETZE INFINITIVPHRASEN).............................................. DIE KOORDINATIONSPOSITION (KP)............................................... DIE ERWEITERUNG DES FELDERMODELLS: VOR-VORFELD UND RECHTES AUSSENFELD............................................................ 10.5.1 D A S V O R V O R FE LD ( V V F ) 10.5.2 DAS RECHTE AUSSENFELD (RAF)..................................................... 11 12 12.1 12.1.1 12.1.2 12.1.3 12.1.4 12.1.5 12.1.6 12.2 AUSBLICK: GIBT ES EINE GRAMMATIK DER GESPROCHENEN SPRACHE? 227 ANHANG.................................................................................... 231 WEITERFUEHRENDE LITERATUR.......................................................... GRAMMATIKEN DES DEUTSCHEN.................................................. VERTIEFUNGEN ZU EINZELNENTEILBEREICHEN DER GRAMMATIK...... EINFUEHRUNGEN IN SYNTAXTHEORIEN.............................................. EINFUEHRUNGEN IN DIE SYNTAX DES GESPROCHENEN DEUTSCH....... LINGUISTISCHE LEXIKA................................................................. LITERATURVERZEICHNIS................................................................. SACHREGISTER.............................................................................. 231 231 232 232 233 233 234 235 VIL</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">11</subfield>
+            <subfield code="d">CCZ1887</subfield>
+            <subfield code="i">16/1575</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160224</subfield>
+            <subfield code="5">1833425-10</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">11</subfield>
+            <subfield code="d">CCZ1887+1</subfield>
+            <subfield code="i">16/1576</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160224</subfield>
+            <subfield code="5">1833425-20</subfield>
+          </datafield>
+          <datafield tag="LOC" ind1=" " ind2=" ">
+            <subfield code="m">BOOK</subfield>
+            <subfield code="a">P0001</subfield>
+            <subfield code="b">11</subfield>
+            <subfield code="d">CCZ1887+2</subfield>
+            <subfield code="i">16/1577</subfield>
+            <subfield code="n">20</subfield>
+            <subfield code="k">20160224</subfield>
+            <subfield code="5">1833425-30</subfield>
+          </datafield>
+        </record>
+      </metadata>
+    </record>
+  </ListRecords>
+</OAI-PMH>
