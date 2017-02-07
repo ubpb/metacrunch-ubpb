@@ -11,7 +11,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSelectionCode < Metacrun
 
   def selection_code
     codes = []
-    codes << source.datafields('078', ind1: ['e', 'r']).subfields('a').values
+    codes << source.datafields('078', ind1: ['e', 'r', 'b']).subfields('a').values
 
     codes.flatten.map(&:presence).compact.uniq
   end
