@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "metacrunch-mab2", github: "ubpb/metacrunch-mab2", branch: "master"
+gem "metacrunch-mab2", github: "ubpb/metacrunch-mab2", branch: "heads/v1.3.1"
 
 group :development do
   gem "bundler",      ">= 1.7"
