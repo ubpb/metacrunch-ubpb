@@ -3,6 +3,7 @@ require "bundler/setup"
 require "metacrunch/ubpb"
 
 require "open-uri"
+require "rexml/document"
 begin require "pry" rescue LoadError ; end
 
 record_id      = ARGV[0]
@@ -39,4 +40,6 @@ result = mab2primo.call(data)
 decode_json!(result)
 result = primo2es.call(result)
 
+REXML::Document.new(data).write($stdout, 2)
+puts "\n----------------------------------"
 puts JSON.pretty_generate(result)
