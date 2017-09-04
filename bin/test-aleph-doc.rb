@@ -7,7 +7,7 @@ require "rexml/document"
 begin require "pry" rescue LoadError ; end
 
 record_id      = ARGV[0]
-aleph_base_url = ENV["aleph_base_url"] || "http://ubex.uni-paderborn.de:1891"
+aleph_base_url = ENV["ALEPH_BASE_URL"] || "http://ubex.uni-paderborn.de:1891"
 url            = "#{aleph_base_url}/rest-dlf/record/PAD01#{record_id}?view=full"
 data           = nil
 mab2primo      = Metacrunch::UBPB::Transformations::MabToPrimo.new
