@@ -3,7 +3,7 @@ require "metacrunch/ubpb/record/generisches_element"
 describe Metacrunch::UBPB::Record::GenerischesElement do
   describe "#get" do
     let(:document) do
-      Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+      Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
         <datafield tag="334" ind1="-" ind2="1">
           <subfield code="a">CD-ROM</subfield>
         </datafield>

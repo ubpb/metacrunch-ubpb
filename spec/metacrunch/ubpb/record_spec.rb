@@ -7,7 +7,7 @@ describe Metacrunch::UBPB::Record do
   describe "#get" do
     context "if \"allgemeine Materialbenennungen\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="334" ind1="-" ind2="1">
             <subfield code="a">Elektronische Ressource</subfield>
           </datafield>
@@ -21,7 +21,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Angaben zum Inhalt\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="521" ind1="-" ind2="1">
             <subfield code="t">Gesang der drei Männer im feurigen Ofen (SWV 448)</subfield>
           </datafield>
@@ -44,7 +44,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Arten des Inhalts\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="064" ind1="a" ind2="1">
             <subfield code="a">Zeitschrift</subfield>
             <subfield code="9">(DE-588)4067488-5</subfield>
@@ -59,7 +59,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"bevorzugte Titel des Werkes\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="303" ind1="-" ind2="1">
             <subfield code="t">Werktitel</subfield>
           </datafield>
@@ -73,7 +73,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"erweiterte Datenträgertypen\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="064" ind1="b" ind2="1">
             <subfield code="a">CD-ROM</subfield>
             <subfield code="9">(DE-588)4139307-7</subfield>
@@ -88,7 +88,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"ISBNs\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="540" ind1="a" ind2="1">
             <subfield code="a">9781610691192</subfield>
           </datafield>
@@ -102,7 +102,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Körperschaften\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="-" ind2="1">
             <subfield code="k">Evangelische Auferstehungs-Kirchengemeinde</subfield>
           </datafield>
@@ -116,7 +116,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Körperschaften (Phrasenindex)\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="PKO" ind1="-" ind2="1">
             <subfield code="k">Universität</subfield>
           </datafield>
@@ -130,7 +130,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Manifestationstitel von weiteren verkörperten Werken\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="362" ind1="-" ind2="1">
             <subfield code="a">Test</subfield>
             <subfield code="v">hbz</subfield>
@@ -146,7 +146,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Personen\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="a">Wegner, Jochen</subfield>
           </datafield>
@@ -160,7 +160,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Personen der Nebeneintragungen\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="800" ind1="-" ind2="1">
             <subfield code="p">Pius</subfield>
           </datafield>
@@ -174,7 +174,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"Personen (Phrasenindex)\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="PPE" ind1="-" ind2="1">
             <subfield code="p">Murmellius, Iohannes</subfield>
           </datafield>
@@ -188,7 +188,7 @@ describe Metacrunch::UBPB::Record do
 
     context "if \"unaufgegliederte Anmerkungen\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="501" ind1="-" ind2="1">
             <subfield code="a">Einige Ex ohne ISBN</subfield>
           </datafield>

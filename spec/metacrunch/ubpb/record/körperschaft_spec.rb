@@ -4,7 +4,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
   describe "#get" do
     context "Körperschaft mit untergeordneten Körperschaften" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="-" ind2="1">
             <subfield code="k">Evangelische Auferstehungs-Kirchengemeinde</subfield>
             <subfield code="h">Völklingen</subfield>
@@ -23,7 +23,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Körperschaft mit unstrukturiertem Namen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="-" ind2="1">
             <subfield code="a">Associated Ministers of Worcester-shire</subfield>
           </datafield>
@@ -38,7 +38,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Körperschaft mit Beziehungskennzeichnung" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="b" ind2="1">
             <subfield code="k">Deutscher Anwaltverein</subfield>
             <subfield code="b">Arbeitsgemeinschaft IT-Recht</subfield>
@@ -63,7 +63,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Körperschaft mit mehreren Funktionsbezeichnungen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="b" ind2="1">
             <subfield code="k">Centre de Recherches Mathématiques</subfield>
             <subfield code="9">(DE-588)1020069-1</subfield>
@@ -89,7 +89,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Konferenz mit Zählung, Datum, Ort und Zusatz" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="b" ind2="1">
             <subfield code="e">WM</subfield>
             <subfield code="n">5</subfield>
@@ -109,7 +109,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Körperschaft mit allgemeiner Unterteilung" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="-" ind2="1">
             <subfield code="k">Sydney</subfield>
             <subfield code="x">Art Gallery of New South Wales</subfield>
@@ -129,7 +129,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Konferenz mit mehreren Zählungen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="b" ind2="1">
             <subfield code="e">Werkstoffwoche</subfield>
             <subfield code="n">2</subfield>
@@ -150,7 +150,7 @@ describe Metacrunch::UBPB::Record::Körperschaft do
 
     context "Gebietskörperschaft mit Zusatz" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="200" ind1="-" ind2="1">
             <subfield code="g">Steinheim</subfield>
             <subfield code="h">Kreis Höxter</subfield>

@@ -3,7 +3,7 @@ require "metacrunch/ubpb/record/issn"
 describe Metacrunch::UBPB::Record::ISSN do
   describe "#get" do
     let(:document) do
-      Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+      Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
         <datafield tag="599" ind1="a" ind2="1">
           <subfield code="a">0023-5423</subfield>
         </datafield>

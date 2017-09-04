@@ -3,7 +3,7 @@ require "metacrunch/ubpb/record/person"
 describe Metacrunch::UBPB::Record::Person do
   describe "#get" do
     let(:document) do
-      Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+      Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
         <datafield tag="100" ind1="b" ind2="1">
           <subfield code="a">Wegner, Jochen</subfield>
           <subfield code="p">Wegner, Jochen</subfield>
@@ -65,7 +65,7 @@ describe Metacrunch::UBPB::Record::Person do
   describe "#get" do
     context "Person mit unstrukturiertem Namen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="-" ind2="1">
             <subfield code="a">Stinson, Stephenie</subfield>
           </datafield>
@@ -80,7 +80,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "Person mit strukturiertem Namen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Alama, Stanley</subfield>
             <subfield code="9">(DE-588)140086846</subfield>
@@ -96,7 +96,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "Person mit Funktionsbezeichnung" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Alama, Stanley</subfield>
             <subfield code="9">(DE-588)140086846</subfield>
@@ -125,7 +125,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "Person mit Beziehungskennzeichnungen" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Wegner, Jochen</subfield>
             <subfield code="d">1969-</subfield>
@@ -150,7 +150,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "mehrere Personen mit Beziehungskennzeichnungen und Funktionsbezeichnung" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Wegner, Jochen</subfield>
             <subfield code="d">1969-</subfield>
@@ -184,7 +184,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "Person mit Zählung, Beinamen und Funktionsbezeichnung" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Alexius</subfield>
             <subfield code="n">I.</subfield>
@@ -210,7 +210,7 @@ describe Metacrunch::UBPB::Record::Person do
 
     context "Person mit nicht sortierrelevanten Worten" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="100" ind1="b" ind2="1">
             <subfield code="p">Rohr, Alheidis &lt;&lt;von&gt;&gt;</subfield>
             <subfield code="d">1940-</subfield>

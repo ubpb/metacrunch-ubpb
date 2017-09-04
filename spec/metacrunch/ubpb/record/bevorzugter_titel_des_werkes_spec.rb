@@ -3,7 +3,7 @@ require "metacrunch/ubpb/record/bevorzugter_titel_des_werkes"
 describe Metacrunch::UBPB::Record::BevorzugterTitelDesWerkes do
   describe "#get" do
     let(:document) do
-      Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+      Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
         <datafield tag="303" ind1="-" ind2="1">
           <subfield code="p">Rubinštejn, Anton G.</subfield>
           <subfield code="d">1829-1894</subfield>
@@ -29,7 +29,7 @@ describe Metacrunch::UBPB::Record::BevorzugterTitelDesWerkes do
 
     context "if omit: \"sortierirrelevante Worte\" was not given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="303" ind1="-" ind2="1">
             <subfield code="p">Zinczenko, David</subfield>
             <subfield code="t">&lt;&lt;The&gt;&gt; abs diet: the six-week plan to flatten your stomach</subfield>
@@ -44,7 +44,7 @@ describe Metacrunch::UBPB::Record::BevorzugterTitelDesWerkes do
 
     context "if omit: \"sortierirrelevante Worte\" was given" do
       let(:document) do
-        Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
           <datafield tag="303" ind1="-" ind2="1">
             <subfield code="p">Zinczenko, David</subfield>
             <subfield code="t">&lt;&lt;The&gt;&gt; abs diet: the six-week plan to flatten your stomach</subfield>

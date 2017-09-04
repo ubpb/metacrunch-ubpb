@@ -3,7 +3,7 @@ require "metacrunch/ubpb/record/art_des_inhalts"
 describe Metacrunch::UBPB::Record::ArtDesInhalts do
   describe "#get" do
     let(:document) do
-      Metacrunch::Mab2::Document.from_aleph_mab_xml xml_factory <<-xml.strip_heredoc
+      Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
         <datafield tag="064" ind1="a" ind2="1">
           <subfield code="a">Zeitschrift</subfield>
           <subfield code="x">Landesmuseum</subfield>
