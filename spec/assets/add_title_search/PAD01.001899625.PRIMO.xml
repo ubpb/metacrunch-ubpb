@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<get-record>
+  <reply-text>
+    ok
+  </reply-text>
+  <reply-code>
+    0000
+  </reply-code>
+  <record>
+    <info type='Items' href='http://ubtest.uni-paderborn.de:1891/rest-dlf/record/PAD01001899625/items'/>
+    <info type='Holdings' href='http://ubtest.uni-paderborn.de:1891/rest-dlf/record/PAD01001899625/holdings'/>
+    <info type='Filters' href='http://ubtest.uni-paderborn.de:1891/rest-dlf/record/PAD01001899625/filters'/>
+    <leader>
+      01241nM2.01200024------h
+    </leader>
+    <datafield tag='001' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        HT019274437
+      </subfield>
+    </datafield>
+    <datafield tag='002' ind1='a' ind2=' '>
+      <subfield code='a'>
+        20170321
+      </subfield>
+    </datafield>
+    <datafield tag='003' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        20170803
+      </subfield>
+    </datafield>
+    <datafield tag='026' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        HBZHT019274437
+      </subfield>
+    </datafield>
+    <controlfield tag='030'>
+      a|zurr|||||37
+    </controlfield>
+    <datafield tag='036' ind1='a' ind2=' '>
+      <subfield code='a'>
+        US
+      </subfield>
+    </datafield>
+    <datafield tag='037' ind1='b' ind2=' '>
+      <subfield code='a'>
+        eng
+      </subfield>
+    </datafield>
+    <controlfield tag='050'>
+      |||||cd|||||||
+    </controlfield>
+    <controlfield tag='051'>
+      s|||||||
+    </controlfield>
+    <datafield tag='060' ind1=' ' ind2=' '>
+      <subfield code='b'>
+        tdi
+      </subfield>
+    </datafield>
+    <datafield tag='061' ind1=' ' ind2=' '>
+      <subfield code='b'>
+        v
+      </subfield>
+    </datafield>
+    <datafield tag='062' ind1=' ' ind2=' '>
+      <subfield code='b'>
+        vd
+      </subfield>
+    </datafield>
+    <datafield tag='064' ind1='a' ind2=' '>
+      <subfield code='a'>
+        Film
+      </subfield>
+      <subfield code='9'>
+        (DE-588)4017102-4
+      </subfield>
+    </datafield>
+    <datafield tag='064' ind1='b' ind2=' '>
+      <subfield code='a'>
+        Blu-Ray-Disk
+      </subfield>
+      <subfield code='9'>
+        (DE-588)7597887-8
+      </subfield>
+    </datafield>
+    <datafield tag='070' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        466
+      </subfield>
+    </datafield>
+    <datafield tag='080' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        60
+      </subfield>
+    </datafield>
+    <datafield tag='100' ind1='b' ind2=' '>
+      <subfield code='p'>
+        Hawks, Howard
+      </subfield>
+      <subfield code='d'>
+        1896-1977
+      </subfield>
+      <subfield code='9'>
+        (DE-588)118547283
+      </subfield>
+      <subfield code='4'>
+        drt
+      </subfield>
+    </datafield>
+    <datafield tag='104' ind1='b' ind2=' '>
+      <subfield code='p'>
+        Grant, Cary
+      </subfield>
+      <subfield code='d'>
+        1904-1986
+      </subfield>
+      <subfield code='9'>
+        (DE-588)118541536
+      </subfield>
+      <subfield code='4'>
+        act
+      </subfield>
+    </datafield>
+    <datafield tag='108' ind1='b' ind2=' '>
+      <subfield code='p'>
+        Russell, Rosalind
+      </subfield>
+      <subfield code='d'>
+        1907-1976
+      </subfield>
+      <subfield code='9'>
+        (DE-588)132278723
+      </subfield>
+      <subfield code='4'>
+        act
+      </subfield>
+    </datafield>
+    <datafield tag='331' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        His girl Friday
+      </subfield>
+    </datafield>
+    <datafield tag='359' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        directed by Howard Hawks ; starring Cary Grant, Rosalind Russell
+      </subfield>
+    </datafield>
+    <datafield tag='362' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        &lt;&lt;The&gt;&gt; front page
+      </subfield>
+      <subfield code='v'>
+        Lewis Milestone
+      </subfield>
+    </datafield>
+    <datafield tag='377' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Sein Mädchen für besondere Fälle
+      </subfield>
+      <subfield code='y'>
+        ger
+      </subfield>
+    </datafield>
+    <datafield tag='377' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Reporter
+      </subfield>
+      <subfield code='c'>
+        Hecht, Ben
+      </subfield>
+      <subfield code='y'>
+        ger
+      </subfield>
+    </datafield>
+    <datafield tag='403' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Two-Blu-Ray special edition
+      </subfield>
+    </datafield>
+    <datafield tag='419' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        [New York, NY]
+      </subfield>
+      <subfield code='b'>
+        The Criterion Collection
+      </subfield>
+      <subfield code='c'>
+        [2017]
+      </subfield>
+    </datafield>
+    <datafield tag='425' ind1='a' ind2=' '>
+      <subfield code='a'>
+        2017
+      </subfield>
+    </datafield>
+    <datafield tag='433' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        2 Blu-Ray-Discs (92, 101 Minuten) : b&amp;w
+      </subfield>
+    </datafield>
+    <datafield tag='435' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        12 cm
+      </subfield>
+    </datafield>
+    <datafield tag='437' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        1 Beilage
+      </subfield>
+    </datafield>
+    <datafield tag='440' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        digital
+      </subfield>
+      <subfield code='g'>
+        Mono
+      </subfield>
+    </datafield>
+    <datafield tag='443' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Videodatei
+      </subfield>
+      <subfield code='b'>
+        Blu-ray
+      </subfield>
+      <subfield code='e'>
+        Region B
+      </subfield>
+    </datafield>
+    <datafield tag='451' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        &lt;&lt;The&gt;&gt; Criterion collection
+      </subfield>
+      <subfield code='v'>
+        849
+      </subfield>
+    </datafield>
+    <datafield tag='453' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        HT013219036
+      </subfield>
+    </datafield>
+    <datafield tag='455' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        849
+      </subfield>
+    </datafield>
+    <datafield tag='456' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        849
+      </subfield>
+    </datafield>
+    <datafield tag='501' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Plus: A Booklet featuring essays on His Girl Friday and The Front Page
+        by film critics Farran Smith Nehme and Michael Sragow
+      </subfield>
+    </datafield>
+    <datafield tag='501' ind1=' ' ind2=' '>
+      <subfield code='a'>
+        Bildformat 1.33:1
+      </subfield>
+    </datafield>
+    <datafield tag='516' ind1='a' ind2=' '>
+      <subfield code='p'>
+        Sprache
+      </subfield>
+      <subfield code='a'>
+        Englisch
+      </subfield>
+    </datafield>
+  </record>
+</get-record>

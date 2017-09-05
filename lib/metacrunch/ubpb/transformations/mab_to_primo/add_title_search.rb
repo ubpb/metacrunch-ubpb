@@ -40,6 +40,11 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddTitleSearch < Metacrunch
       search_titles << _früherer_titel
     end
 
+    # übersetzter Titel (RDA)
+    source.datafields('377').each do |datafield|
+      search_titles << datafield.subfields('a').value
+    end
+
     source.get("Angaben zum Inhalt").each do |element|
       search_titles << element.get("Titel")
     end
