@@ -153,5 +153,235 @@ describe Metacrunch::UBPB::Record::Beziehung do
         it { is_expected.to eq("trend management toolkit")}
       end
     end
+
+    context "if datafield is 770" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='770' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Sonderpubl.
+            </subfield>
+            <subfield code='a'>
+              INTERKAMA
+            </subfield>
+            <subfield code='t'>
+              &lt;&lt;Der&gt;&gt; Interkama-Messeführer
+            </subfield>
+            <subfield code='d'>
+              München : Oldenbourg, 1989-
+            </subfield>
+            <subfield code='9'>
+              HT012608177
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Sonderpubl.: Der Interkama-Messeführer / INTERKAMA") }
+    end
+
+    context "if datafield is 772" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='772' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Beil. zu:
+            </subfield>
+            <subfield code='t'>
+              Automatisierungstechnik
+            </subfield>
+            <subfield code='d'>
+              Berlin ; Boston, Mass. : de @Gruyter, Oldenbourg, 1985-
+            </subfield>
+            <subfield code='x'>
+              0178-2312
+            </subfield>
+            <subfield code='9'>
+              HT002184071
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Beil. zu: Automatisierungstechnik.- ISSN 0178-2312") }
+    end
+
+    context "if datafield is 775" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='775' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Parallele Sprachausgabe
+            </subfield>
+            <subfield code='n'>
+              französisch
+            </subfield>
+            <subfield code='a'>
+              Ionesco, Dina
+            </subfield>
+            <subfield code='t'>
+              Atlas des migrations environnementales
+            </subfield>
+            <subfield code='z'>
+              978-2-7246-1655-2
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Parallele Sprachausgabe französisch: Atlas des migrations environnementales / Ionesco, Dina.- ISBN 978-2-7246-1655-2") }
+    end
+
+    context "if datafield is 776" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='776' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Online-Ausg.
+            </subfield>
+            <subfield code='t'>
+              Automatisierungstechnik
+            </subfield>
+            <subfield code='d'>
+              Berlin : De Gruyter, 1985-
+            </subfield>
+            <subfield code='h'>
+              Online-Ressource
+            </subfield>
+            <subfield code='x'>
+              2196-677X
+            </subfield>
+            <subfield code='9'>
+              HT013018339
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Online-Ausg.: Automatisierungstechnik.- ISSN 2196-677X") }
+    end
+
+    context "if datafield is 777" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='777' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Auf Disk mit
+            </subfield>
+            <subfield code='a'>
+              Milestone, Lewis
+            </subfield>
+            <subfield code='t'>
+              &lt;&lt;The&gt;&gt; front page
+            </subfield>
+            <subfield code='d'>
+              Rockport, MA, Synergy Entertainment, 2007
+            </subfield>
+            <subfield code='9'>
+              KK000027236
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Auf Disk mit: The front page / Milestone, Lewis") }
+    end
+
+    context "if datafield is 780" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='780' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Ab 1991 teils darin aufgeg.
+            </subfield>
+            <subfield code='t'>
+              Messen, Steuern, Regeln
+            </subfield>
+            <subfield code='d'>
+              München : Oldenbourg, 1963-1991
+            </subfield>
+            <subfield code='x'>
+              0026-0347
+            </subfield>
+            <subfield code='A'>
+              0
+            </subfield>
+            <subfield code='9'>
+              HT002717481
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Ab 1991 teils darin aufgeg.: Messen, Steuern, Regeln.- ISSN 0026-0347") }
+    end
+
+    context "if datafield is 785" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+          <datafield tag='785' ind1=' ' ind2=' '>
+            <subfield code='i'>
+              Forts.:
+            </subfield>
+            <subfield code='t'>
+              Atp-Edition
+            </subfield>
+            <subfield code='d'>
+              München : DIV Dt. Industrieverl., 2009-
+            </subfield>
+            <subfield code='x'>
+              2190-4111
+            </subfield>
+            <subfield code='A'>
+              0
+            </subfield>
+            <subfield code='9'>
+              HT016138735
+            </subfield>
+          </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Forts.: Atp-Edition.- ISSN 2190-4111") }
+    end
+
+    context "if datafield is 787" do
+      let(:document) do
+        Metacrunch::Mab2::Document.from_mab_xml xml_factory <<-xml.strip_heredoc
+         <datafield tag='787' ind1=' ' ind2=' '>
+           <subfield code='i'>
+             Ergänzung
+           </subfield>
+           <subfield code='a'>
+             Jürgen Weber, 1953-
+           </subfield>
+           <subfield code='t'>
+             Einführung in das Controlling - Übungen und Fallstudien mit Lösungen
+           </subfield>
+           <subfield code='9'>
+             HT018991407
+           </subfield>
+         </datafield>
+        xml
+      end
+
+      subject { element.get }
+
+      it { is_expected.to eq("Ergänzung: Einführung in das Controlling - Übungen und Fallstudien mit Lösungen / Jürgen Weber, 1953-") }
+    end
   end
 end

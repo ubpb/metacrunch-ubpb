@@ -3,16 +3,22 @@ require_relative "./element"
 class Metacrunch::UBPB::Record::Beziehung < Metacrunch::UBPB::Record::Element
   SUBFIELDS = {
     p: { "Beziehungskennzeichnung" => :W },
+    i: { "Beziehungskennzeichnung" => :W },
     n: { "Bemerkung" => :W },
     a: {
       "Titel" => :NW,
-      "Titel der in Beziehung stehenden Ressource" => :NW 
+      "Titel der in Beziehung stehenden Ressource" => :NW,
+      "Geistiger Schöpfer" => :NW
+    },
+    t: {
+      "Titel der in Beziehung stehenden Ressource" => :NW
     },
     "9": {
       "Identifikationsnummer" => :NW,
       "Identifikationsnummer des Datensatzes der in Beziehung stehenden Ressource" => :NW
     },
-    Z: { "Zuordnung zum originalschriftlichen Feld" => :NW }
+    x: { "ISSN" => :NW },
+    z: { "ISBN" => :NW }
   }
 
   def get(*args)
@@ -26,22 +32,26 @@ class Metacrunch::UBPB::Record::Beziehung < Metacrunch::UBPB::Record::Element
   private
 
   def default_value(options = {})
-    [
-      [
-        get("Beziehungskennzeichnung").try(:first), # there are no real examples with more than one of it
-        get("Bemerkung").try(:first)
-      ]
-      .compact
-      .join(" ")
-      .presence,
-      get("Titel der in Beziehung stehenden Ressource")
-    ]
-    .compact
-    .join(": ")
-    .presence
-    .try do |result|
-      sanitize(result)
-    end
+    einleitung = [
+      get("Beziehungskennzeichnung").compact.join(". "),
+      get("Bemerkung").compact.join(". ")
+    ].compact.join(" ").presence
+
+    titel = get("Titel der in Beziehung stehenden Ressource").presence
+
+    geistiger_schöpfer = get("Geistiger Schöpfer").presence
+    geistiger_schöpfer = nil if titel && geistiger_schöpfer == titel
+
+    isbn = get("ISBN").presence
+    issn = get("ISSN").presence
+
+    result = einleitung
+    result = join(result, titel, separator: ": ")
+    result = join(result, geistiger_schöpfer, separator: titel.present? ? " / " : " ")
+    result = join(result, isbn, separator: titel.present? ? ".- ISBN " : " ISBN ")
+    result = join(result, issn, separator: titel.present? ? ".- ISSN " : " ISSN ")
+
+    result.presence
   end
 
   def sanitize(value)
@@ -51,6 +61,18 @@ class Metacrunch::UBPB::Record::Beziehung < Metacrunch::UBPB::Record::Element
       .gsub(/\.\s*\:/, ".:")
       .gsub(/:*\s*:/, ":")
       .strip
+    end
+  end
+
+  def join(memo, string, separator: "")
+    if string.blank?
+      memo
+    else
+      if memo.present?
+        memo + separator + string
+      else
+        string
+      end
     end
   end
 end

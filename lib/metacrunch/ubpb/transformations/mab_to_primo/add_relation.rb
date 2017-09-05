@@ -50,6 +50,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddRelation < Metacrunch::T
       "übergeordnete Einheiten der Beilage",
       "Vorgänger",
       "Nachfolger",
+      "erschienen mit",
       "sonstige Beziehungen"
     ]
     .each do |property|

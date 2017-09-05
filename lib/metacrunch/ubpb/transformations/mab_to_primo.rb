@@ -78,6 +78,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddSecondaryFormIsbn,
     AddSecondaryFormPhysicalDescription,
     AddSecondaryFormSuperorder,
+    AddSecondaryFormRelation,
     AddLocalComment,
     AddAdditionalData,
     AddSuperorderDisplayForSammlungSchmoll,
