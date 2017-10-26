@@ -34,7 +34,11 @@ def decode_json!(object)
   end
 end
 
-open(url) { |io| data = io.read }
+if record_id =~ /\A\d{9}\z/
+  open(url) { |io| data = io.read }
+else
+  data = File.read(record_id)
+end
 
 result = mab2primo.call(data)
 decode_json!(result)
