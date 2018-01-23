@@ -29,8 +29,10 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddDescription < Metacrunch
       descriptions << source.datafields("#{f}", ind2: '1').map { |_field| _field.subfields(['p', 'a']).values.join(': ') }
     end
 
-    # RDA
-    source.datafields('520').each do |_field| # Hochschulschriftenvermerk
+    #
+    # RDA - Hochschulschriftenvermerk
+    #
+    source.datafields('520').each do |_field| #
       charakter_der_hochschulschrift       = _field.subfields('b').value
       name_der_institution_oder_fakultät   = _field.subfields('c').value
       jahr_in_dem_der_grad_verliehen_wurde = _field.subfields('d').value
@@ -53,6 +55,29 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddDescription < Metacrunch
 
     unless kind_of?("Zeitschrift")
       descriptions << source.get("redaktionelle Bemerkungen").map(&:get)
+    end
+
+    #
+    # RDA - Angaben zum Inhalt (Zeitschriften)
+    #
+    source.datafields('521').each do |field|
+      a = field.subfields('a').value&.presence
+      descriptions << a if a
+    end
+
+    #
+    # RDA - Angaben zum Inhalt (Monos)
+    # ** MUSS AM ENDE STEHEN **
+    #
+    enthaltene_werke = source.datafields('521').map do |field|
+      t = field.subfields('t').value&.presence
+      r = field.subfields('r').value&.presence
+      tr = [t,r].compact.join(" / ").presence
+    end.compact
+
+    if enthaltene_werke.count > 0
+      descriptions << "Enthaltene Werke:"
+      descriptions += enthaltene_werke
     end
 
     # Finally...
