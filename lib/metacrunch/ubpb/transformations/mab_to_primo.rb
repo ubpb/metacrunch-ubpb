@@ -84,6 +84,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddSuperorderDisplayForSammlungSchmoll,
     AddSuperorderDisplayForSammlungPeters,
     AddSource,
-    AddJournalStock
+    AddJournalStock,
+    AddResourceLinks
   ]
 end
