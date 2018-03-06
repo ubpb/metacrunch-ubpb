@@ -2,6 +2,9 @@ require "metacrunch/hash"
 require "metacrunch/transformator/transformation/step"
 require_relative "../mab_to_primo"
 
+#
+# DEPRECATED: USE AddResourceLinks
+#
 class Metacrunch::UBPB::Transformations::MabToPrimo::AddLinkToToc < Metacrunch::Transformator::Transformation::Step
   def call
     target ? Metacrunch::Hash.add(target, "link_to_toc", link_to_toc) : link_to_toc
@@ -27,4 +30,5 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddLinkToToc < Metacrunch::
 
     toc_links.compact.presence
   end
+
 end
