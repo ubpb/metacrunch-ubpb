@@ -1,17 +1,16 @@
 #!/usr/bin/env ruby
 require "bundler/setup"
 require "metacrunch/ubpb"
-
+require "sequel"
 require "open-uri"
 require "rexml/document"
 begin require "pry" rescue LoadError ; end
 
-record_id      = ARGV[0]
-aleph_base_url = ENV["ALEPH_BASE_URL"] || "http://ubex.uni-paderborn.de:1891"
-url            = "#{aleph_base_url}/rest-dlf/record/PAD01#{record_id}?view=full"
-data           = nil
-mab2primo      = Metacrunch::UBPB::Transformations::MabToPrimo.new
-primo2es       = Metacrunch::UBPB::Transformations::PrimoToElasticsearch.new
+logger    = Logger.new(STDOUT)
+db        = Sequel.oracle("aleph22", user: "padview", password: ENV["PASSWORD"], host: "localhost", port: "1521", logger: logger)
+record_id = ARGV[0]
+mab2primo = Metacrunch::UBPB::Transformations::MabToPrimo.new
+primo2es  = Metacrunch::UBPB::Transformations::PrimoToElasticsearch.new
 
 def decode_json!(object)
   case object
@@ -35,15 +34,18 @@ def decode_json!(object)
 end
 
 if record_id =~ /\A\d{9}\z/
-  open(url) { |io| data = io.read }
+  dataset = db.from(Sequel[:pad50][:z00p]).where(z00p_doc_number: record_id)
+  record = dataset.first
+  data = record[:z00p_str].presence || record[:z00p_ptr].presence
+
+  result = mab2primo.call(data)
+  decode_json!(result)
+  result = primo2es.call(result)
+
+  REXML::Document.new(data).write($stdout, 2)
+  puts "\n----------------------------------"
+  puts JSON.pretty_generate(result)
 else
-  data = File.read(record_id)
+  puts "Invalid record ID"
 end
 
-result = mab2primo.call(data)
-decode_json!(result)
-result = primo2es.call(result)
-
-REXML::Document.new(data).write($stdout, 2)
-puts "\n----------------------------------"
-puts JSON.pretty_generate(result)
