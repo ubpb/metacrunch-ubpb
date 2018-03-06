@@ -34,19 +34,14 @@ private
 
     source.datafields('655', ind1: 'e').each do |datafield|
       subfield_u = datafield.subfields('u').value # URL
-      #subfield_3 = datafield.subfields('3').value # Label
       subfield_A = datafield.subfields('A').value # nil || != 2 => Ist ein Volltextlink
 
       if subfield_u.present? && subfield_A != "2"
         links << subfield_u
-        #links << {
-        #  label: subfield_3,
-        #  url: subfield_u
-        #}
       end
     end
 
-    links.uniq{|link| link[:url]}
+    links.uniq
   end
 
 end
