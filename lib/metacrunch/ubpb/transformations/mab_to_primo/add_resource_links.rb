@@ -14,14 +14,14 @@ private
     links = []
 
     source.datafields('655', ind1: 'e').each do |datafield|
-      subfield_u = datafield.subfields('u').value # URL
-      subfield_3 = datafield.subfields('3').value # Label
+      url        = datafield.subfields('u').value # URL
+      label      = datafield.subfields('y').value || datafield.subfields('3').value # Label
       subfield_A = datafield.subfields('A').value # 2 = Gehört zum Werk, z.B. Inhaltsverzeichnis, Vorwort, etc.
 
-      if subfield_u.present? && subfield_3.present? && subfield_A == "2"
+      if url.present? && label.present? && (subfield_A == "2" || label.match?(/inhalt/i))
         links << {
-          label: subfield_3,
-          url: subfield_u
+          label: label,
+          url: url
         }
       end
     end
@@ -33,11 +33,12 @@ private
     links = []
 
     source.datafields('655', ind1: 'e').each do |datafield|
-      subfield_u = datafield.subfields('u').value # URL
+      url        = datafield.subfields('u').value # URL
+      label      = datafield.subfields('y').value || datafield.subfields('3').value # Label
       subfield_A = datafield.subfields('A').value # nil || != 2 => Ist ein Volltextlink
 
-      if subfield_u.present? && subfield_A != "2"
-        links << subfield_u
+      if url.present? && subfield_A != "2" && !label&.match?(/inhalt/i)
+        links << url
       end
     end
 
