@@ -18,7 +18,7 @@ private
       label      = datafield.subfields('y').value || datafield.subfields('3').value # Label
       subfield_A = datafield.subfields('A').value # 2 = Gehört zum Werk, z.B. Inhaltsverzeichnis, Vorwort, etc.
 
-      if url.present? && label.present? && (subfield_A == "2" || label.match?(/inhalt/i))
+      if url.present? && label.present? && (subfield_A == "2" || label.match(/inhalt/i))
         links << {
           label: label,
           url: url
@@ -37,7 +37,7 @@ private
       label      = datafield.subfields('y').value || datafield.subfields('3').value # Label
       subfield_A = datafield.subfields('A').value # nil || != 2 => Ist ein Volltextlink
 
-      if url.present? && subfield_A != "2" && !label&.match?(/inhalt/i)
+      if url.present? && subfield_A != "2" && !label&.match(/inhalt/i)
         links << url
       end
     end
