@@ -17,7 +17,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSuperorderDisplayForSamm
     if signature_search.include?("ZZVW1009")
       superorders << {
         ht_number: nil,
-        label: "Sammlung Wolff",
+        label: "Bibliothek Ludwig Wolff",
         volume_count: nil,
         label_additions: nil
       }
