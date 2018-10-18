@@ -24,12 +24,18 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSuperorder < Metacrunch:
     superorders << f623 if f623.present?
     superorders << f629 if f629.present?
 
+    #
+    # Laut KV ist die Verwendung von 649 hier falsch, da sich 649 in RDA nur auf gleichwertige
+    # andere Ausgaben bezieht und nicht auf Überordnungen. Dies sollte das Problem der falschen
+    # Links auf die elektronische Ausgabe korrigieren. Wir lassen den Eintrag auskommentiert drin
+    # zu Dokumentationszwecken.
+    #
     # RDA
-    source.datafields("649", ind2: "1").each do |_datafield|
-      if identifikationsnummer = _datafield.subfields("9").value
-        superorders << identifikationsnummer
-      end
-    end
+    #source.datafields("649", ind2: "1").each do |_datafield|
+    #  if identifikationsnummer = _datafield.subfields("9").value
+    #    superorders << identifikationsnummer
+    #  end
+    #end
 
     superorders.flatten.map(&:presence).compact
   end
