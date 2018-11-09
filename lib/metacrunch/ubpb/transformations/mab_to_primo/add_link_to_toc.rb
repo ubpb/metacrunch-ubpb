@@ -28,7 +28,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddLinkToToc < Metacrunch::
       end
     end
 
-    toc_links.compact.presence.uniq
+    toc_links.compact.uniq.presence
   end
 
 end
