@@ -11,24 +11,26 @@ class Metacrunch::UBPB::Transformations::PrimoToElasticsearch::AddIsbnSearch < M
   private
 
   def isbn_search
-    isbns.map do |_isbn|
-      source_isbn_without_dashes =_isbn.gsub("-", "")
+    search_isbns = []
 
-      isbn_10_without_dashes = ISBN.as_ten(source_isbn_without_dashes) rescue RuntimeError 
-      isbn_13_without_dashes = ISBN.as_thirteen(source_isbn_without_dashes) rescue RuntimeError
-      isbn_10_with_dashes = ISBN.with_dashes(isbn_10_without_dashes) rescue RuntimeError
-      isbn_13_with_dashes = ISBN.with_dashes(isbn_13_without_dashes) rescue RuntimeError
+    isbns.each do |isbn|
+      search_isbns << isbn
 
-      [
-        source_isbn_without_dashes,
-        isbn_10_without_dashes,
-        isbn_13_without_dashes
-      ]
+      isbn_no_dashes = isbn.gsub("-", "")
+      search_isbns << isbn_no_dashes
+
+      isbn_10 = begin
+        ISBN.as_ten(isbn_no_dashes)
+      rescue RuntimeError ; nil end
+      search_isbns << isbn_10 if isbn_10
+
+      isbn_13 = begin
+        ISBN.as_thirteen(isbn_no_dashes)
+      rescue RuntimeError ; nil end
+      search_isbns << isbn_13 if isbn_13
     end
-    .flatten
-    .compact
-    .uniq
-    .presence
+
+    search_isbns.uniq
   end
 
   def isbns
