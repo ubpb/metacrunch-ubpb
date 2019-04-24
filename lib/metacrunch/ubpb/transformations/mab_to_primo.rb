@@ -85,6 +85,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddSuperorderDisplayForSammlungPeters,
     AddSuperorderDisplayForSammlungWolff,
     AddSuperorderDisplayForSammlungBelgien,
+    AddSuperorderDisplayForJacquesDeDecker,
     AddSource,
     AddJournalStock,
     AddResourceLinks
