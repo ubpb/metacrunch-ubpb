@@ -17,7 +17,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddSuperorderDisplayForSamm
     if signature_search.include?("ZZVB1004")
       superorders << {
         ht_number: nil,
-        label: "Sammlung Belgien (Dona Belgische Botschaft)",
+        label: "Sammlung Belgien",
         volume_count: nil,
         label_additions: nil
       }
