@@ -11,11 +11,11 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddCreatorContributorSearch
 
   def creator_contributor_search
     [
-      source.get("Körperschaften").map(&:get),
-      source.get("Körperschaften (Phrasenindex)").map(&:get),
-      source.get("Personen").map(&:get),
-      source.get("Personen (Phrasenindex)").map(&:get),
-      source.get("Personen der Nebeneintragungen").map(&:get)
+      source.get("Körperschaften", include: "Überordnungen").map(&:get),
+      source.get("Körperschaften (Phrasenindex)", include: "Überordnungen").map(&:get),
+      source.get("Personen", include: "Überordnungen").map(&:get),
+      source.get("Personen (Phrasenindex)", include: "Überordnungen").map(&:get),
+      source.get("Personen der Nebeneintragungen", include: "Überordnungen").map(&:get)
     ]
     .flatten
     .compact
