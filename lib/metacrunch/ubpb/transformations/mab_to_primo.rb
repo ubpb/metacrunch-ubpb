@@ -47,6 +47,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddIsbn,
     AddIssn,
     AddZdbId,
+    AddOclcId,
     AddSubject,
     AddSubjectSearch,
     AddDDC,
