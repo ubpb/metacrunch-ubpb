@@ -24,6 +24,7 @@ class Metacrunch::UBPB::Transformations::MabToPrimo < Metacrunch::Transformator:
     AddId,
     AddStatus,
     AddHtNumber,
+    AddCollectionCode,
     AddCreationDate,
     AddMaterialtyp,
     AddInhaltstyp,
