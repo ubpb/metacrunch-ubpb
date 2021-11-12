@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "metacrunch-mab2", github: "ubpb/metacrunch-mab2", branch: "heads/v1.3.1"
+gem "metacrunch-mab2", "~> 1.3.2", github: "ubpb/metacrunch-marcxml", branch: 'v1.3'
 
 group :development do
   gem "bundler",      ">= 1.7"
@@ -11,6 +11,7 @@ group :development do
   gem "simplecov",    ">= 0.11.0"
   gem "ruby-oci8",    "~> 2.0"
   gem "sequel",       "~> 5.5"
+  gem "rexml",        "~> 3.2"
 
   if !ENV["CI"]
     gem "pry-byebug", ">= 3.5.0"
