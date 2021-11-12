@@ -27,7 +27,8 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock < Metacrunc
         "(Sonder-) Standort (NW)" => datafield.subfields("g").value,
         "(Sonder-) Standortsignatur (NW)" => datafield.subfields("h").value,
         "Ausleihindikator (NW)" => datafield.subfields("m").value,
-        "SUBITO-Lieferbedingungen (NW)" => datafield.subfields("n").value
+        "SUBITO-Lieferbedingungen (NW)" => datafield.subfields("n").value,
+        "Location" => datafield.subfields("g").value
       }
     end
     .sort do |a,b|
@@ -39,7 +40,8 @@ class Metacrunch::UBPB::Transformations::MabToPrimo::AddJournalStock < Metacrunc
         leading_text: field.fetch("Einleitender Text (NW)").try(:sub, /\A-\s+/, ""), # remove "- " which is sometimes prepended
         gaps: field.fetch("Lückenangabe (allgemein) (NW)").try(:sub, /\A\[N=/, "").try(:sub, /\]\Z/, "").try(:split, ";").try(:map, &:strip),
         stock: field.fetch("Zusammenfassende Bestandsangabe (NW)").try(:split, ";").try(:map, &:strip),
-        signature: field.fetch("Magazin- / Grundsignatur (NW)").try(:gsub, /\s/, "")
+        signature: field.fetch("Magazin- / Grundsignatur (NW)").try(:gsub, /\s/, ""),
+        location: field.fetch("Location").try(:gsub, /P/i, "")
       }
     end
     .presence
